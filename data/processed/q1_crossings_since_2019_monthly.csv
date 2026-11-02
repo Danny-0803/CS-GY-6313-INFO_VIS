@@ -1,0 +1,187 @@
+month,group,traffic_count,index_2024_avg_100
+2019-01-01,MTA tunnels into the zone,1946689,84.3
+2019-01-01,Other MTA crossings (not into the zone),18335088,76.7
+2019-02-01,MTA tunnels into the zone,1867189,80.8
+2019-02-01,Other MTA crossings (not into the zone),17222670,72.1
+2019-03-01,MTA tunnels into the zone,2189753,94.8
+2019-03-01,Other MTA crossings (not into the zone),20088607,84.1
+2019-04-01,MTA tunnels into the zone,2119709,91.8
+2019-04-01,Other MTA crossings (not into the zone),20213560,84.6
+2019-05-01,MTA tunnels into the zone,2245033,97.2
+2019-05-01,Other MTA crossings (not into the zone),21642359,90.6
+2019-06-01,MTA tunnels into the zone,2218398,96.0
+2019-06-01,Other MTA crossings (not into the zone),21335086,89.3
+2019-07-01,MTA tunnels into the zone,2141759,92.7
+2019-07-01,Other MTA crossings (not into the zone),21498387,90.0
+2019-08-01,MTA tunnels into the zone,2209985,95.7
+2019-08-01,Other MTA crossings (not into the zone),21871553,91.5
+2019-09-01,MTA tunnels into the zone,2138511,92.6
+2019-09-01,Other MTA crossings (not into the zone),20521765,85.9
+2019-10-01,MTA tunnels into the zone,2225297,96.3
+2019-10-01,Other MTA crossings (not into the zone),20643838,86.4
+2019-11-01,MTA tunnels into the zone,2092664,90.6
+2019-11-01,Other MTA crossings (not into the zone),19820072,83.0
+2019-12-01,MTA tunnels into the zone,2090120,90.5
+2019-12-01,Other MTA crossings (not into the zone),19788461,82.8
+2020-01-01,MTA tunnels into the zone,1970622,85.3
+2020-01-01,Other MTA crossings (not into the zone),18632375,78.0
+2020-02-01,MTA tunnels into the zone,1949103,84.4
+2020-02-01,Other MTA crossings (not into the zone),17941981,75.1
+2020-03-01,MTA tunnels into the zone,1346048,58.3
+2020-03-01,Other MTA crossings (not into the zone),14023054,58.7
+2020-04-01,MTA tunnels into the zone,525122,22.7
+2020-04-01,Other MTA crossings (not into the zone),7431811,31.1
+2020-05-01,MTA tunnels into the zone,865001,37.4
+2020-05-01,Other MTA crossings (not into the zone),11419354,47.8
+2020-06-01,MTA tunnels into the zone,1322052,57.2
+2020-06-01,Other MTA crossings (not into the zone),15074169,63.1
+2020-07-01,MTA tunnels into the zone,1583888,68.6
+2020-07-01,Other MTA crossings (not into the zone),17563409,73.5
+2020-08-01,MTA tunnels into the zone,1716678,74.3
+2020-08-01,Other MTA crossings (not into the zone),18271313,76.5
+2020-09-01,MTA tunnels into the zone,1773353,76.8
+2020-09-01,Other MTA crossings (not into the zone),17826430,74.6
+2020-10-01,MTA tunnels into the zone,1873937,81.1
+2020-10-01,Other MTA crossings (not into the zone),18044253,75.5
+2020-11-01,MTA tunnels into the zone,1674202,72.5
+2020-11-01,Other MTA crossings (not into the zone),16211962,67.9
+2020-12-01,MTA tunnels into the zone,1614054,69.9
+2020-12-01,Other MTA crossings (not into the zone),18767751,78.5
+2021-01-01,MTA tunnels into the zone,1533093,66.4
+2021-01-01,Other MTA crossings (not into the zone),18256929,76.4
+2021-02-01,MTA tunnels into the zone,1375059,59.5
+2021-02-01,Other MTA crossings (not into the zone),15766537,66.0
+2021-03-01,MTA tunnels into the zone,1899409,82.2
+2021-03-01,Other MTA crossings (not into the zone),20898646,87.5
+2021-04-01,MTA tunnels into the zone,1856637,80.4
+2021-04-01,Other MTA crossings (not into the zone),21482204,89.9
+2021-05-01,MTA tunnels into the zone,2021276,87.5
+2021-05-01,Other MTA crossings (not into the zone),23166419,97.0
+2021-06-01,MTA tunnels into the zone,2148457,93.0
+2021-06-01,Other MTA crossings (not into the zone),23931695,100.2
+2021-07-01,MTA tunnels into the zone,2132353,92.3
+2021-07-01,Other MTA crossings (not into the zone),24157422,101.1
+2021-08-01,MTA tunnels into the zone,2184871,94.6
+2021-08-01,Other MTA crossings (not into the zone),24154278,101.1
+2021-09-01,MTA tunnels into the zone,2171827,94.0
+2021-09-01,Other MTA crossings (not into the zone),23059300,96.5
+2021-10-01,MTA tunnels into the zone,2378970,103.0
+2021-10-01,Other MTA crossings (not into the zone),23817969,99.7
+2021-11-01,MTA tunnels into the zone,2237893,96.9
+2021-11-01,Other MTA crossings (not into the zone),22764115,95.3
+2021-12-01,MTA tunnels into the zone,2164394,93.7
+2021-12-01,Other MTA crossings (not into the zone),22089156,92.5
+2022-01-01,MTA tunnels into the zone,1798125,77.8
+2022-01-01,Other MTA crossings (not into the zone),18755387,78.5
+2022-02-01,MTA tunnels into the zone,2016760,87.3
+2022-02-01,Other MTA crossings (not into the zone),19792309,82.8
+2022-03-01,MTA tunnels into the zone,2363563,102.3
+2022-03-01,Other MTA crossings (not into the zone),23039232,96.4
+2022-04-01,MTA tunnels into the zone,2328886,100.8
+2022-04-01,Other MTA crossings (not into the zone),23164597,97.0
+2022-05-01,MTA tunnels into the zone,2414148,104.5
+2022-05-01,Other MTA crossings (not into the zone),24486144,102.5
+2022-06-01,MTA tunnels into the zone,2403158,104.0
+2022-06-01,Other MTA crossings (not into the zone),24453115,102.3
+2022-07-01,MTA tunnels into the zone,2324074,100.6
+2022-07-01,Other MTA crossings (not into the zone),24487264,102.5
+2022-08-01,MTA tunnels into the zone,2409956,104.3
+2022-08-01,Other MTA crossings (not into the zone),24806730,103.8
+2022-09-01,MTA tunnels into the zone,2338550,101.2
+2022-09-01,Other MTA crossings (not into the zone),23825068,99.7
+2022-10-01,MTA tunnels into the zone,2421234,104.8
+2022-10-01,Other MTA crossings (not into the zone),23890619,100.0
+2022-11-01,MTA tunnels into the zone,2256407,97.7
+2022-11-01,Other MTA crossings (not into the zone),22765103,95.3
+2022-12-01,MTA tunnels into the zone,2261751,97.9
+2022-12-01,Other MTA crossings (not into the zone),22902713,95.9
+2023-01-01,MTA tunnels into the zone,2152471,93.2
+2023-01-01,Other MTA crossings (not into the zone),21814328,91.3
+2023-02-01,MTA tunnels into the zone,2035308,88.1
+2023-02-01,Other MTA crossings (not into the zone),20185018,84.5
+2023-03-01,MTA tunnels into the zone,2377862,102.9
+2023-03-01,Other MTA crossings (not into the zone),23525274,98.5
+2023-04-01,MTA tunnels into the zone,2276898,98.6
+2023-04-01,Other MTA crossings (not into the zone),23215665,97.2
+2023-05-01,MTA tunnels into the zone,2428877,105.1
+2023-05-01,Other MTA crossings (not into the zone),25267277,105.8
+2023-06-01,MTA tunnels into the zone,2407756,104.2
+2023-06-01,Other MTA crossings (not into the zone),24949132,104.4
+2023-07-01,MTA tunnels into the zone,2333875,101.0
+2023-07-01,Other MTA crossings (not into the zone),25064354,104.9
+2023-08-01,MTA tunnels into the zone,2398153,103.8
+2023-08-01,Other MTA crossings (not into the zone),25260054,105.7
+2023-09-01,MTA tunnels into the zone,2338165,101.2
+2023-09-01,Other MTA crossings (not into the zone),23489576,98.3
+2023-10-01,MTA tunnels into the zone,2483056,107.5
+2023-10-01,Other MTA crossings (not into the zone),24417314,102.2
+2023-11-01,MTA tunnels into the zone,2293457,99.3
+2023-11-01,Other MTA crossings (not into the zone),23412759,98.0
+2023-12-01,MTA tunnels into the zone,2297811,99.5
+2023-12-01,Other MTA crossings (not into the zone),23462248,98.2
+2024-01-01,MTA tunnels into the zone,2078131,90.0
+2024-01-01,Other MTA crossings (not into the zone),21472243,89.9
+2024-02-01,MTA tunnels into the zone,2081343,90.1
+2024-02-01,Other MTA crossings (not into the zone),21174881,88.6
+2024-03-01,MTA tunnels into the zone,2360370,102.2
+2024-03-01,Other MTA crossings (not into the zone),23725318,99.3
+2024-04-01,MTA tunnels into the zone,2282370,98.8
+2024-04-01,Other MTA crossings (not into the zone),23414558,98.0
+2024-05-01,MTA tunnels into the zone,2472247,107.0
+2024-05-01,Other MTA crossings (not into the zone),25155608,105.3
+2024-06-01,MTA tunnels into the zone,2384576,103.2
+2024-06-01,Other MTA crossings (not into the zone),25114854,105.1
+2024-07-01,MTA tunnels into the zone,2327954,100.8
+2024-07-01,Other MTA crossings (not into the zone),25100437,105.1
+2024-08-01,MTA tunnels into the zone,2354597,101.9
+2024-08-01,Other MTA crossings (not into the zone),25257976,105.7
+2024-09-01,MTA tunnels into the zone,2310628,100.0
+2024-09-01,Other MTA crossings (not into the zone),24213063,101.3
+2024-10-01,MTA tunnels into the zone,2500272,108.2
+2024-10-01,Other MTA crossings (not into the zone),24861116,104.1
+2024-11-01,MTA tunnels into the zone,2257509,97.7
+2024-11-01,Other MTA crossings (not into the zone),23348585,97.7
+2024-12-01,MTA tunnels into the zone,2311170,100.0
+2024-12-01,Other MTA crossings (not into the zone),23874531,99.9
+2025-01-01,MTA tunnels into the zone,2005095,86.8
+2025-01-01,Other MTA crossings (not into the zone),21915172,91.7
+2025-02-01,MTA tunnels into the zone,1933926,83.7
+2025-02-01,Other MTA crossings (not into the zone),20203707,84.6
+2025-03-01,MTA tunnels into the zone,2267244,98.1
+2025-03-01,Other MTA crossings (not into the zone),23985514,100.4
+2025-04-01,MTA tunnels into the zone,2310484,100.0
+2025-04-01,Other MTA crossings (not into the zone),23976459,100.4
+2025-05-01,MTA tunnels into the zone,2442720,105.7
+2025-05-01,Other MTA crossings (not into the zone),25532740,106.9
+2025-06-01,MTA tunnels into the zone,2339224,101.3
+2025-06-01,Other MTA crossings (not into the zone),25127740,105.2
+2025-07-01,MTA tunnels into the zone,2299139,99.5
+2025-07-01,Other MTA crossings (not into the zone),25634099,107.3
+2025-08-01,MTA tunnels into the zone,2368723,102.5
+2025-08-01,Other MTA crossings (not into the zone),25875926,108.3
+2025-09-01,MTA tunnels into the zone,2329362,100.8
+2025-09-01,Other MTA crossings (not into the zone),24359626,102.0
+2025-10-01,MTA tunnels into the zone,2412525,104.4
+2025-10-01,Other MTA crossings (not into the zone),24721196,103.5
+2025-11-01,MTA tunnels into the zone,2257942,97.7
+2025-11-01,Other MTA crossings (not into the zone),23565381,98.6
+2025-12-01,MTA tunnels into the zone,2216867,96.0
+2025-12-01,Other MTA crossings (not into the zone),23449295,98.1
+2026-01-01,MTA tunnels into the zone,1987108,86.0
+2026-01-01,Other MTA crossings (not into the zone),20932167,87.6
+2026-02-01,MTA tunnels into the zone,1819756,78.8
+2026-02-01,Other MTA crossings (not into the zone),19130383,80.1
+2026-03-01,MTA tunnels into the zone,2243878,97.1
+2026-03-01,Other MTA crossings (not into the zone),23838145,99.8
+2026-04-01,MTA tunnels into the zone,2189650,94.8
+2026-04-01,Other MTA crossings (not into the zone),23658367,99.0
+2026-05-01,MTA tunnels into the zone,2338200,101.2
+2026-05-01,Other MTA crossings (not into the zone),25204500,105.5
+2026-06-01,MTA tunnels into the zone,2303211,99.7
+2026-06-01,Other MTA crossings (not into the zone),25357331,106.1
+2026-07-01,MTA tunnels into the zone,2274095,98.4
+2026-07-01,Other MTA crossings (not into the zone),25296809,105.9
+2026-08-01,MTA tunnels into the zone,2098138,90.8
+2026-08-01,Other MTA crossings (not into the zone),25510324,106.8
+2026-09-01,MTA tunnels into the zone,2189395,94.8
+2026-09-01,Other MTA crossings (not into the zone),23829139,99.7

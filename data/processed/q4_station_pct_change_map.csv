@@ -1,0 +1,429 @@
+station_complex_id,station_complex,borough,latitude,longitude,area,pct_change_vs_2024_jan_sep_2025,pct_change_vs_2024_jan_sep_2026,ridership_jan_sep_2025,ridership_jan_sep_2026
+1,"Astoria-Ditmars Blvd (N,W)",Queens,40.775036,-73.91203,Outer boroughs,7.3,8.8,2646443.0,2714449.0
+10,"49 St (N,R,W)",Manhattan,40.7599,-73.98414,Inside the zone,11.7,21.8,5204571.0,5750417.0
+100,"Hewes St (M,J)",Brooklyn,40.70687,-73.95343,Outer boroughs,2.2,-0.1,505147.0,499908.0
+101,"Marcy Av (M,J,Z)",Brooklyn,40.70836,-73.957756,Outer boroughs,2.9,12.0,2195749.0,2418573.0
+103,"Bowery (J,Z)",Manhattan,40.72028,-73.99391,Inside the zone,11.4,24.3,724214.0,818615.0
+107,"Broad St (J,Z)",Manhattan,40.706474,-74.011055,Inside the zone,7.3,17.3,1049305.0,1161759.0
+108,Middle Village-Metropolitan Av (M),Queens,40.711395,-73.8896,Outer boroughs,4.4,6.6,669870.0,693378.0
+109,Fresh Pond Rd (M),Queens,40.706184,-73.895874,Outer boroughs,8.8,19.0,985639.0,1091718.0
+110,Forest Av (M),Queens,40.704422,-73.903076,Outer boroughs,4.5,17.8,758878.0,866534.0
+111,Seneca Av (M),Queens,40.702763,-73.90774,Outer boroughs,1.5,15.5,489986.0,567907.0
+113,Knickerbocker Av (M),Brooklyn,40.698666,-73.91971,Outer boroughs,11.5,27.7,733069.0,858083.0
+114,Central Av (M),Brooklyn,40.697857,-73.9274,Outer boroughs,4.8,21.3,674471.0,789194.0
+118,3 Av (L),Manhattan,40.73285,-73.98612,Inside the zone,11.7,15.3,1385292.0,1449068.0
+119,1 Av (L),Manhattan,40.730953,-73.98163,Inside the zone,21.6,25.1,5393742.0,5620214.0
+120,Bedford Av (L),Brooklyn,40.717304,-73.95687,Outer boroughs,14.2,20.0,7231991.0,7694636.0
+122,Graham Av (L),Brooklyn,40.714565,-73.94405,Outer boroughs,9.5,11.5,1810491.0,1862790.0
+123,Grand St (L),Brooklyn,40.711926,-73.94067,Outer boroughs,11.0,5.6,1268011.0,1220129.0
+124,Montrose Av (L),Brooklyn,40.70774,-73.93985,Outer boroughs,8.0,12.3,1350697.0,1394977.0
+125,Morgan Av (L),Brooklyn,40.706154,-73.93314,Outer boroughs,17.5,19.6,1527096.0,1569039.0
+126,Jefferson St (L),Brooklyn,40.706608,-73.92291,Outer boroughs,20.7,15.6,1956266.0,1903018.0
+127,DeKalb Av (L),Brooklyn,40.70381,-73.91843,Outer boroughs,14.6,13.1,2412911.0,2412530.0
+129,Halsey St (L),Queens,40.695602,-73.90408,Outer boroughs,27.3,20.3,1567032.0,1500289.0
+13,"28 St (R,W)",Manhattan,40.745495,-73.98869,Inside the zone,7.3,13.1,2341871.0,2500456.0
+130,Wilson Av (L),Brooklyn,40.688763,-73.904045,Outer boroughs,19.6,23.1,860022.0,883609.0
+131,Bushwick Av-Aberdeen St (L),Brooklyn,40.68283,-73.90525,Outer boroughs,5.8,9.6,454449.0,475571.0
+133,Atlantic Av (L),Brooklyn,40.675346,-73.9031,Outer boroughs,60.9,58.8,453894.0,453482.0
+134,Sutter Av (L),Brooklyn,40.66937,-73.90198,Outer boroughs,42.6,36.5,497123.0,482903.0
+135,Livonia Av (L),Brooklyn,40.66404,-73.90057,Outer boroughs,17.6,16.1,504377.0,504435.0
+136,New Lots Av (L),Brooklyn,40.658733,-73.89923,Outer boroughs,17.3,28.7,607281.0,673451.0
+137,East 105 St (L),Brooklyn,40.650574,-73.89948,Outer boroughs,4.2,15.5,446386.0,500704.0
+138,Canarsie-Rockaway Pkwy (L),Brooklyn,40.646652,-73.90185,Outer boroughs,265.8,432.9,1507558.0,2223472.0
+14,"23 St (R,W)",Manhattan,40.741302,-73.98934,Inside the zone,4.1,11.2,3457899.0,3736185.0
+141,Park Pl (S),Brooklyn,40.67477,-73.95763,Outer boroughs,19.5,21.8,315278.0,326104.0
+143,Inwood-207 St (A),Manhattan,40.868073,-73.9199,Manhattan above 60th St,0.0,5.9,1426164.0,1531811.0
+144,Dyckman St (A),Manhattan,40.86549,-73.92727,Manhattan above 60th St,4.1,11.4,1085315.0,1180338.0
+145,190 St (A),Manhattan,40.85902,-73.93418,Manhattan above 60th St,-0.8,4.7,711081.0,772783.0
+146,181 St (A),Manhattan,40.851696,-73.937965,Manhattan above 60th St,6.7,15.5,1600183.0,1754667.0
+147,175 St (A),Manhattan,40.84739,-73.939705,Manhattan above 60th St,1.7,9.2,1706946.0,1855677.0
+149,163 St-Amsterdam Av (C),Manhattan,40.836014,-73.939896,Manhattan above 60th St,4.1,8.8,681227.0,722568.0
+150,155 St (C),Manhattan,40.830517,-73.94151,Manhattan above 60th St,1.0,4.9,422636.0,446297.0
+151,"145 St (A,C,B,D)",Manhattan,40.824783,-73.944214,Manhattan above 60th St,4.1,4.5,3849660.0,3915610.0
+152,"135 St (C,B)",Manhattan,40.817894,-73.94765,Manhattan above 60th St,4.1,8.8,885242.0,938546.0
+153,"125 St (A,C,B,D)",Manhattan,40.811108,-73.95235,Manhattan above 60th St,7.7,11.8,4690781.0,4938156.0
+154,"116 St (C,B)",Manhattan,40.805084,-73.95488,Manhattan above 60th St,6.3,4.2,1137473.0,1130526.0
+155,"Cathedral Pkwy (110 St) (C,B)",Manhattan,40.800602,-73.95816,Manhattan above 60th St,7.0,4.5,1388483.0,1382824.0
+156,"103 St (C,B)",Manhattan,40.796093,-73.96146,Manhattan above 60th St,4.7,5.7,825700.0,849086.0
+157,"96 St (C,B)",Manhattan,40.79164,-73.9647,Manhattan above 60th St,2.0,3.5,1679430.0,1734214.0
+158,"86 St (C,B)",Manhattan,40.78587,-73.96892,Manhattan above 60th St,0.1,1.0,1976444.0,2024414.0
+159,"81 St-Museum of Natural History (C,B)",Manhattan,40.781433,-73.972145,Manhattan above 60th St,-1.7,-2.6,2568041.0,2585846.0
+16,"8 St-NYU (R,W)",Manhattan,40.730328,-73.99263,Inside the zone,3.6,8.7,3073330.0,3260797.0
+160,"72 St (C,B)",Manhattan,40.775593,-73.97641,Manhattan above 60th St,1.7,4.2,1945486.0,2039982.0
+162,"50 St (C,E)",Manhattan,40.762455,-73.985985,Inside the zone,7.8,15.3,4253489.0,4630569.0
+164,"34 St-Penn Station (A,C,E)",Manhattan,40.75229,-73.99339,Inside the zone,9.3,17.9,14705291.0,16118383.0
+165,"23 St (C,E)",Manhattan,40.745907,-73.99804,Inside the zone,6.0,11.8,3753826.0,4021903.0
+167,"W 4 St-Wash Sq (A,C,E,B,D,F,M)",Manhattan,40.732338,-74.000496,Inside the zone,10.4,20.1,8745524.0,9631859.0
+168,"Spring St (C,E)",Manhattan,40.726227,-74.00374,Inside the zone,16.4,31.7,2717789.0,3121123.0
+169,"Canal St (A,C,E)",Manhattan,40.720825,-74.005226,Inside the zone,4.4,8.2,3215366.0,3374232.0
+17,"Prince St (R,W)",Manhattan,40.72433,-73.9977,Inside the zone,6.9,22.9,2522525.0,2937856.0
+173,"High St (A,C)",Brooklyn,40.699337,-73.99053,Outer boroughs,26.5,38.0,2037528.0,2260859.0
+175,"Hoyt-Schermerhorn Sts (A,C,G)",Brooklyn,40.688484,-73.985,Outer boroughs,6.1,12.4,2238698.0,2401336.0
+176,Lafayette Av (C),Brooklyn,40.68611,-73.973946,Outer boroughs,2.0,5.2,1024538.0,1070375.0
+177,Clinton-Washington Avs (C),Brooklyn,40.68326,-73.965836,Outer boroughs,8.4,19.6,1377304.0,1539500.0
+179,"Nostrand Av (A,C)",Brooklyn,40.68044,-73.950424,Outer boroughs,9.7,16.1,3181788.0,3409559.0
+180,Kingston-Throop Avs (C),Brooklyn,40.67992,-73.94086,Outer boroughs,6.2,11.2,1201509.0,1272727.0
+181,"Utica Av (A,C)",Brooklyn,40.679363,-73.93073,Outer boroughs,26.6,28.9,2629151.0,2709883.0
+182,Ralph Av (C),Brooklyn,40.67882,-73.920784,Outer boroughs,11.6,25.6,898475.0,1023221.0
+183,Rockaway Av (C),Brooklyn,40.67834,-73.91195,Outer boroughs,10.3,3.3,946094.0,896009.0
+185,Liberty Av (C),Brooklyn,40.67454,-73.896545,Outer boroughs,9.8,30.8,401991.0,484828.0
+186,Van Siclen Av (C),Brooklyn,40.67271,-73.89036,Outer boroughs,22.7,33.8,491374.0,542265.0
+187,Shepherd Av (C),Brooklyn,40.67413,-73.88075,Outer boroughs,8.9,12.4,436665.0,456052.0
+188,"Euclid Av (A,C)",Brooklyn,40.675377,-73.87211,Outer boroughs,2.1,-14.9,1650093.0,1392107.0
+189,Grant Av (A),Brooklyn,40.677044,-73.86505,Outer boroughs,3.5,3.0,868718.0,873842.0
+190,80 St (A),Queens,40.67937,-73.85899,Outer boroughs,9.8,11.6,716457.0,737570.0
+191,88 St (A),Queens,40.679844,-73.85147,Outer boroughs,8.3,5.9,459885.0,455192.0
+192,Rockaway Blvd (A),Queens,40.680428,-73.84386,Outer boroughs,8.9,-2.6,1225622.0,1108135.0
+193,104 St (A),Queens,40.68171,-73.837685,Outer boroughs,8.2,4.3,289372.0,282283.0
+194,111 St (A),Queens,40.68433,-73.83216,Outer boroughs,2.0,-6.7,350756.0,324831.0
+195,Ozone Park-Lefferts Blvd (A),Queens,40.68595,-73.8258,Outer boroughs,5.5,-3.8,1057435.0,974725.0
+196,Aqueduct Racetrack (A),Queens,40.672096,-73.83592,Outer boroughs,-0.8,9.1,132643.0,148227.0
+197,Aqueduct-N Conduit Av (A),Queens,40.668236,-73.83406,Outer boroughs,4.4,15.3,133969.0,149593.0
+198,Howard Beach-JFK Airport (A),Queens,40.660477,-73.8303,Outer boroughs,96.3,15.2,1293587.0,768303.0
+199,"Broad Channel (A,S)",Queens,40.608383,-73.815926,Outer boroughs,-0.9,5.8,26950.0,49962.0
+2,"Astoria Blvd (N,W)",Queens,40.77026,-73.91785,Outer boroughs,7.8,6.3,1945703.0,1940133.0
+20,"City Hall (R,W)",Manhattan,40.713284,-74.00698,Inside the zone,-3.5,5.4,871148.0,962329.0
+200,"Beach 90 St (A,S)",Queens,40.588036,-73.813644,Outer boroughs,12.3,23.7,109789.0,173160.0
+201,"Beach 98 St (A,S)",Queens,40.585308,-73.82056,Outer boroughs,6.5,13.0,58553.0,92545.0
+202,"Beach 105 St (A,S)",Queens,40.58321,-73.82756,Outer boroughs,-2.9,5.0,44063.0,65068.0
+203,"Rockaway Park-Beach 116 St (A,S)",Queens,40.580902,-73.835594,Outer boroughs,13.4,17.6,91243.0,155943.0
+204,Beach 67 St (A),Queens,40.590927,-73.79692,Outer boroughs,-16.7,5.8,228892.0,396429.0
+205,Beach 60 St (A),Queens,40.592373,-73.78852,Outer boroughs,-11.6,11.6,143800.0,284138.0
+206,Beach 44 St (A),Queens,40.59294,-73.77602,Outer boroughs,-11.2,-1.7,59746.0,111537.0
+207,Beach 36 St (A),Queens,40.595398,-73.76817,Outer boroughs,-8.9,16.3,64155.0,143773.0
+208,Beach 25 St (A),Queens,40.600067,-73.76135,Outer boroughs,-9.1,1.8,118202.0,236927.0
+209,Far Rockaway-Mott Av (A),Queens,40.603996,-73.7554,Outer boroughs,-4.6,15.1,467022.0,846707.0
+210,Norwood-205 St (D),Bronx,40.87481,-73.87885,Outer boroughs,8.6,5.9,1036385.0,1023233.0
+211,"Bedford Park Blvd (B,D)",Bronx,40.873245,-73.88714,Outer boroughs,19.7,27.5,1058323.0,1140449.0
+212,"Kingsbridge Rd (B,D)",Bronx,40.866978,-73.89351,Outer boroughs,20.1,13.7,998041.0,957008.0
+213,"Fordham Rd (B,D)",Bronx,40.861298,-73.89775,Outer boroughs,15.0,14.6,1407170.0,1419062.0
+214,"182-183 Sts (B,D)",Bronx,40.856094,-73.90074,Outer boroughs,19.3,23.0,723541.0,756684.0
+215,"Tremont Av (B,D)",Bronx,40.85041,-73.90523,Outer boroughs,43.9,47.4,1318041.0,1366739.0
+216,"174-175 Sts (B,D)",Bronx,40.8459,-73.91013,Outer boroughs,23.3,25.0,704655.0,723851.0
+217,"170 St (B,D)",Bronx,40.839306,-73.9134,Outer boroughs,20.7,52.4,865821.0,1107096.0
+218,"167 St (B,D)",Bronx,40.83377,-73.91844,Outer boroughs,21.0,26.5,1258771.0,1332358.0
+22,"Rector St (R,W)",Manhattan,40.70722,-74.01334,Inside the zone,3.4,16.9,923294.0,1056571.0
+220,"155 St (B,D)",Manhattan,40.830135,-73.93821,Manhattan above 60th St,10.8,15.8,441832.0,467658.0
+221,21 St-Queensbridge (M),Queens,40.754204,-73.94283,Outer boroughs,85.4,68.9,2040124.0,1873333.0
+222,Roosevelt Island (M),Manhattan,40.759144,-73.95326,Manhattan above 60th St,28.6,25.8,1681183.0,1661454.0
+223,"Lexington Av/63 St (M,Q)",Manhattan,40.76463,-73.96611,Manhattan above 60th St,30.4,15.7,3383783.0,3029481.0
+224,57 St (M),Manhattan,40.763973,-73.97745,Inside the zone,41.1,14.4,2747271.0,2242665.0
+225,"47-50 Sts-Rockefeller Ctr (B,D,F,M)",Manhattan,40.758663,-73.98133,Inside the zone,9.7,17.2,9526727.0,10310867.0
+228,"23 St (F,M)",Manhattan,40.742878,-73.99282,Inside the zone,7.8,19.3,4563782.0,5111895.0
+231,"Grand St (B,D)",Manhattan,40.718266,-73.99375,Inside the zone,1.9,5.8,4402178.0,4631950.0
+232,2 Av (F),Manhattan,40.7234,-73.98994,Inside the zone,7.0,17.0,3271188.0,3621310.0
+234,East Broadway (F),Manhattan,40.713715,-73.99017,Inside the zone,7.0,13.2,2823340.0,3028079.0
+235,York St (F),Brooklyn,40.701397,-73.98675,Outer boroughs,7.7,20.6,2806592.0,3182063.0
+236,"Bergen St (F,G)",Brooklyn,40.686146,-73.99086,Outer boroughs,7.7,15.9,2134443.0,2326288.0
+237,"Carroll St (F,G)",Brooklyn,40.6803,-73.99505,Outer boroughs,9.7,18.9,2183667.0,2395319.0
+238,"Smith-9 Sts (F,G)",Brooklyn,40.67358,-73.99596,Outer boroughs,8.7,19.7,771657.0,862272.0
+240,"7 Av (F,G)",Brooklyn,40.66627,-73.98031,Outer boroughs,7.8,10.7,2199962.0,2288164.0
+241,"15 St-Prospect Park (F,G)",Brooklyn,40.660366,-73.97949,Outer boroughs,3.8,7.6,1076994.0,1130457.0
+242,"Fort Hamilton Pkwy (F,G)",Brooklyn,40.650784,-73.97578,Outer boroughs,6.4,7.5,1052910.0,1077814.0
+243,"Church Av (F,G)",Brooklyn,40.64404,-73.979675,Outer boroughs,4.4,3.5,1642415.0,1645303.0
+244,Ditmas Av (F),Brooklyn,40.63612,-73.97817,Outer boroughs,4.9,6.6,638437.0,658687.0
+245,18 Av (F),Brooklyn,40.629753,-73.976974,Outer boroughs,12.8,12.1,594658.0,600168.0
+246,Avenue I (F),Brooklyn,40.62532,-73.97613,Outer boroughs,0.0,1.7,255364.0,262563.0
+247,Bay Pkwy (F),Brooklyn,40.62077,-73.975266,Outer boroughs,-6.9,-1.5,177481.0,189747.0
+248,Avenue N (F),Brooklyn,40.61514,-73.9742,Outer boroughs,3.9,7.0,441503.0,461557.0
+249,Avenue P (F),Brooklyn,40.608944,-73.97302,Outer boroughs,7.7,15.0,412727.0,446612.0
+250,Kings Hwy (F),Brooklyn,40.603218,-73.97236,Outer boroughs,-2.4,-14.9,553993.0,489835.0
+251,Avenue U (F),Brooklyn,40.59606,-73.97336,Outer boroughs,13.4,23.3,313681.0,346648.0
+252,Avenue X (F),Brooklyn,40.58962,-73.97425,Outer boroughs,16.2,19.8,417295.0,437144.0
+253,Neptune Av (F),Brooklyn,40.581013,-73.97457,Outer boroughs,8.4,12.9,249627.0,264170.0
+254,Jamaica-179 St (F),Queens,40.712646,-73.78381,Outer boroughs,1.7,-0.1,3059818.0,3039013.0
+255,169 St (F),Queens,40.71047,-73.7936,Outer boroughs,4.6,5.9,1325547.0,1357922.0
+256,Parsons Blvd (F),Queens,40.707565,-73.80333,Outer boroughs,3.7,3.3,1198515.0,1207065.0
+257,Sutphin Blvd (F),Queens,40.70546,-73.81071,Outer boroughs,5.3,2.1,747419.0,733840.0
+258,"Briarwood (E,F)",Queens,40.70918,-73.82057,Outer boroughs,7.5,10.9,862223.0,900770.0
+259,"Kew Gardens-Union Tpke (E,F)",Queens,40.71444,-73.83101,Outer boroughs,5.2,7.2,3877311.0,3991863.0
+26,"DeKalb Av (B,Q,R)",Brooklyn,40.690636,-73.98183,Outer boroughs,10.0,19.9,3983920.0,4392269.0
+260,"75 Av (E,F)",Queens,40.71833,-73.837326,Outer boroughs,4.5,8.9,578928.0,610689.0
+261,"Forest Hills-71 Av (E,F,M,R)",Queens,40.72169,-73.84452,Outer boroughs,8.3,14.1,4669743.0,4976181.0
+262,"67 Av (M,R)",Queens,40.726524,-73.85272,Outer boroughs,7.7,15.2,1343357.0,1452978.0
+263,"63 Dr-Rego Park (M,R)",Queens,40.729847,-73.8616,Outer boroughs,9.3,10.3,2402524.0,2450565.0
+264,"Woodhaven Blvd (M,R)",Queens,40.733105,-73.86923,Outer boroughs,9.2,13.7,3305631.0,3483166.0
+265,"Grand Av-Newtown (M,R)",Queens,40.737015,-73.87722,Outer boroughs,15.1,15.5,3339161.0,3392848.0
+266,"Elmhurst Av (M,R)",Queens,40.742455,-73.88202,Outer boroughs,15.6,17.0,2400998.0,2459783.0
+268,"65 St (M,R)",Queens,40.74967,-73.89845,Outer boroughs,12.7,19.9,635828.0,684877.0
+269,"Northern Blvd (M,R)",Queens,40.752884,-73.906006,Outer boroughs,15.5,8.3,1218884.0,1156407.0
+270,"46 St (M,R)",Queens,40.756313,-73.91333,Outer boroughs,19.5,32.1,1377455.0,1542586.0
+271,"Steinway St (M,R)",Queens,40.756878,-73.92074,Outer boroughs,4.4,5.6,2205966.0,2259645.0
+272,"36 St (M,R)",Queens,40.75204,-73.92878,Outer boroughs,10.1,30.0,632178.0,756104.0
+273,"Queens Plaza (E,F,R)",Queens,40.748974,-73.93724,Outer boroughs,-3.3,7.2,3068464.0,3451533.0
+276,"5 Av/53 St (E,F)",Manhattan,40.760166,-73.97523,Inside the zone,-10.9,1.0,2995063.0,3449041.0
+277,"7 Av (E,B,D)",Manhattan,40.762863,-73.981636,Inside the zone,5.8,10.7,3304658.0,3504397.0
+278,"Jamaica Center-Parsons/Archer (E,J,Z)",Queens,40.70215,-73.80111,Outer boroughs,11.9,5.3,5112466.0,4866711.0
+279,"Sutphin Blvd-Archer Av-JFK Airport (E,J,Z)",Queens,40.700485,-73.80797,Outer boroughs,10.4,15.4,5294459.0,5601711.0
+28,Union St (R),Brooklyn,40.677315,-73.98311,Outer boroughs,9.0,24.3,1435041.0,1657010.0
+280,Jamaica-Van Wyck (E),Queens,40.702564,-73.81686,Outer boroughs,11.6,8.6,853508.0,839855.0
+282,21 St (G),Queens,40.744064,-73.94972,Outer boroughs,30.5,29.3,374938.0,371679.0
+283,Greenpoint Av (G),Brooklyn,40.731354,-73.95445,Outer boroughs,31.3,27.1,2063113.0,2024949.0
+284,Nassau Av (G),Brooklyn,40.724636,-73.95128,Outer boroughs,25.5,22.4,1957778.0,1940204.0
+286,Broadway (G),Brooklyn,40.706093,-73.95031,Outer boroughs,28.9,21.1,886650.0,845565.0
+287,Flushing Av (G),Brooklyn,40.70038,-73.95023,Outer boroughs,29.3,28.5,562360.0,566618.0
+288,Myrtle-Willoughby Avs (G),Brooklyn,40.69457,-73.94904,Outer boroughs,25.4,14.2,947969.0,876525.0
+289,Bedford-Nostrand Avs (G),Brooklyn,40.68963,-73.95352,Outer boroughs,11.2,14.0,1668835.0,1731605.0
+290,Classon Av (G),Brooklyn,40.688873,-73.96007,Outer boroughs,13.6,17.0,973698.0,1016952.0
+291,Clinton-Washington Avs (G),Brooklyn,40.688087,-73.96684,Outer boroughs,24.9,30.2,1027215.0,1082196.0
+292,Fulton St (G),Brooklyn,40.68712,-73.97537,Outer boroughs,15.9,18.3,1164771.0,1207794.0
+293,Van Cortlandt Park-242 St (1),Bronx,40.889248,-73.89858,Outer boroughs,-3.6,-9.6,1024280.0,968795.0
+294,238 St (1),Bronx,40.884666,-73.90087,Outer boroughs,13.8,15.2,768009.0,785652.0
+295,231 St (1),Bronx,40.878857,-73.90483,Outer boroughs,12.4,13.0,1457526.0,1481098.0
+296,Marble Hill-225 St (1),Manhattan,40.87456,-73.90983,Manhattan above 60th St,8.8,10.9,790682.0,812865.0
+297,215 St (1),Manhattan,40.869446,-73.915276,Manhattan above 60th St,3.3,4.7,390856.0,399279.0
+298,207 St (1),Manhattan,40.86462,-73.91882,Manhattan above 60th St,8.7,19.9,1002525.0,1116576.0
+299,Dyckman St (1),Manhattan,40.86053,-73.92554,Manhattan above 60th St,18.5,12.3,1233878.0,1181301.0
+3,"30 Av (N,W)",Queens,40.76678,-73.92148,Outer boroughs,10.6,8.7,2483797.0,2467804.0
+30,Prospect Av (R),Brooklyn,40.665413,-73.992874,Outer boroughs,7.7,13.0,1043983.0,1108502.0
+300,191 St (1),Manhattan,40.855225,-73.92941,Manhattan above 60th St,12.8,13.1,1265271.0,1282010.0
+301,181 St (1),Manhattan,40.849506,-73.93359,Manhattan above 60th St,15.9,14.7,1831608.0,1836738.0
+303,157 St (1),Manhattan,40.83404,-73.94489,Manhattan above 60th St,11.1,11.3,1776969.0,1795456.0
+304,145 St (1),Manhattan,40.82655,-73.95036,Manhattan above 60th St,6.9,5.4,1604935.0,1595425.0
+305,137 St-City College (1),Manhattan,40.822006,-73.953674,Manhattan above 60th St,8.3,10.2,2036250.0,2089896.0
+306,125 St (1),Manhattan,40.815582,-73.958374,Manhattan above 60th St,7.0,6.9,1549124.0,1558319.0
+307,116 St-Columbia University (1),Manhattan,40.80772,-73.96411,Manhattan above 60th St,3.8,2.5,2477868.0,2463018.0
+308,Cathedral Pkwy (110 St) (1),Manhattan,40.803967,-73.96685,Manhattan above 60th St,7.8,10.1,2253423.0,2317861.0
+309,103 St (1),Manhattan,40.799446,-73.968376,Manhattan above 60th St,8.7,9.3,2202049.0,2230981.0
+31,25 St (R),Brooklyn,40.660397,-73.99809,Outer boroughs,8.5,14.9,661421.0,708728.0
+310,"96 St (1,2,3)",Manhattan,40.79392,-73.97232,Manhattan above 60th St,6.6,9.0,6410807.0,6600140.0
+311,86 St (1),Manhattan,40.788643,-73.97622,Manhattan above 60th St,23.5,25.7,3198213.0,3282598.0
+312,79 St (1),Manhattan,40.783936,-73.97992,Manhattan above 60th St,26.2,33.1,2768660.0,2952156.0
+313,"72 St (1,2,3)",Manhattan,40.778454,-73.98197,Manhattan above 60th St,4.2,3.1,7371106.0,7342515.0
+314,66 St-Lincoln Center (1),Manhattan,40.77344,-73.98221,Manhattan above 60th St,5.5,14.2,3588733.0,3910731.0
+316,50 St (1),Manhattan,40.761726,-73.98385,Inside the zone,24.0,30.0,4611245.0,4872219.0
+318,"34 St-Penn Station (1,2,3)",Manhattan,40.750374,-73.99106,Inside the zone,11.5,13.1,13222544.0,13557836.0
+319,28 St (1),Manhattan,40.747215,-73.99336,Inside the zone,7.1,11.6,2391655.0,2517344.0
+32,"36 St (D,N,R)",Brooklyn,40.655144,-74.00355,Outer boroughs,11.4,14.3,2921359.0,3032464.0
+320,23 St (1),Manhattan,40.74408,-73.99566,Inside the zone,7.6,8.3,2516222.0,2553303.0
+321,18 St (1),Manhattan,40.74104,-73.99787,Inside the zone,2.8,11.8,1340261.0,1471099.0
+323,Christopher St-Stonewall (1),Manhattan,40.73342,-74.00291,Inside the zone,11.6,14.6,2391314.0,2482391.0
+324,Houston St (1),Manhattan,40.728252,-74.00536,Inside the zone,19.8,21.6,2656498.0,2725293.0
+325,Canal St (1),Manhattan,40.722855,-74.00628,Inside the zone,9.5,19.2,958148.0,1055019.0
+326,Franklin St (1),Manhattan,40.71932,-74.00689,Inside the zone,4.7,9.3,1076567.0,1135442.0
+327,"Chambers St (1,2,3)",Manhattan,40.715477,-74.00927,Inside the zone,9.8,6.8,3137971.0,3078623.0
+328,WTC Cortlandt (1),Manhattan,40.711834,-74.01219,Inside the zone,18.2,27.3,3123815.0,3409805.0
+329,Rector St (1),Manhattan,40.70751,-74.01379,Inside the zone,11.5,15.7,1349957.0,1416945.0
+33,45 St (R),Brooklyn,40.648937,-74.01001,Outer boroughs,13.9,20.2,1453993.0,1552250.0
+333,"Wall St (2,3)",Manhattan,40.70682,-74.0091,Inside the zone,10.3,10.1,3351224.0,3380399.0
+334,"Clark St (2,3)",Brooklyn,40.697468,-73.99309,Outer boroughs,-2.0,-1.8,1279300.0,1288111.0
+336,"Hoyt St (2,3)",Brooklyn,40.690544,-73.98506,Outer boroughs,-25.9,-9.7,1067018.0,1312894.0
+337,"Nevins St (2,3,4,5)",Brooklyn,40.688248,-73.98049,Outer boroughs,-1.3,5.6,1658524.0,1795374.0
+339,"Bergen St (2,3)",Brooklyn,40.68083,-73.9751,Outer boroughs,3.9,5.3,861469.0,883514.0
+34,53 St (R),Brooklyn,40.64507,-74.01403,Outer boroughs,13.7,22.7,1595750.0,1742336.0
+340,"Grand Army Plaza (2,3)",Brooklyn,40.675236,-73.97105,Outer boroughs,4.1,3.7,1331634.0,1344227.0
+341,"Eastern Pkwy-Brooklyn Museum (2,3)",Brooklyn,40.671986,-73.96438,Outer boroughs,4.9,4.6,907501.0,915148.0
+343,Nostrand Av (3),Brooklyn,40.669846,-73.95046,Outer boroughs,3.2,7.0,609894.0,641673.0
+344,Kingston Av (3),Brooklyn,40.6694,-73.94216,Outer boroughs,6.5,7.8,744020.0,775829.0
+345,"Crown Hts-Utica Av (3,4)",Brooklyn,40.668896,-73.932945,Outer boroughs,4.4,4.0,4033116.0,4064448.0
+346,Sutter Av-Rutland Rd (3),Brooklyn,40.66472,-73.92261,Outer boroughs,12.9,11.1,1030820.0,1026594.0
+347,Saratoga Av (3),Brooklyn,40.661453,-73.91633,Outer boroughs,19.9,18.5,799246.0,804336.0
+348,Rockaway Av (3),Brooklyn,40.662548,-73.90894,Outer boroughs,12.9,8.5,742484.0,722296.0
+349,Junius St (3),Brooklyn,40.663513,-73.90245,Outer boroughs,18.5,16.2,419039.0,421289.0
+35,"59 St (N,R)",Brooklyn,40.64136,-74.01788,Outer boroughs,15.4,14.2,2431021.0,2434783.0
+350,Pennsylvania Av (3),Brooklyn,40.664635,-73.8949,Outer boroughs,4.9,0.3,595110.0,580126.0
+351,Van Siclen Av (3),Brooklyn,40.665447,-73.8894,Outer boroughs,7.1,11.0,376563.0,396101.0
+352,New Lots Av (3),Brooklyn,40.666237,-73.88408,Outer boroughs,12.1,10.6,857000.0,855675.0
+353,"President St-Medgar Evers College (2,5)",Brooklyn,40.667885,-73.95068,Outer boroughs,8.5,13.3,595425.0,630319.0
+354,"Sterling St (2,5)",Brooklyn,40.662743,-73.95085,Outer boroughs,5.6,11.0,965518.0,1031849.0
+355,"Winthrop St (2,5)",Brooklyn,40.65665,-73.9502,Outer boroughs,9.7,18.0,1330728.0,1449441.0
+356,"Church Av (2,5)",Brooklyn,40.650845,-73.94958,Outer boroughs,19.0,20.2,1622856.0,1659003.0
+357,"Beverly Rd (2,5)",Brooklyn,40.6451,-73.94896,Outer boroughs,11.1,20.7,783480.0,861845.0
+358,"Newkirk Av-Little Haiti (2,5)",Brooklyn,40.63997,-73.94841,Outer boroughs,14.1,6.1,1208229.0,1138898.0
+359,"Flatbush Av-Brooklyn College (2,5)",Brooklyn,40.632835,-73.94764,Outer boroughs,10.1,12.8,3052785.0,3160544.0
+36,Bay Ridge Av (R),Brooklyn,40.634968,-74.02338,Outer boroughs,5.2,10.0,1366213.0,1442138.0
+360,Pelham Bay Park (6),Bronx,40.852463,-73.82812,Outer boroughs,8.9,3.0,971591.0,930516.0
+361,Buhre Av (6),Bronx,40.84681,-73.832565,Outer boroughs,5.6,2.6,592122.0,583605.0
+362,Middletown Rd (6),Bronx,40.843864,-73.83632,Outer boroughs,3.7,0.1,318860.0,311956.0
+363,Westchester Sq-E Tremont Av (6),Bronx,40.839893,-73.84295,Outer boroughs,56.1,49.4,741729.0,719692.0
+364,Zerega Av (6),Bronx,40.836487,-73.84704,Outer boroughs,8.1,1.5,384970.0,366520.0
+365,Castle Hill Av (6),Bronx,40.834255,-73.85122,Outer boroughs,21.2,7.7,976011.0,878014.0
+366,Parkchester (6),Bronx,40.833225,-73.86082,Outer boroughs,-3.1,1.1,2031560.0,2152510.0
+367,St Lawrence Av (6),Bronx,40.83151,-73.867615,Outer boroughs,31.2,21.3,691573.0,647240.0
+368,Morrison Av-Soundview (6),Bronx,40.82952,-73.87452,Outer boroughs,26.1,24.5,969822.0,970107.0
+369,Elder Av (6),Bronx,40.828583,-73.87916,Outer boroughs,25.3,20.7,1013111.0,989474.0
+37,77 St (R),Brooklyn,40.62974,-74.02551,Outer boroughs,5.2,13.8,940440.0,1027591.0
+370,Whitlock Av (6),Bronx,40.826527,-73.886284,Outer boroughs,10.5,3.9,290410.0,277279.0
+371,Hunts Point Av (6),Bronx,40.82095,-73.89055,Outer boroughs,16.5,15.3,1646031.0,1650426.0
+372,Longwood Av (6),Bronx,40.816105,-73.89644,Outer boroughs,2.3,0.6,504729.0,502168.0
+373,E 149 St (6),Bronx,40.81212,-73.9041,Outer boroughs,12.5,2.4,768743.0,705633.0
+374,E 143 St-St Mary's St (6),Bronx,40.80872,-73.90765,Outer boroughs,62.4,58.2,305609.0,301049.0
+375,Cypress Av (6),Bronx,40.805367,-73.91404,Outer boroughs,3.1,9.8,452923.0,487833.0
+376,Brook Av (6),Bronx,40.807568,-73.91924,Outer boroughs,5.7,4.6,809572.0,810061.0
+377,3 Av-138 St (6),Bronx,40.810474,-73.92614,Outer boroughs,12.7,22.1,1349611.0,1480015.0
+378,Woodlawn (4),Bronx,40.886036,-73.87875,Outer boroughs,5.7,4.8,1044214.0,1047099.0
+379,Mosholu Pkwy (4),Bronx,40.87975,-73.88466,Outer boroughs,-1.0,5.6,1072835.0,1157447.0
+38,86 St (R),Brooklyn,40.62269,-74.0284,Outer boroughs,7.6,9.1,2009144.0,2063156.0
+380,Bedford Park Blvd-Lehman College (4),Bronx,40.873413,-73.89006,Outer boroughs,0.6,-0.2,803947.0,802038.0
+381,Kingsbridge Rd (4),Bronx,40.86776,-73.89717,Outer boroughs,12.9,9.9,1373195.0,1351245.0
+382,Fordham Rd (4),Bronx,40.862804,-73.90103,Outer boroughs,9.6,9.1,1521185.0,1532209.0
+383,183 St (4),Bronx,40.858406,-73.90388,Outer boroughs,10.0,4.4,871425.0,837576.0
+384,Burnside Av (4),Bronx,40.853455,-73.907684,Outer boroughs,2.0,-17.5,1446316.0,1183620.0
+385,176 St (4),Bronx,40.84848,-73.9118,Outer boroughs,16.7,15.6,889379.0,889149.0
+386,Mt Eden Av (4),Bronx,40.844433,-73.91469,Outer boroughs,8.9,2.0,742735.0,703948.0
+387,170 St (4),Bronx,40.840076,-73.91779,Outer boroughs,18.3,9.9,1194993.0,1119012.0
+388,167 St (4),Bronx,40.835537,-73.9214,Outer boroughs,16.9,9.8,1435905.0,1364156.0
+39,Bay Ridge-95 St (R),Brooklyn,40.616623,-74.030876,Outer boroughs,4.3,8.5,946807.0,996686.0
+391,"138 St-Grand Concourse (4,5)",Bronx,40.813225,-73.92985,Outer boroughs,22.5,19.4,698988.0,689831.0
+392,"125 St (4,5,6)",Manhattan,40.80414,-73.93759,Manhattan above 60th St,10.9,4.8,4406448.0,4207054.0
+393,116 St (6),Manhattan,40.79863,-73.94162,Manhattan above 60th St,16.1,12.3,2330198.0,2279418.0
+394,110 St (6),Manhattan,40.79502,-73.94425,Manhattan above 60th St,29.1,26.1,1818118.0,1799283.0
+395,103 St (6),Manhattan,40.7906,-73.94748,Manhattan above 60th St,21.8,23.3,2129777.0,2184669.0
+396,96 St (6),Manhattan,40.78567,-73.95107,Manhattan above 60th St,4.7,8.9,2941059.0,3096749.0
+397,"86 St (4,5,6)",Manhattan,40.77949,-73.95559,Manhattan above 60th St,1.7,-1.5,8248145.0,8079876.0
+398,77 St (6),Manhattan,40.77362,-73.95988,Manhattan above 60th St,2.5,9.2,4804732.0,5180377.0
+399,68 St-Hunter College (6),Manhattan,40.768143,-73.96387,Manhattan above 60th St,-0.3,7.9,3861347.0,4212981.0
+4,"Broadway (N,W)",Queens,40.76182,-73.92551,Outer boroughs,7.8,8.0,2210693.0,2242495.0
+403,33 St (6),Manhattan,40.746082,-73.98208,Inside the zone,5.2,12.3,4719170.0,5101110.0
+404,28 St (6),Manhattan,40.74307,-73.98426,Inside the zone,5.7,10.2,3528597.0,3726350.0
+405,23 St-Baruch College (6),Manhattan,40.739864,-73.9866,Inside the zone,10.9,15.7,4411954.0,4645260.0
+407,Astor Pl (6),Manhattan,40.730053,-73.99107,Inside the zone,2.9,4.0,3014166.0,3082069.0
+409,Spring St (6),Manhattan,40.7223,-73.99714,Inside the zone,4.9,14.7,2380650.0,2633569.0
+41,"7 Av (B,Q)",Brooklyn,40.67705,-73.97237,Outer boroughs,5.5,14.3,1690350.0,1853103.0
+413,"Wall St (4,5)",Manhattan,40.707558,-74.01186,Inside the zone,6.3,8.6,2812842.0,2910437.0
+414,"Bowling Green (4,5)",Manhattan,40.70482,-74.01407,Inside the zone,3.8,1.7,3889724.0,3858731.0
+416,Wakefield-241 St (2),Bronx,40.903126,-73.85062,Outer boroughs,9.3,11.5,694423.0,717973.0
+417,"Nereid Av (2,5)",Bronx,40.89838,-73.85438,Outer boroughs,13.7,15.5,431313.0,444159.0
+418,"233 St (2,5)",Bronx,40.893192,-73.857475,Outer boroughs,13.3,5.2,600984.0,567179.0
+419,"225 St (2,5)",Bronx,40.888023,-73.860344,Outer boroughs,21.6,13.7,481855.0,457776.0
+42,"Prospect Park (B,Q,S)",Brooklyn,40.661613,-73.96225,Outer boroughs,9.6,14.6,1835128.0,1941941.0
+420,"219 St (2,5)",Bronx,40.883896,-73.86263,Outer boroughs,31.2,39.4,409620.0,442312.0
+421,"Gun Hill Rd (2,5)",Bronx,40.87785,-73.86626,Outer boroughs,7.5,1.8,976182.0,936997.0
+422,"Burke Av (2,5)",Bronx,40.871357,-73.867165,Outer boroughs,10.7,6.5,400447.0,390967.0
+423,"Allerton Av (2,5)",Bronx,40.865463,-73.867355,Outer boroughs,13.8,8.3,663998.0,641570.0
+424,"Pelham Pkwy (2,5)",Bronx,40.857193,-73.867615,Outer boroughs,4.1,-4.3,1189921.0,1109949.0
+425,"Bronx Park East (2,5)",Bronx,40.848827,-73.868454,Outer boroughs,16.7,13.8,369307.0,365495.0
+426,"E 180 St (2,5)",Bronx,40.841892,-73.87349,Outer boroughs,9.6,13.6,1406318.0,1471825.0
+427,"West Farms Sq-E Tremont Av (2,5)",Bronx,40.840294,-73.88005,Outer boroughs,31.0,35.9,901527.0,946341.0
+428,"174 St (2,5)",Bronx,40.837288,-73.88773,Outer boroughs,33.8,39.3,987733.0,1041118.0
+429,"Freeman St (2,5)",Bronx,40.829994,-73.89187,Outer boroughs,21.3,18.8,697759.0,691802.0
+43,Parkside Av (Q),Brooklyn,40.655293,-73.961494,Outer boroughs,29.7,11.0,1308888.0,1138455.0
+430,"Simpson St (2,5)",Bronx,40.824074,-73.89307,Outer boroughs,31.8,19.0,1274681.0,1163693.0
+431,"Intervale Av (2,5)",Bronx,40.82218,-73.896736,Outer boroughs,32.4,43.7,488646.0,538180.0
+432,"Prospect Av (2,5)",Bronx,40.819584,-73.90177,Outer boroughs,11.3,16.5,969449.0,1026281.0
+433,"Jackson Av (2,5)",Bronx,40.81649,-73.90781,Outer boroughs,23.4,37.1,798638.0,897085.0
+434,"3 Av-149 St (2,5)",Bronx,40.81611,-73.917755,Outer boroughs,17.7,11.6,3152844.0,3025784.0
+436,Harlem-148 St (3),Manhattan,40.82388,-73.93647,Manhattan above 60th St,7.9,3.2,529652.0,509209.0
+437,145 St (3),Manhattan,40.82042,-73.93625,Manhattan above 60th St,19.4,16.6,508680.0,501469.0
+438,"135 St (2,3)",Manhattan,40.814228,-73.94077,Manhattan above 60th St,25.5,24.2,1993295.0,1986725.0
+439,"125 St (2,3)",Manhattan,40.807755,-73.945496,Manhattan above 60th St,13.7,20.2,2438811.0,2596903.0
+44,"Church Av (B,Q)",Brooklyn,40.650528,-73.96298,Outer boroughs,-8.8,11.5,2068831.0,2559919.0
+440,"116 St (2,3)",Manhattan,40.802097,-73.94962,Manhattan above 60th St,20.6,16.3,1678024.0,1629968.0
+441,"110 St-Malcolm X Plaza (2,3)",Manhattan,40.799076,-73.95182,Manhattan above 60th St,19.6,27.4,1303344.0,1399433.0
+442,Eastchester-Dyre Av (5),Bronx,40.8883,-73.83083,Outer boroughs,8.5,24.1,594137.0,687081.0
+443,Baychester Av (5),Bronx,40.878662,-73.83859,Outer boroughs,7.4,18.9,409845.0,459706.0
+444,Gun Hill Rd (5),Bronx,40.869526,-73.84638,Outer boroughs,5.8,3.8,644055.0,639679.0
+445,Pelham Pkwy (5),Bronx,40.858986,-73.85536,Outer boroughs,8.3,16.2,450288.0,491216.0
+446,Morris Park (5),Bronx,40.854362,-73.8605,Outer boroughs,8.5,12.8,408345.0,435859.0
+447,Flushing-Main St (7),Queens,40.7596,-73.83003,Outer boroughs,5.0,2.8,11458315.0,11351322.0
+448,Mets-Willets Point (7),Queens,40.754623,-73.84563,Outer boroughs,23.8,23.5,2034826.0,2067718.0
+449,111 St (7),Queens,40.75173,-73.85533,Outer boroughs,72.7,96.7,2488620.0,2862012.0
+45,Beverley Rd (Q),Brooklyn,40.64403,-73.96449,Outer boroughs,21.7,8.4,743499.0,671067.0
+450,103 St-Corona Plaza (7),Queens,40.749866,-73.8627,Outer boroughs,-8.0,-22.0,4243348.0,3642445.0
+451,Junction Blvd (7),Queens,40.749146,-73.86953,Outer boroughs,4.4,0.2,4987637.0,4841729.0
+452,90 St-Elmhurst Av (7),Queens,40.74841,-73.87661,Outer boroughs,4.4,-3.6,3530149.0,3299876.0
+453,82 St-Jackson Hts (7),Queens,40.747658,-73.8837,Outer boroughs,62.3,68.0,2689975.0,2813848.0
+455,69 St (7),Queens,40.746326,-73.8964,Outer boroughs,-7.6,-53.2,958678.0,490735.0
+456,61 St-Woodside (7),Queens,40.74563,-73.902985,Outer boroughs,8.3,10.9,3048716.0,3152599.0
+457,52 St (7),Queens,40.74415,-73.91255,Outer boroughs,-0.8,-31.6,1043459.0,727746.0
+458,46 St-Bliss St (7),Queens,40.743134,-73.918434,Outer boroughs,22.3,24.2,2508087.0,2573808.0
+459,40 St-Lowery St (7),Queens,40.743782,-73.92402,Outer boroughs,14.8,20.4,1811806.0,1920218.0
+46,Cortelyou Rd (Q),Brooklyn,40.640926,-73.96389,Outer boroughs,15.7,12.1,1108978.0,1087830.0
+460,33 St-Rawson St (7),Queens,40.744587,-73.931,Outer boroughs,33.9,22.1,1636965.0,1503637.0
+461,"Queensboro Plaza (7,N,W)",Queens,40.750584,-73.9402,Outer boroughs,13.9,18.8,2631641.0,2777039.0
+463,Hunters Point Av (7),Queens,40.742214,-73.94891,Outer boroughs,6.0,-4.9,812761.0,740362.0
+464,Vernon Blvd-Jackson Av (7),Queens,40.742626,-73.95358,Outer boroughs,9.6,24.0,3141295.0,3590458.0
+47,"Newkirk Plaza (B,Q)",Brooklyn,40.635082,-73.96279,Outer boroughs,4.2,7.2,1676084.0,1741571.0
+471,34 St-Hudson Yards (7),Manhattan,40.755882,-74.00191,Inside the zone,9.9,22.9,4802960.0,5440167.0
+475,96 St (Q),Manhattan,40.784317,-73.94715,Manhattan above 60th St,13.6,11.7,3313199.0,3295390.0
+476,86 St (Q),Manhattan,40.77789,-73.95179,Manhattan above 60th St,14.5,16.1,4706827.0,4834536.0
+477,72 St (Q),Manhattan,40.7688,-73.95843,Manhattan above 60th St,11.6,9.8,5614526.0,5587727.0
+48,Avenue H (Q),Brooklyn,40.62927,-73.96164,Outer boroughs,15.7,10.5,556838.0,537699.0
+49,Avenue J (Q),Brooklyn,40.62504,-73.9608,Outer boroughs,12.1,8.1,945682.0,923134.0
+5,"36 Av (N,W)",Queens,40.756805,-73.92957,Outer boroughs,7.8,11.2,1186385.0,1237836.0
+50,Avenue M (Q),Brooklyn,40.61762,-73.9594,Outer boroughs,16.1,11.7,993830.0,967423.0
+501,St George (SIR),Staten Island,40.64375,-74.07365,Outer boroughs,2.1,4.6,1499802.0,1555667.0
+502,Tompkinsville (SIR),Staten Island,40.636948,-74.07484,Outer boroughs,18.8,21.4,119591.0,123622.0
+51,"Kings Hwy (B,Q)",Brooklyn,40.60867,-73.95773,Outer boroughs,7.1,4.3,3358291.0,3308496.0
+52,Avenue U (Q),Brooklyn,40.5993,-73.95593,Outer boroughs,4.6,3.4,1188326.0,1189051.0
+53,Neck Rd (Q),Brooklyn,40.595245,-73.95516,Outer boroughs,5.6,5.4,759871.0,766669.0
+54,"Sheepshead Bay (B,Q)",Brooklyn,40.586895,-73.954155,Outer boroughs,0.7,0.4,2105906.0,2123850.0
+55,"Brighton Beach (B,Q)",Brooklyn,40.57762,-73.96137,Outer boroughs,0.7,5.1,1888295.0,1994048.0
+56,Ocean Pkwy (Q),Brooklyn,40.576313,-73.9685,Outer boroughs,2.8,-5.0,533274.0,498604.0
+57,"W 8 St-NY Aquarium (F,Q)",Brooklyn,40.576126,-73.97594,Outer boroughs,15.4,10.9,550897.0,538887.0
+58,"Coney Island-Stillwell Av (D,F,N,Q)",Brooklyn,40.577423,-73.98123,Outer boroughs,10.3,4.5,2924973.0,2810200.0
+59,9 Av (D),Brooklyn,40.646294,-73.99432,Outer boroughs,9.9,10.6,1017297.0,1036381.0
+6,"39 Av-Dutch Kills (N,W)",Queens,40.75288,-73.932755,Outer boroughs,7.3,8.5,694374.0,712570.0
+60,Fort Hamilton Pkwy (D),Brooklyn,40.640915,-73.9943,Outer boroughs,14.5,19.5,742438.0,784347.0
+601,"14 St/6 Av (1,2,3,L,F,M)",Manhattan,40.737827,-73.99679,Inside the zone,9.0,17.1,8328481.0,9052676.0
+602,"14 St-Union Sq (4,5,6,L,N,Q,R,W)",Manhattan,40.735737,-73.98995,Inside the zone,7.9,10.4,17755056.0,18366627.0
+603,"149 St-Grand Concourse (2,4,5)",Bronx,40.818375,-73.92735,Outer boroughs,26.8,24.5,1908465.0,1894990.0
+604,"161 St-Yankee Stadium (4,B,D)",Bronx,40.827995,-73.92565,Outer boroughs,13.6,6.5,5043667.0,4757358.0
+605,"168 St-Washington Hts (1,A,C)",Manhattan,40.840637,-73.93985,Manhattan above 60th St,3.4,0.0,4052555.0,3962894.0
+606,"Court Sq-23 St (7,E,F,G)",Queens,40.747143,-73.94503,Outer boroughs,5.4,16.0,4722510.0,5260540.0
+607,"34 St-Herald Sq (B,D,F,M,N,Q,R,W)",Manhattan,40.74964,-73.987885,Inside the zone,7.1,9.5,19211459.0,19903775.0
+608,"4 Av-9 St (F,G,R)",Brooklyn,40.67056,-73.989044,Outer boroughs,8.5,14.4,2312917.0,2468390.0
+609,"42 St-Bryant Pk/5 Av (7,B,D,F,M)",Manhattan,40.754223,-73.981964,Inside the zone,11.4,18.8,9308076.0,10060032.0
+61,50 St (D),Brooklyn,40.63626,-73.99479,Outer boroughs,2.7,5.9,572857.0,598245.0
+610,"Grand Central-42 St (4,5,6,7,S)",Manhattan,40.751778,-73.976845,Inside the zone,7.5,12.0,26515427.0,27946782.0
+611,"Times Sq-42 St/Port Authority Bus Terminal (1,2,3,7,A,C,E,N,Q,R,W,S)",Manhattan,40.75731,-73.987495,Inside the zone,7.1,7.9,35584107.0,36331367.0
+612,"Lexington Av/51-53 Sts (6,E,F)",Manhattan,40.757328,-73.97049,Inside the zone,7.7,20.0,9736563.0,10987923.0
+613,"Lexington Av/59 St (4,5,6,N,R,W)",Manhattan,40.762592,-73.96761,Inside the zone,0.9,0.3,8829189.0,8886755.0
+614,"59 St-Columbus Circle (1,A,C,B,D)",Manhattan,40.768272,-73.981834,Inside the zone,3.1,5.0,12600233.0,12996239.0
+615,"62 St/New Utrecht Av (D,N)",Brooklyn,40.626472,-73.99635,Outer boroughs,6.6,5.9,907693.0,911967.0
+616,"Jackson Hts-Roosevelt Av/74 St-Broadway (7,E,F,M,R)",Queens,40.746746,-73.891335,Outer boroughs,-1.5,0.6,10958111.0,11326937.0
+617,"Atlantic Av-Barclays Ctr (2,3,4,5,B,D,N,Q,R)",Brooklyn,40.68436,-73.97767,Outer boroughs,10.3,13.1,8158374.0,8477441.0
+618,"14 St/8 Av (A,C,E,L)",Manhattan,40.740334,-74.00214,Inside the zone,3.5,7.7,8898073.0,9393508.0
+619,"Broadway-Lafayette St/Bleecker St (6,B,D,F,M)",Manhattan,40.725605,-73.99543,Inside the zone,10.8,17.1,7849656.0,8392868.0
+62,55 St (D),Brooklyn,40.631435,-73.995476,Outer boroughs,2.5,8.4,312102.0,334442.0
+620,"Borough Hall/Court St (2,3,4,5,R)",Brooklyn,40.69324,-73.99015,Outer boroughs,2.9,5.2,4857102.0,5022557.0
+621,"Broadway Junction (A,C,J,Z,L)",Brooklyn,40.678333,-73.90532,Outer boroughs,3.0,17.3,1445401.0,1664520.0
+622,"Brooklyn Bridge-City Hall/Chambers St (4,5,6,J,Z)",Manhattan,40.713154,-74.00377,Inside the zone,6.5,7.2,4646447.0,4735698.0
+623,"Canal St (6,J,Z,N,Q,R,W)",Manhattan,40.71953,-74.00019,Inside the zone,10.0,14.6,8809524.0,9285685.0
+624,"Chambers St/WTC/Park Place/Cortlandt St (2,3,A,C,E,R,W)",Manhattan,40.712605,-74.00955,Inside the zone,6.3,10.9,10334838.0,10909714.0
+625,"Delancey St-Essex St (F,M,J,Z)",Manhattan,40.718613,-73.987434,Inside the zone,10.8,20.0,5706865.0,6258790.0
+626,"Franklin Av-Medgar Evers College/Botanic Garden (2,3,4,5,S)",Brooklyn,40.670513,-73.95869,Outer boroughs,7.0,8.7,2746198.0,2821288.0
+627,"Franklin Av (C,S)",Brooklyn,40.68138,-73.95685,Outer boroughs,5.6,10.4,1016688.0,1076827.0
+628,"Fulton St (2,3,4,5,A,C,J,Z)",Manhattan,40.71037,-74.00758,Inside the zone,7.9,6.8,15157191.0,15194581.0
+629,"Metropolitan Av/Lorimer St (G,L)",Brooklyn,40.71343,-73.95084,Outer boroughs,17.2,19.2,3514886.0,3620682.0
+630,"Myrtle-Wyckoff Avs (M,L)",Brooklyn,40.699814,-73.91158,Outer boroughs,10.5,7.3,4218340.0,4145062.0
+635,"Whitehall St-South Ferry (1,R,W)",Manhattan,40.702576,-74.01333,Inside the zone,6.2,7.3,5142857.0,5262846.0
+636,"Jay St-MetroTech (A,C,F,R)",Brooklyn,40.692337,-73.98664,Outer boroughs,1.6,3.0,6252078.0,6403689.0
+64,71 St (D),Brooklyn,40.61959,-73.99886,Outer boroughs,5.4,6.8,847308.0,869259.0
+65,79 St (D),Brooklyn,40.613503,-74.00061,Outer boroughs,6.4,5.0,1094809.0,1094242.0
+66,18 Av (D),Brooklyn,40.607952,-74.00174,Outer boroughs,5.4,3.4,1063234.0,1056437.0
+67,20 Av (D),Brooklyn,40.604557,-73.99817,Outer boroughs,5.1,6.9,886572.0,913077.0
+68,Bay Pkwy (D),Brooklyn,40.601875,-73.99373,Outer boroughs,2.6,1.9,1279901.0,1286262.0
+69,25 Av (D),Brooklyn,40.597706,-73.98683,Outer boroughs,1.7,-1.8,709111.0,693843.0
+70,Bay 50 St (D),Brooklyn,40.58884,-73.983765,Outer boroughs,14.2,17.3,479357.0,498762.0
+71,8 Av (N),Brooklyn,40.635063,-74.01172,Outer boroughs,17.0,10.2,2196313.0,2095631.0
+72,Fort Hamilton Pkwy (N),Brooklyn,40.631386,-74.00535,Outer boroughs,10.0,4.5,1218571.0,1172783.0
+74,18 Av (N),Brooklyn,40.62067,-73.99042,Outer boroughs,12.2,12.8,929593.0,946399.0
+75,20 Av (N),Brooklyn,40.61741,-73.98502,Outer boroughs,9.1,7.1,774112.0,768890.0
+76,Bay Pkwy (N),Brooklyn,40.611816,-73.98185,Outer boroughs,4.8,6.6,1209026.0,1243908.0
+77,Kings Hwy (N),Brooklyn,40.603924,-73.980354,Outer boroughs,7.9,7.4,1025758.0,1032964.0
+78,Avenue U (N),Brooklyn,40.597473,-73.97913,Outer boroughs,4.9,6.7,692383.0,712121.0
+79,86 St (N),Brooklyn,40.59272,-73.97823,Outer boroughs,1.6,3.4,429835.0,441835.0
+8,"5 Av/59 St (N,R,W)",Manhattan,40.764812,-73.97335,Inside the zone,0.0,3.0,2711640.0,2831298.0
+80,"121 St (J,Z)",Queens,40.700493,-73.82829,Outer boroughs,16.1,13.7,394499.0,392365.0
+81,111 St (J),Queens,40.69742,-73.83634,Outer boroughs,12.5,17.7,385258.0,408236.0
+82,"104 St (J,Z)",Queens,40.69518,-73.84433,Outer boroughs,0.7,2.7,440989.0,459696.0
+83,"Woodhaven Blvd (J,Z)",Queens,40.69388,-73.85158,Outer boroughs,158.1,156.5,813565.0,821078.0
+84,85 St-Forest Pkwy (J),Queens,40.692436,-73.86001,Outer boroughs,-37.9,-2.9,367680.0,590500.0
+85,"75 St-Elderts Ln (J,Z)",Queens,40.691322,-73.86714,Outer boroughs,151.5,101.2,652405.0,530263.0
+86,Cypress Hills (J),Brooklyn,40.68994,-73.87255,Outer boroughs,-55.7,-11.5,100593.0,206397.0
+87,"Crescent St (J,Z)",Brooklyn,40.683193,-73.87379,Outer boroughs,37.2,25.0,706389.0,652816.0
+88,"Norwood Av (J,Z)",Brooklyn,40.68141,-73.880035,Outer boroughs,21.8,34.7,411231.0,459744.0
+89,Cleveland St (J),Brooklyn,40.679947,-73.884636,Outer boroughs,26.9,32.7,371806.0,395567.0
+9,"57 St-7 Av (N,Q,R,W)",Manhattan,40.764664,-73.98066,Inside the zone,4.5,9.0,6328553.0,6684653.0
+90,"Van Siclen Av (J,Z)",Brooklyn,40.678024,-73.891685,Outer boroughs,32.6,33.4,493199.0,505256.0
+91,"Alabama Av (J,Z)",Brooklyn,40.67699,-73.89865,Outer boroughs,17.0,28.0,329741.0,364991.0
+93,"Chauncey St (J,Z)",Brooklyn,40.68289,-73.91045,Outer boroughs,13.8,14.9,496955.0,506511.0
+94,Halsey St (J),Brooklyn,40.68637,-73.91656,Outer boroughs,20.1,21.8,1053062.0,1078411.0
+95,"Gates Av (J,Z)",Brooklyn,40.68963,-73.92227,Outer boroughs,11.6,9.2,1183057.0,1168068.0
+96,Kosciuszko St (J),Brooklyn,40.69334,-73.92882,Outer boroughs,8.3,-0.4,1029102.0,957533.0
+97,"Myrtle Av (M,J,Z)",Brooklyn,40.69721,-73.93565,Outer boroughs,3.4,13.6,2140476.0,2380504.0
+98,"Flushing Av (M,J)",Brooklyn,40.70026,-73.941124,Outer boroughs,21.4,27.2,1475964.0,1565595.0
+99,"Lorimer St (M,J)",Brooklyn,40.70387,-73.94741,Outer boroughs,13.8,19.7,758737.0,807879.0
+TRAM1,RI Tramway (Manhattan),Manhattan,40.761337,-73.96416,Inside the zone,-14.6,-8.9,1123052.0,1215784.0
+TRAM2,RI Tramway (Roosevelt),Manhattan,40.75734,-73.95412,Manhattan above 60th St,-13.6,-12.0,1017590.0,1052374.0

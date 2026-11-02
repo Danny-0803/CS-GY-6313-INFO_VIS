@@ -1,0 +1,1513 @@
+month,detection_group,vehicle_class,days,crz_entries,avg_daily_entries
+2025-01-01,Brooklyn Bridge,"1 - Cars, Pickups and Vans",27,466591,17281.0
+2025-01-01,Brooklyn Bridge,2 - Single-Unit Trucks,27,6672,247.0
+2025-01-01,Brooklyn Bridge,3 - Multi-Unit Trucks,27,74,3.0
+2025-01-01,Brooklyn Bridge,4 - Buses,27,1993,74.0
+2025-01-01,Brooklyn Bridge,5 - Motorcycles,27,1106,41.0
+2025-01-01,Brooklyn Bridge,TLC Taxi/FHV,27,293326,10864.0
+2025-01-01,East 60th St,"1 - Cars, Pickups and Vans",27,816134,30227.0
+2025-01-01,East 60th St,2 - Single-Unit Trucks,27,94355,3495.0
+2025-01-01,East 60th St,3 - Multi-Unit Trucks,27,6121,227.0
+2025-01-01,East 60th St,4 - Buses,27,51730,1916.0
+2025-01-01,East 60th St,5 - Motorcycles,27,15517,575.0
+2025-01-01,East 60th St,TLC Taxi/FHV,27,1060593,39281.0
+2025-01-01,FDR Drive at 60th St,"1 - Cars, Pickups and Vans",27,851647,31542.0
+2025-01-01,FDR Drive at 60th St,2 - Single-Unit Trucks,27,14286,529.0
+2025-01-01,FDR Drive at 60th St,3 - Multi-Unit Trucks,27,144,5.0
+2025-01-01,FDR Drive at 60th St,4 - Buses,27,11919,441.0
+2025-01-01,FDR Drive at 60th St,5 - Motorcycles,27,2746,102.0
+2025-01-01,FDR Drive at 60th St,TLC Taxi/FHV,27,469086,17374.0
+2025-01-01,Holland Tunnel,"1 - Cars, Pickups and Vans",27,718261,26602.0
+2025-01-01,Holland Tunnel,2 - Single-Unit Trucks,27,38041,1409.0
+2025-01-01,Holland Tunnel,3 - Multi-Unit Trucks,27,1754,65.0
+2025-01-01,Holland Tunnel,4 - Buses,27,2821,104.0
+2025-01-01,Holland Tunnel,5 - Motorcycles,27,415,15.0
+2025-01-01,Holland Tunnel,TLC Taxi/FHV,27,243579,9021.0
+2025-01-01,Hugh L. Carey Tunnel,"1 - Cars, Pickups and Vans",27,355820,13179.0
+2025-01-01,Hugh L. Carey Tunnel,2 - Single-Unit Trucks,27,17606,652.0
+2025-01-01,Hugh L. Carey Tunnel,3 - Multi-Unit Trucks,27,397,15.0
+2025-01-01,Hugh L. Carey Tunnel,4 - Buses,27,31147,1154.0
+2025-01-01,Hugh L. Carey Tunnel,5 - Motorcycles,27,478,18.0
+2025-01-01,Hugh L. Carey Tunnel,TLC Taxi/FHV,27,112240,4157.0
+2025-01-01,Lincoln Tunnel,"1 - Cars, Pickups and Vans",27,826987,30629.0
+2025-01-01,Lincoln Tunnel,2 - Single-Unit Trucks,27,82316,3049.0
+2025-01-01,Lincoln Tunnel,3 - Multi-Unit Trucks,27,9870,366.0
+2025-01-01,Lincoln Tunnel,4 - Buses,27,40849,1513.0
+2025-01-01,Lincoln Tunnel,5 - Motorcycles,27,3456,128.0
+2025-01-01,Lincoln Tunnel,TLC Taxi/FHV,27,179517,6649.0
+2025-01-01,Manhattan Bridge,"1 - Cars, Pickups and Vans",27,422498,15648.0
+2025-01-01,Manhattan Bridge,2 - Single-Unit Trucks,27,49078,1818.0
+2025-01-01,Manhattan Bridge,3 - Multi-Unit Trucks,27,4976,184.0
+2025-01-01,Manhattan Bridge,4 - Buses,27,10847,402.0
+2025-01-01,Manhattan Bridge,5 - Motorcycles,27,1825,68.0
+2025-01-01,Manhattan Bridge,TLC Taxi/FHV,27,251339,9309.0
+2025-01-01,Queens Midtown Tunnel,"1 - Cars, Pickups and Vans",27,568262,21047.0
+2025-01-01,Queens Midtown Tunnel,2 - Single-Unit Trucks,27,55795,2066.0
+2025-01-01,Queens Midtown Tunnel,3 - Multi-Unit Trucks,27,1526,57.0
+2025-01-01,Queens Midtown Tunnel,4 - Buses,27,22240,824.0
+2025-01-01,Queens Midtown Tunnel,5 - Motorcycles,27,684,25.0
+2025-01-01,Queens Midtown Tunnel,TLC Taxi/FHV,27,413790,15326.0
+2025-01-01,Queensboro Bridge,"1 - Cars, Pickups and Vans",27,462128,17116.0
+2025-01-01,Queensboro Bridge,2 - Single-Unit Trucks,27,58250,2157.0
+2025-01-01,Queensboro Bridge,3 - Multi-Unit Trucks,27,4750,176.0
+2025-01-01,Queensboro Bridge,4 - Buses,27,9505,352.0
+2025-01-01,Queensboro Bridge,5 - Motorcycles,27,2776,103.0
+2025-01-01,Queensboro Bridge,TLC Taxi/FHV,27,391612,14504.0
+2025-01-01,West 60th St,"1 - Cars, Pickups and Vans",27,344402,12756.0
+2025-01-01,West 60th St,2 - Single-Unit Trucks,27,57148,2117.0
+2025-01-01,West 60th St,3 - Multi-Unit Trucks,27,3739,138.0
+2025-01-01,West 60th St,4 - Buses,27,27788,1029.0
+2025-01-01,West 60th St,5 - Motorcycles,27,8904,330.0
+2025-01-01,West 60th St,TLC Taxi/FHV,27,591396,21904.0
+2025-01-01,West Side Highway at 60th St,"1 - Cars, Pickups and Vans",27,797179,29525.0
+2025-01-01,West Side Highway at 60th St,2 - Single-Unit Trucks,27,10407,385.0
+2025-01-01,West Side Highway at 60th St,3 - Multi-Unit Trucks,27,205,8.0
+2025-01-01,West Side Highway at 60th St,4 - Buses,27,13519,501.0
+2025-01-01,West Side Highway at 60th St,5 - Motorcycles,27,1282,47.0
+2025-01-01,West Side Highway at 60th St,TLC Taxi/FHV,27,272053,10076.0
+2025-01-01,Williamsburg Bridge,"1 - Cars, Pickups and Vans",27,598550,22169.0
+2025-01-01,Williamsburg Bridge,2 - Single-Unit Trucks,27,50428,1868.0
+2025-01-01,Williamsburg Bridge,3 - Multi-Unit Trucks,27,3143,116.0
+2025-01-01,Williamsburg Bridge,4 - Buses,27,6177,229.0
+2025-01-01,Williamsburg Bridge,5 - Motorcycles,27,1738,64.0
+2025-01-01,Williamsburg Bridge,TLC Taxi/FHV,27,388889,14403.0
+2025-02-01,Brooklyn Bridge,"1 - Cars, Pickups and Vans",28,459169,16399.0
+2025-02-01,Brooklyn Bridge,2 - Single-Unit Trucks,28,5883,210.0
+2025-02-01,Brooklyn Bridge,3 - Multi-Unit Trucks,28,113,4.0
+2025-02-01,Brooklyn Bridge,4 - Buses,28,1749,62.0
+2025-02-01,Brooklyn Bridge,5 - Motorcycles,28,1223,44.0
+2025-02-01,Brooklyn Bridge,TLC Taxi/FHV,28,312633,11165.0
+2025-02-01,East 60th St,"1 - Cars, Pickups and Vans",28,817259,29188.0
+2025-02-01,East 60th St,2 - Single-Unit Trucks,28,96020,3429.0
+2025-02-01,East 60th St,3 - Multi-Unit Trucks,28,5454,195.0
+2025-02-01,East 60th St,4 - Buses,28,51253,1830.0
+2025-02-01,East 60th St,5 - Motorcycles,28,16740,598.0
+2025-02-01,East 60th St,TLC Taxi/FHV,28,1122728,40097.0
+2025-02-01,FDR Drive at 60th St,"1 - Cars, Pickups and Vans",28,853344,30477.0
+2025-02-01,FDR Drive at 60th St,2 - Single-Unit Trucks,28,12879,460.0
+2025-02-01,FDR Drive at 60th St,3 - Multi-Unit Trucks,28,122,4.0
+2025-02-01,FDR Drive at 60th St,4 - Buses,28,10823,387.0
+2025-02-01,FDR Drive at 60th St,5 - Motorcycles,28,2879,103.0
+2025-02-01,FDR Drive at 60th St,TLC Taxi/FHV,28,504922,18033.0
+2025-02-01,Holland Tunnel,"1 - Cars, Pickups and Vans",28,766107,27361.0
+2025-02-01,Holland Tunnel,2 - Single-Unit Trucks,28,40323,1440.0
+2025-02-01,Holland Tunnel,3 - Multi-Unit Trucks,28,1516,54.0
+2025-02-01,Holland Tunnel,4 - Buses,28,3046,109.0
+2025-02-01,Holland Tunnel,5 - Motorcycles,28,363,13.0
+2025-02-01,Holland Tunnel,TLC Taxi/FHV,28,268791,9600.0
+2025-02-01,Hugh L. Carey Tunnel,"1 - Cars, Pickups and Vans",28,387424,13837.0
+2025-02-01,Hugh L. Carey Tunnel,2 - Single-Unit Trucks,28,17097,611.0
+2025-02-01,Hugh L. Carey Tunnel,3 - Multi-Unit Trucks,28,333,12.0
+2025-02-01,Hugh L. Carey Tunnel,4 - Buses,28,31075,1110.0
+2025-02-01,Hugh L. Carey Tunnel,5 - Motorcycles,28,555,20.0
+2025-02-01,Hugh L. Carey Tunnel,TLC Taxi/FHV,28,128411,4586.0
+2025-02-01,Lincoln Tunnel,"1 - Cars, Pickups and Vans",28,860945,30748.0
+2025-02-01,Lincoln Tunnel,2 - Single-Unit Trucks,28,85844,3066.0
+2025-02-01,Lincoln Tunnel,3 - Multi-Unit Trucks,28,9547,341.0
+2025-02-01,Lincoln Tunnel,4 - Buses,28,40297,1439.0
+2025-02-01,Lincoln Tunnel,5 - Motorcycles,28,3053,109.0
+2025-02-01,Lincoln Tunnel,TLC Taxi/FHV,28,199790,7135.0
+2025-02-01,Manhattan Bridge,"1 - Cars, Pickups and Vans",28,440412,15729.0
+2025-02-01,Manhattan Bridge,2 - Single-Unit Trucks,28,50901,1818.0
+2025-02-01,Manhattan Bridge,3 - Multi-Unit Trucks,28,5049,180.0
+2025-02-01,Manhattan Bridge,4 - Buses,28,10918,390.0
+2025-02-01,Manhattan Bridge,5 - Motorcycles,28,2149,77.0
+2025-02-01,Manhattan Bridge,TLC Taxi/FHV,28,280913,10033.0
+2025-02-01,Queens Midtown Tunnel,"1 - Cars, Pickups and Vans",28,615391,21978.0
+2025-02-01,Queens Midtown Tunnel,2 - Single-Unit Trucks,28,53832,1923.0
+2025-02-01,Queens Midtown Tunnel,3 - Multi-Unit Trucks,28,1413,50.0
+2025-02-01,Queens Midtown Tunnel,4 - Buses,28,23803,850.0
+2025-02-01,Queens Midtown Tunnel,5 - Motorcycles,28,719,26.0
+2025-02-01,Queens Midtown Tunnel,TLC Taxi/FHV,28,459934,16426.0
+2025-02-01,Queensboro Bridge,"1 - Cars, Pickups and Vans",28,448037,16001.0
+2025-02-01,Queensboro Bridge,2 - Single-Unit Trucks,28,59762,2134.0
+2025-02-01,Queensboro Bridge,3 - Multi-Unit Trucks,28,4082,146.0
+2025-02-01,Queensboro Bridge,4 - Buses,28,9986,357.0
+2025-02-01,Queensboro Bridge,5 - Motorcycles,28,2947,105.0
+2025-02-01,Queensboro Bridge,TLC Taxi/FHV,28,432130,15433.0
+2025-02-01,West 60th St,"1 - Cars, Pickups and Vans",28,348744,12455.0
+2025-02-01,West 60th St,2 - Single-Unit Trucks,28,57551,2055.0
+2025-02-01,West 60th St,3 - Multi-Unit Trucks,28,3380,121.0
+2025-02-01,West 60th St,4 - Buses,28,28007,1000.0
+2025-02-01,West 60th St,5 - Motorcycles,28,10076,360.0
+2025-02-01,West 60th St,TLC Taxi/FHV,28,612382,21871.0
+2025-02-01,West Side Highway at 60th St,"1 - Cars, Pickups and Vans",28,850853,30388.0
+2025-02-01,West Side Highway at 60th St,2 - Single-Unit Trucks,28,9817,351.0
+2025-02-01,West Side Highway at 60th St,3 - Multi-Unit Trucks,28,185,7.0
+2025-02-01,West Side Highway at 60th St,4 - Buses,28,13372,478.0
+2025-02-01,West Side Highway at 60th St,5 - Motorcycles,28,1456,52.0
+2025-02-01,West Side Highway at 60th St,TLC Taxi/FHV,28,304559,10877.0
+2025-02-01,Williamsburg Bridge,"1 - Cars, Pickups and Vans",28,622586,22235.0
+2025-02-01,Williamsburg Bridge,2 - Single-Unit Trucks,28,50881,1817.0
+2025-02-01,Williamsburg Bridge,3 - Multi-Unit Trucks,28,2797,100.0
+2025-02-01,Williamsburg Bridge,4 - Buses,28,6180,221.0
+2025-02-01,Williamsburg Bridge,5 - Motorcycles,28,1804,64.0
+2025-02-01,Williamsburg Bridge,TLC Taxi/FHV,28,419202,14972.0
+2025-03-01,Brooklyn Bridge,"1 - Cars, Pickups and Vans",31,519935,16772.0
+2025-03-01,Brooklyn Bridge,2 - Single-Unit Trucks,31,4840,156.0
+2025-03-01,Brooklyn Bridge,3 - Multi-Unit Trucks,31,57,2.0
+2025-03-01,Brooklyn Bridge,4 - Buses,31,2058,66.0
+2025-03-01,Brooklyn Bridge,5 - Motorcycles,31,1994,64.0
+2025-03-01,Brooklyn Bridge,TLC Taxi/FHV,31,344477,11112.0
+2025-03-01,East 60th St,"1 - Cars, Pickups and Vans",31,932100,30068.0
+2025-03-01,East 60th St,2 - Single-Unit Trucks,31,98508,3178.0
+2025-03-01,East 60th St,3 - Multi-Unit Trucks,31,5737,185.0
+2025-03-01,East 60th St,4 - Buses,31,55019,1775.0
+2025-03-01,East 60th St,5 - Motorcycles,31,20641,666.0
+2025-03-01,East 60th St,TLC Taxi/FHV,31,1234502,39823.0
+2025-03-01,FDR Drive at 60th St,"1 - Cars, Pickups and Vans",31,1015078,32744.0
+2025-03-01,FDR Drive at 60th St,2 - Single-Unit Trucks,31,9881,319.0
+2025-03-01,FDR Drive at 60th St,3 - Multi-Unit Trucks,31,82,3.0
+2025-03-01,FDR Drive at 60th St,4 - Buses,31,12966,418.0
+2025-03-01,FDR Drive at 60th St,5 - Motorcycles,31,4595,148.0
+2025-03-01,FDR Drive at 60th St,TLC Taxi/FHV,31,570589,18406.0
+2025-03-01,Holland Tunnel,"1 - Cars, Pickups and Vans",31,892718,28797.0
+2025-03-01,Holland Tunnel,2 - Single-Unit Trucks,31,41947,1353.0
+2025-03-01,Holland Tunnel,3 - Multi-Unit Trucks,31,981,32.0
+2025-03-01,Holland Tunnel,4 - Buses,31,3987,129.0
+2025-03-01,Holland Tunnel,5 - Motorcycles,31,667,22.0
+2025-03-01,Holland Tunnel,TLC Taxi/FHV,31,313571,10115.0
+2025-03-01,Hugh L. Carey Tunnel,"1 - Cars, Pickups and Vans",31,458710,14797.0
+2025-03-01,Hugh L. Carey Tunnel,2 - Single-Unit Trucks,31,16319,526.0
+2025-03-01,Hugh L. Carey Tunnel,3 - Multi-Unit Trucks,31,388,13.0
+2025-03-01,Hugh L. Carey Tunnel,4 - Buses,31,34080,1099.0
+2025-03-01,Hugh L. Carey Tunnel,5 - Motorcycles,31,967,31.0
+2025-03-01,Hugh L. Carey Tunnel,TLC Taxi/FHV,31,141621,4568.0
+2025-03-01,Lincoln Tunnel,"1 - Cars, Pickups and Vans",31,1022028,32969.0
+2025-03-01,Lincoln Tunnel,2 - Single-Unit Trucks,31,92234,2975.0
+2025-03-01,Lincoln Tunnel,3 - Multi-Unit Trucks,31,10079,325.0
+2025-03-01,Lincoln Tunnel,4 - Buses,31,47668,1538.0
+2025-03-01,Lincoln Tunnel,5 - Motorcycles,31,3289,106.0
+2025-03-01,Lincoln Tunnel,TLC Taxi/FHV,31,227873,7351.0
+2025-03-01,Manhattan Bridge,"1 - Cars, Pickups and Vans",31,510649,16473.0
+2025-03-01,Manhattan Bridge,2 - Single-Unit Trucks,31,52847,1705.0
+2025-03-01,Manhattan Bridge,3 - Multi-Unit Trucks,31,5711,184.0
+2025-03-01,Manhattan Bridge,4 - Buses,31,13082,422.0
+2025-03-01,Manhattan Bridge,5 - Motorcycles,31,3328,107.0
+2025-03-01,Manhattan Bridge,TLC Taxi/FHV,31,305914,9868.0
+2025-03-01,Queens Midtown Tunnel,"1 - Cars, Pickups and Vans",31,735314,23720.0
+2025-03-01,Queens Midtown Tunnel,2 - Single-Unit Trucks,31,54428,1756.0
+2025-03-01,Queens Midtown Tunnel,3 - Multi-Unit Trucks,31,1469,47.0
+2025-03-01,Queens Midtown Tunnel,4 - Buses,31,30113,971.0
+2025-03-01,Queens Midtown Tunnel,5 - Motorcycles,31,1103,36.0
+2025-03-01,Queens Midtown Tunnel,TLC Taxi/FHV,31,524001,16903.0
+2025-03-01,Queensboro Bridge,"1 - Cars, Pickups and Vans",31,519111,16746.0
+2025-03-01,Queensboro Bridge,2 - Single-Unit Trucks,31,61564,1986.0
+2025-03-01,Queensboro Bridge,3 - Multi-Unit Trucks,31,4680,151.0
+2025-03-01,Queensboro Bridge,4 - Buses,31,11559,373.0
+2025-03-01,Queensboro Bridge,5 - Motorcycles,31,4339,140.0
+2025-03-01,Queensboro Bridge,TLC Taxi/FHV,31,506884,16351.0
+2025-03-01,West 60th St,"1 - Cars, Pickups and Vans",31,400098,12906.0
+2025-03-01,West 60th St,2 - Single-Unit Trucks,31,58907,1900.0
+2025-03-01,West 60th St,3 - Multi-Unit Trucks,31,3943,127.0
+2025-03-01,West 60th St,4 - Buses,31,31693,1022.0
+2025-03-01,West 60th St,5 - Motorcycles,31,11337,366.0
+2025-03-01,West 60th St,TLC Taxi/FHV,31,666113,21488.0
+2025-03-01,West Side Highway at 60th St,"1 - Cars, Pickups and Vans",31,999204,32232.0
+2025-03-01,West Side Highway at 60th St,2 - Single-Unit Trucks,31,7615,246.0
+2025-03-01,West Side Highway at 60th St,3 - Multi-Unit Trucks,31,112,4.0
+2025-03-01,West Side Highway at 60th St,4 - Buses,31,15381,496.0
+2025-03-01,West Side Highway at 60th St,5 - Motorcycles,31,2547,82.0
+2025-03-01,West Side Highway at 60th St,TLC Taxi/FHV,31,335136,10811.0
+2025-03-01,Williamsburg Bridge,"1 - Cars, Pickups and Vans",31,727938,23482.0
+2025-03-01,Williamsburg Bridge,2 - Single-Unit Trucks,31,53306,1720.0
+2025-03-01,Williamsburg Bridge,3 - Multi-Unit Trucks,31,2811,91.0
+2025-03-01,Williamsburg Bridge,4 - Buses,31,6848,221.0
+2025-03-01,Williamsburg Bridge,5 - Motorcycles,31,3256,105.0
+2025-03-01,Williamsburg Bridge,TLC Taxi/FHV,31,469927,15159.0
+2025-04-01,Brooklyn Bridge,"1 - Cars, Pickups and Vans",30,482481,16083.0
+2025-04-01,Brooklyn Bridge,2 - Single-Unit Trucks,30,4506,150.0
+2025-04-01,Brooklyn Bridge,3 - Multi-Unit Trucks,30,48,2.0
+2025-04-01,Brooklyn Bridge,4 - Buses,30,1825,61.0
+2025-04-01,Brooklyn Bridge,5 - Motorcycles,30,2179,73.0
+2025-04-01,Brooklyn Bridge,TLC Taxi/FHV,30,344521,11484.0
+2025-04-01,East 60th St,"1 - Cars, Pickups and Vans",30,918743,30625.0
+2025-04-01,East 60th St,2 - Single-Unit Trucks,30,96069,3202.0
+2025-04-01,East 60th St,3 - Multi-Unit Trucks,30,6095,203.0
+2025-04-01,East 60th St,4 - Buses,30,53399,1780.0
+2025-04-01,East 60th St,5 - Motorcycles,30,20619,687.0
+2025-04-01,East 60th St,TLC Taxi/FHV,30,1249873,41662.0
+2025-04-01,FDR Drive at 60th St,"1 - Cars, Pickups and Vans",30,963513,32117.0
+2025-04-01,FDR Drive at 60th St,2 - Single-Unit Trucks,30,9367,312.0
+2025-04-01,FDR Drive at 60th St,3 - Multi-Unit Trucks,30,118,4.0
+2025-04-01,FDR Drive at 60th St,4 - Buses,30,11561,385.0
+2025-04-01,FDR Drive at 60th St,5 - Motorcycles,30,5100,170.0
+2025-04-01,FDR Drive at 60th St,TLC Taxi/FHV,30,561575,18719.0
+2025-04-01,Holland Tunnel,"1 - Cars, Pickups and Vans",30,897116,29904.0
+2025-04-01,Holland Tunnel,2 - Single-Unit Trucks,30,42139,1405.0
+2025-04-01,Holland Tunnel,3 - Multi-Unit Trucks,30,1055,35.0
+2025-04-01,Holland Tunnel,4 - Buses,30,4320,144.0
+2025-04-01,Holland Tunnel,5 - Motorcycles,30,756,25.0
+2025-04-01,Holland Tunnel,TLC Taxi/FHV,30,298961,9965.0
+2025-04-01,Hugh L. Carey Tunnel,"1 - Cars, Pickups and Vans",30,452258,15075.0
+2025-04-01,Hugh L. Carey Tunnel,2 - Single-Unit Trucks,30,15413,514.0
+2025-04-01,Hugh L. Carey Tunnel,3 - Multi-Unit Trucks,30,437,15.0
+2025-04-01,Hugh L. Carey Tunnel,4 - Buses,30,32986,1100.0
+2025-04-01,Hugh L. Carey Tunnel,5 - Motorcycles,30,1308,44.0
+2025-04-01,Hugh L. Carey Tunnel,TLC Taxi/FHV,30,136757,4559.0
+2025-04-01,Lincoln Tunnel,"1 - Cars, Pickups and Vans",30,1017289,33910.0
+2025-04-01,Lincoln Tunnel,2 - Single-Unit Trucks,30,90455,3015.0
+2025-04-01,Lincoln Tunnel,3 - Multi-Unit Trucks,30,9745,325.0
+2025-04-01,Lincoln Tunnel,4 - Buses,30,47760,1592.0
+2025-04-01,Lincoln Tunnel,5 - Motorcycles,30,3481,116.0
+2025-04-01,Lincoln Tunnel,TLC Taxi/FHV,30,217736,7258.0
+2025-04-01,Manhattan Bridge,"1 - Cars, Pickups and Vans",30,506745,16892.0
+2025-04-01,Manhattan Bridge,2 - Single-Unit Trucks,30,52429,1748.0
+2025-04-01,Manhattan Bridge,3 - Multi-Unit Trucks,30,5531,184.0
+2025-04-01,Manhattan Bridge,4 - Buses,30,13340,445.0
+2025-04-01,Manhattan Bridge,5 - Motorcycles,30,3817,127.0
+2025-04-01,Manhattan Bridge,TLC Taxi/FHV,30,303310,10110.0
+2025-04-01,Queens Midtown Tunnel,"1 - Cars, Pickups and Vans",30,733422,24447.0
+2025-04-01,Queens Midtown Tunnel,2 - Single-Unit Trucks,30,60338,2011.0
+2025-04-01,Queens Midtown Tunnel,3 - Multi-Unit Trucks,30,4722,157.0
+2025-04-01,Queens Midtown Tunnel,4 - Buses,30,29747,992.0
+2025-04-01,Queens Midtown Tunnel,5 - Motorcycles,30,1565,52.0
+2025-04-01,Queens Midtown Tunnel,TLC Taxi/FHV,30,493955,16465.0
+2025-04-01,Queensboro Bridge,"1 - Cars, Pickups and Vans",30,516064,17202.0
+2025-04-01,Queensboro Bridge,2 - Single-Unit Trucks,30,61159,2039.0
+2025-04-01,Queensboro Bridge,3 - Multi-Unit Trucks,30,4950,165.0
+2025-04-01,Queensboro Bridge,4 - Buses,30,11580,386.0
+2025-04-01,Queensboro Bridge,5 - Motorcycles,30,4979,166.0
+2025-04-01,Queensboro Bridge,TLC Taxi/FHV,30,516495,17216.0
+2025-04-01,West 60th St,"1 - Cars, Pickups and Vans",30,403390,13446.0
+2025-04-01,West 60th St,2 - Single-Unit Trucks,30,57948,1932.0
+2025-04-01,West 60th St,3 - Multi-Unit Trucks,30,4083,136.0
+2025-04-01,West 60th St,4 - Buses,30,27888,930.0
+2025-04-01,West 60th St,5 - Motorcycles,30,11017,367.0
+2025-04-01,West 60th St,TLC Taxi/FHV,30,659301,21977.0
+2025-04-01,West Side Highway at 60th St,"1 - Cars, Pickups and Vans",30,992525,33084.0
+2025-04-01,West Side Highway at 60th St,2 - Single-Unit Trucks,30,7783,259.0
+2025-04-01,West Side Highway at 60th St,3 - Multi-Unit Trucks,30,143,5.0
+2025-04-01,West Side Highway at 60th St,4 - Buses,30,15248,508.0
+2025-04-01,West Side Highway at 60th St,5 - Motorcycles,30,2796,93.0
+2025-04-01,West Side Highway at 60th St,TLC Taxi/FHV,30,333362,11112.0
+2025-04-01,Williamsburg Bridge,"1 - Cars, Pickups and Vans",30,693904,23130.0
+2025-04-01,Williamsburg Bridge,2 - Single-Unit Trucks,30,53544,1785.0
+2025-04-01,Williamsburg Bridge,3 - Multi-Unit Trucks,30,2550,85.0
+2025-04-01,Williamsburg Bridge,4 - Buses,30,7668,256.0
+2025-04-01,Williamsburg Bridge,5 - Motorcycles,30,3632,121.0
+2025-04-01,Williamsburg Bridge,TLC Taxi/FHV,30,453673,15122.0
+2025-05-01,Brooklyn Bridge,"1 - Cars, Pickups and Vans",31,491737,15862.0
+2025-05-01,Brooklyn Bridge,2 - Single-Unit Trucks,31,4863,157.0
+2025-05-01,Brooklyn Bridge,3 - Multi-Unit Trucks,31,55,2.0
+2025-05-01,Brooklyn Bridge,4 - Buses,31,2001,65.0
+2025-05-01,Brooklyn Bridge,5 - Motorcycles,31,1970,64.0
+2025-05-01,Brooklyn Bridge,TLC Taxi/FHV,31,360949,11644.0
+2025-05-01,East 60th St,"1 - Cars, Pickups and Vans",31,990374,31948.0
+2025-05-01,East 60th St,2 - Single-Unit Trucks,31,99048,3195.0
+2025-05-01,East 60th St,3 - Multi-Unit Trucks,31,6073,196.0
+2025-05-01,East 60th St,4 - Buses,31,54898,1771.0
+2025-05-01,East 60th St,5 - Motorcycles,31,20859,673.0
+2025-05-01,East 60th St,TLC Taxi/FHV,31,1258396,40593.0
+2025-05-01,FDR Drive at 60th St,"1 - Cars, Pickups and Vans",31,1006132,32456.0
+2025-05-01,FDR Drive at 60th St,2 - Single-Unit Trucks,31,10143,327.0
+2025-05-01,FDR Drive at 60th St,3 - Multi-Unit Trucks,31,104,3.0
+2025-05-01,FDR Drive at 60th St,4 - Buses,31,13363,431.0
+2025-05-01,FDR Drive at 60th St,5 - Motorcycles,31,5384,174.0
+2025-05-01,FDR Drive at 60th St,TLC Taxi/FHV,31,589379,19012.0
+2025-05-01,Holland Tunnel,"1 - Cars, Pickups and Vans",31,970858,31318.0
+2025-05-01,Holland Tunnel,2 - Single-Unit Trucks,31,44596,1439.0
+2025-05-01,Holland Tunnel,3 - Multi-Unit Trucks,31,988,32.0
+2025-05-01,Holland Tunnel,4 - Buses,31,4777,154.0
+2025-05-01,Holland Tunnel,5 - Motorcycles,31,822,27.0
+2025-05-01,Holland Tunnel,TLC Taxi/FHV,31,310431,10014.0
+2025-05-01,Hugh L. Carey Tunnel,"1 - Cars, Pickups and Vans",31,489737,15798.0
+2025-05-01,Hugh L. Carey Tunnel,2 - Single-Unit Trucks,31,14893,480.0
+2025-05-01,Hugh L. Carey Tunnel,3 - Multi-Unit Trucks,31,391,13.0
+2025-05-01,Hugh L. Carey Tunnel,4 - Buses,31,32536,1050.0
+2025-05-01,Hugh L. Carey Tunnel,5 - Motorcycles,31,1403,45.0
+2025-05-01,Hugh L. Carey Tunnel,TLC Taxi/FHV,31,149309,4816.0
+2025-05-01,Lincoln Tunnel,"1 - Cars, Pickups and Vans",31,1126804,36349.0
+2025-05-01,Lincoln Tunnel,2 - Single-Unit Trucks,31,94033,3033.0
+2025-05-01,Lincoln Tunnel,3 - Multi-Unit Trucks,31,9696,313.0
+2025-05-01,Lincoln Tunnel,4 - Buses,31,47505,1532.0
+2025-05-01,Lincoln Tunnel,5 - Motorcycles,31,3746,121.0
+2025-05-01,Lincoln Tunnel,TLC Taxi/FHV,31,245772,7928.0
+2025-05-01,Manhattan Bridge,"1 - Cars, Pickups and Vans",31,544827,17575.0
+2025-05-01,Manhattan Bridge,2 - Single-Unit Trucks,31,53523,1727.0
+2025-05-01,Manhattan Bridge,3 - Multi-Unit Trucks,31,5950,192.0
+2025-05-01,Manhattan Bridge,4 - Buses,31,13423,433.0
+2025-05-01,Manhattan Bridge,5 - Motorcycles,31,3778,122.0
+2025-05-01,Manhattan Bridge,TLC Taxi/FHV,31,318920,10288.0
+2025-05-01,Queens Midtown Tunnel,"1 - Cars, Pickups and Vans",31,791749,25540.0
+2025-05-01,Queens Midtown Tunnel,2 - Single-Unit Trucks,31,58960,1902.0
+2025-05-01,Queens Midtown Tunnel,3 - Multi-Unit Trucks,31,2524,81.0
+2025-05-01,Queens Midtown Tunnel,4 - Buses,31,30312,978.0
+2025-05-01,Queens Midtown Tunnel,5 - Motorcycles,31,1588,51.0
+2025-05-01,Queens Midtown Tunnel,TLC Taxi/FHV,31,563780,18186.0
+2025-05-01,Queensboro Bridge,"1 - Cars, Pickups and Vans",31,558807,18026.0
+2025-05-01,Queensboro Bridge,2 - Single-Unit Trucks,31,63011,2033.0
+2025-05-01,Queensboro Bridge,3 - Multi-Unit Trucks,31,4959,160.0
+2025-05-01,Queensboro Bridge,4 - Buses,31,12068,389.0
+2025-05-01,Queensboro Bridge,5 - Motorcycles,31,4805,155.0
+2025-05-01,Queensboro Bridge,TLC Taxi/FHV,31,556686,17958.0
+2025-05-01,West 60th St,"1 - Cars, Pickups and Vans",31,438008,14129.0
+2025-05-01,West 60th St,2 - Single-Unit Trucks,31,59711,1926.0
+2025-05-01,West 60th St,3 - Multi-Unit Trucks,31,4312,139.0
+2025-05-01,West 60th St,4 - Buses,31,29371,947.0
+2025-05-01,West 60th St,5 - Motorcycles,31,10316,333.0
+2025-05-01,West 60th St,TLC Taxi/FHV,31,650265,20976.0
+2025-05-01,West Side Highway at 60th St,"1 - Cars, Pickups and Vans",31,1014023,32710.0
+2025-05-01,West Side Highway at 60th St,2 - Single-Unit Trucks,31,8539,275.0
+2025-05-01,West Side Highway at 60th St,3 - Multi-Unit Trucks,31,139,4.0
+2025-05-01,West Side Highway at 60th St,4 - Buses,31,16707,539.0
+2025-05-01,West Side Highway at 60th St,5 - Motorcycles,31,3297,106.0
+2025-05-01,West Side Highway at 60th St,TLC Taxi/FHV,31,332044,10711.0
+2025-05-01,Williamsburg Bridge,"1 - Cars, Pickups and Vans",31,729429,23530.0
+2025-05-01,Williamsburg Bridge,2 - Single-Unit Trucks,31,53658,1731.0
+2025-05-01,Williamsburg Bridge,3 - Multi-Unit Trucks,31,2798,90.0
+2025-05-01,Williamsburg Bridge,4 - Buses,31,8988,290.0
+2025-05-01,Williamsburg Bridge,5 - Motorcycles,31,3922,127.0
+2025-05-01,Williamsburg Bridge,TLC Taxi/FHV,31,481469,15531.0
+2025-06-01,Brooklyn Bridge,"1 - Cars, Pickups and Vans",30,456787,15226.0
+2025-06-01,Brooklyn Bridge,2 - Single-Unit Trucks,30,4795,160.0
+2025-06-01,Brooklyn Bridge,3 - Multi-Unit Trucks,30,48,2.0
+2025-06-01,Brooklyn Bridge,4 - Buses,30,1452,48.0
+2025-06-01,Brooklyn Bridge,5 - Motorcycles,30,2209,74.0
+2025-06-01,Brooklyn Bridge,TLC Taxi/FHV,30,328420,10947.0
+2025-06-01,East 60th St,"1 - Cars, Pickups and Vans",30,940162,31339.0
+2025-06-01,East 60th St,2 - Single-Unit Trucks,30,93825,3128.0
+2025-06-01,East 60th St,3 - Multi-Unit Trucks,30,5853,195.0
+2025-06-01,East 60th St,4 - Buses,30,50064,1669.0
+2025-06-01,East 60th St,5 - Motorcycles,30,18423,614.0
+2025-06-01,East 60th St,TLC Taxi/FHV,30,1178539,39285.0
+2025-06-01,FDR Drive at 60th St,"1 - Cars, Pickups and Vans",30,976324,32544.0
+2025-06-01,FDR Drive at 60th St,2 - Single-Unit Trucks,30,10196,340.0
+2025-06-01,FDR Drive at 60th St,3 - Multi-Unit Trucks,30,80,3.0
+2025-06-01,FDR Drive at 60th St,4 - Buses,30,9373,312.0
+2025-06-01,FDR Drive at 60th St,5 - Motorcycles,30,6680,223.0
+2025-06-01,FDR Drive at 60th St,TLC Taxi/FHV,30,556035,18534.0
+2025-06-01,Holland Tunnel,"1 - Cars, Pickups and Vans",30,945505,31517.0
+2025-06-01,Holland Tunnel,2 - Single-Unit Trucks,30,43047,1435.0
+2025-06-01,Holland Tunnel,3 - Multi-Unit Trucks,30,881,29.0
+2025-06-01,Holland Tunnel,4 - Buses,30,4641,155.0
+2025-06-01,Holland Tunnel,5 - Motorcycles,30,900,30.0
+2025-06-01,Holland Tunnel,TLC Taxi/FHV,30,303719,10124.0
+2025-06-01,Hugh L. Carey Tunnel,"1 - Cars, Pickups and Vans",30,465380,15513.0
+2025-06-01,Hugh L. Carey Tunnel,2 - Single-Unit Trucks,30,14165,472.0
+2025-06-01,Hugh L. Carey Tunnel,3 - Multi-Unit Trucks,30,349,12.0
+2025-06-01,Hugh L. Carey Tunnel,4 - Buses,30,30457,1015.0
+2025-06-01,Hugh L. Carey Tunnel,5 - Motorcycles,30,1743,58.0
+2025-06-01,Hugh L. Carey Tunnel,TLC Taxi/FHV,30,144041,4801.0
+2025-06-01,Lincoln Tunnel,"1 - Cars, Pickups and Vans",30,1070466,35682.0
+2025-06-01,Lincoln Tunnel,2 - Single-Unit Trucks,30,89572,2986.0
+2025-06-01,Lincoln Tunnel,3 - Multi-Unit Trucks,30,9031,301.0
+2025-06-01,Lincoln Tunnel,4 - Buses,30,46645,1555.0
+2025-06-01,Lincoln Tunnel,5 - Motorcycles,30,3983,133.0
+2025-06-01,Lincoln Tunnel,TLC Taxi/FHV,30,228917,7631.0
+2025-06-01,Manhattan Bridge,"1 - Cars, Pickups and Vans",30,499161,16639.0
+2025-06-01,Manhattan Bridge,2 - Single-Unit Trucks,30,48866,1629.0
+2025-06-01,Manhattan Bridge,3 - Multi-Unit Trucks,30,5549,185.0
+2025-06-01,Manhattan Bridge,4 - Buses,30,10712,357.0
+2025-06-01,Manhattan Bridge,5 - Motorcycles,30,3616,121.0
+2025-06-01,Manhattan Bridge,TLC Taxi/FHV,30,289022,9634.0
+2025-06-01,Queens Midtown Tunnel,"1 - Cars, Pickups and Vans",30,778355,25945.0
+2025-06-01,Queens Midtown Tunnel,2 - Single-Unit Trucks,30,54368,1812.0
+2025-06-01,Queens Midtown Tunnel,3 - Multi-Unit Trucks,30,1322,44.0
+2025-06-01,Queens Midtown Tunnel,4 - Buses,30,28195,940.0
+2025-06-01,Queens Midtown Tunnel,5 - Motorcycles,30,1800,60.0
+2025-06-01,Queens Midtown Tunnel,TLC Taxi/FHV,30,550761,18359.0
+2025-06-01,Queensboro Bridge,"1 - Cars, Pickups and Vans",30,528051,17602.0
+2025-06-01,Queensboro Bridge,2 - Single-Unit Trucks,30,61965,2066.0
+2025-06-01,Queensboro Bridge,3 - Multi-Unit Trucks,30,4928,164.0
+2025-06-01,Queensboro Bridge,4 - Buses,30,10785,360.0
+2025-06-01,Queensboro Bridge,5 - Motorcycles,30,5007,167.0
+2025-06-01,Queensboro Bridge,TLC Taxi/FHV,30,507648,16922.0
+2025-06-01,West 60th St,"1 - Cars, Pickups and Vans",30,399924,13331.0
+2025-06-01,West 60th St,2 - Single-Unit Trucks,30,56269,1876.0
+2025-06-01,West 60th St,3 - Multi-Unit Trucks,30,3999,133.0
+2025-06-01,West 60th St,4 - Buses,30,25434,848.0
+2025-06-01,West 60th St,5 - Motorcycles,30,9149,305.0
+2025-06-01,West 60th St,TLC Taxi/FHV,30,597909,19930.0
+2025-06-01,West Side Highway at 60th St,"1 - Cars, Pickups and Vans",30,991175,33039.0
+2025-06-01,West Side Highway at 60th St,2 - Single-Unit Trucks,30,8313,277.0
+2025-06-01,West Side Highway at 60th St,3 - Multi-Unit Trucks,30,202,7.0
+2025-06-01,West Side Highway at 60th St,4 - Buses,30,12928,431.0
+2025-06-01,West Side Highway at 60th St,5 - Motorcycles,30,3150,105.0
+2025-06-01,West Side Highway at 60th St,TLC Taxi/FHV,30,312327,10411.0
+2025-06-01,Williamsburg Bridge,"1 - Cars, Pickups and Vans",30,709064,23635.0
+2025-06-01,Williamsburg Bridge,2 - Single-Unit Trucks,30,51224,1707.0
+2025-06-01,Williamsburg Bridge,3 - Multi-Unit Trucks,30,2740,91.0
+2025-06-01,Williamsburg Bridge,4 - Buses,30,7174,239.0
+2025-06-01,Williamsburg Bridge,5 - Motorcycles,30,3894,130.0
+2025-06-01,Williamsburg Bridge,TLC Taxi/FHV,30,445316,14844.0
+2025-07-01,Brooklyn Bridge,"1 - Cars, Pickups and Vans",31,461748,14895.0
+2025-07-01,Brooklyn Bridge,2 - Single-Unit Trucks,31,5149,166.0
+2025-07-01,Brooklyn Bridge,3 - Multi-Unit Trucks,31,26,1.0
+2025-07-01,Brooklyn Bridge,4 - Buses,31,1461,47.0
+2025-07-01,Brooklyn Bridge,5 - Motorcycles,31,2336,75.0
+2025-07-01,Brooklyn Bridge,TLC Taxi/FHV,31,347433,11208.0
+2025-07-01,East 60th St,"1 - Cars, Pickups and Vans",31,916250,29556.0
+2025-07-01,East 60th St,2 - Single-Unit Trucks,31,96757,3121.0
+2025-07-01,East 60th St,3 - Multi-Unit Trucks,31,5726,185.0
+2025-07-01,East 60th St,4 - Buses,31,52647,1698.0
+2025-07-01,East 60th St,5 - Motorcycles,31,18263,589.0
+2025-07-01,East 60th St,TLC Taxi/FHV,31,1223199,39458.0
+2025-07-01,FDR Drive at 60th St,"1 - Cars, Pickups and Vans",31,990407,31949.0
+2025-07-01,FDR Drive at 60th St,2 - Single-Unit Trucks,31,10869,351.0
+2025-07-01,FDR Drive at 60th St,3 - Multi-Unit Trucks,31,70,2.0
+2025-07-01,FDR Drive at 60th St,4 - Buses,31,9521,307.0
+2025-07-01,FDR Drive at 60th St,5 - Motorcycles,31,5804,187.0
+2025-07-01,FDR Drive at 60th St,TLC Taxi/FHV,31,536740,17314.0
+2025-07-01,Holland Tunnel,"1 - Cars, Pickups and Vans",31,950154,30650.0
+2025-07-01,Holland Tunnel,2 - Single-Unit Trucks,31,44901,1448.0
+2025-07-01,Holland Tunnel,3 - Multi-Unit Trucks,31,748,24.0
+2025-07-01,Holland Tunnel,4 - Buses,31,4636,150.0
+2025-07-01,Holland Tunnel,5 - Motorcycles,31,1277,41.0
+2025-07-01,Holland Tunnel,TLC Taxi/FHV,31,311374,10044.0
+2025-07-01,Hugh L. Carey Tunnel,"1 - Cars, Pickups and Vans",31,454784,14670.0
+2025-07-01,Hugh L. Carey Tunnel,2 - Single-Unit Trucks,31,14436,466.0
+2025-07-01,Hugh L. Carey Tunnel,3 - Multi-Unit Trucks,31,416,13.0
+2025-07-01,Hugh L. Carey Tunnel,4 - Buses,31,31554,1018.0
+2025-07-01,Hugh L. Carey Tunnel,5 - Motorcycles,31,1797,58.0
+2025-07-01,Hugh L. Carey Tunnel,TLC Taxi/FHV,31,135623,4375.0
+2025-07-01,Lincoln Tunnel,"1 - Cars, Pickups and Vans",31,1046551,33760.0
+2025-07-01,Lincoln Tunnel,2 - Single-Unit Trucks,31,91858,2963.0
+2025-07-01,Lincoln Tunnel,3 - Multi-Unit Trucks,31,9273,299.0
+2025-07-01,Lincoln Tunnel,4 - Buses,31,47745,1540.0
+2025-07-01,Lincoln Tunnel,5 - Motorcycles,31,4168,134.0
+2025-07-01,Lincoln Tunnel,TLC Taxi/FHV,31,226788,7316.0
+2025-07-01,Manhattan Bridge,"1 - Cars, Pickups and Vans",31,518741,16734.0
+2025-07-01,Manhattan Bridge,2 - Single-Unit Trucks,31,52480,1693.0
+2025-07-01,Manhattan Bridge,3 - Multi-Unit Trucks,31,6065,196.0
+2025-07-01,Manhattan Bridge,4 - Buses,31,9818,317.0
+2025-07-01,Manhattan Bridge,5 - Motorcycles,31,3950,127.0
+2025-07-01,Manhattan Bridge,TLC Taxi/FHV,31,298155,9618.0
+2025-07-01,Queens Midtown Tunnel,"1 - Cars, Pickups and Vans",31,785350,25334.0
+2025-07-01,Queens Midtown Tunnel,2 - Single-Unit Trucks,31,55760,1799.0
+2025-07-01,Queens Midtown Tunnel,3 - Multi-Unit Trucks,31,1218,39.0
+2025-07-01,Queens Midtown Tunnel,4 - Buses,31,28593,922.0
+2025-07-01,Queens Midtown Tunnel,5 - Motorcycles,31,1922,62.0
+2025-07-01,Queens Midtown Tunnel,TLC Taxi/FHV,31,532688,17183.0
+2025-07-01,Queensboro Bridge,"1 - Cars, Pickups and Vans",31,502674,16215.0
+2025-07-01,Queensboro Bridge,2 - Single-Unit Trucks,31,62843,2027.0
+2025-07-01,Queensboro Bridge,3 - Multi-Unit Trucks,31,4874,157.0
+2025-07-01,Queensboro Bridge,4 - Buses,31,11107,358.0
+2025-07-01,Queensboro Bridge,5 - Motorcycles,31,5960,192.0
+2025-07-01,Queensboro Bridge,TLC Taxi/FHV,31,507835,16382.0
+2025-07-01,West 60th St,"1 - Cars, Pickups and Vans",31,382388,12335.0
+2025-07-01,West 60th St,2 - Single-Unit Trucks,31,57990,1871.0
+2025-07-01,West 60th St,3 - Multi-Unit Trucks,31,3867,125.0
+2025-07-01,West 60th St,4 - Buses,31,25885,835.0
+2025-07-01,West 60th St,5 - Motorcycles,31,9214,297.0
+2025-07-01,West 60th St,TLC Taxi/FHV,31,605981,19548.0
+2025-07-01,West Side Highway at 60th St,"1 - Cars, Pickups and Vans",31,1012953,32676.0
+2025-07-01,West Side Highway at 60th St,2 - Single-Unit Trucks,31,9338,301.0
+2025-07-01,West Side Highway at 60th St,3 - Multi-Unit Trucks,31,142,5.0
+2025-07-01,West Side Highway at 60th St,4 - Buses,31,13420,433.0
+2025-07-01,West Side Highway at 60th St,5 - Motorcycles,31,3748,121.0
+2025-07-01,West Side Highway at 60th St,TLC Taxi/FHV,31,322554,10405.0
+2025-07-01,Williamsburg Bridge,"1 - Cars, Pickups and Vans",31,736221,23749.0
+2025-07-01,Williamsburg Bridge,2 - Single-Unit Trucks,31,54372,1754.0
+2025-07-01,Williamsburg Bridge,3 - Multi-Unit Trucks,31,2912,94.0
+2025-07-01,Williamsburg Bridge,4 - Buses,31,6185,200.0
+2025-07-01,Williamsburg Bridge,5 - Motorcycles,31,5173,167.0
+2025-07-01,Williamsburg Bridge,TLC Taxi/FHV,31,453057,14615.0
+2025-08-01,Brooklyn Bridge,"1 - Cars, Pickups and Vans",31,440954,14224.0
+2025-08-01,Brooklyn Bridge,2 - Single-Unit Trucks,31,4990,161.0
+2025-08-01,Brooklyn Bridge,3 - Multi-Unit Trucks,31,29,1.0
+2025-08-01,Brooklyn Bridge,4 - Buses,31,856,28.0
+2025-08-01,Brooklyn Bridge,5 - Motorcycles,31,2344,76.0
+2025-08-01,Brooklyn Bridge,TLC Taxi/FHV,31,340688,10990.0
+2025-08-01,East 60th St,"1 - Cars, Pickups and Vans",31,880034,28388.0
+2025-08-01,East 60th St,2 - Single-Unit Trucks,31,94660,3054.0
+2025-08-01,East 60th St,3 - Multi-Unit Trucks,31,5284,170.0
+2025-08-01,East 60th St,4 - Buses,31,49671,1602.0
+2025-08-01,East 60th St,5 - Motorcycles,31,17082,551.0
+2025-08-01,East 60th St,TLC Taxi/FHV,31,1169939,37740.0
+2025-08-01,FDR Drive at 60th St,"1 - Cars, Pickups and Vans",31,973047,31389.0
+2025-08-01,FDR Drive at 60th St,2 - Single-Unit Trucks,31,11166,360.0
+2025-08-01,FDR Drive at 60th St,3 - Multi-Unit Trucks,31,86,3.0
+2025-08-01,FDR Drive at 60th St,4 - Buses,31,5711,184.0
+2025-08-01,FDR Drive at 60th St,5 - Motorcycles,31,6135,198.0
+2025-08-01,FDR Drive at 60th St,TLC Taxi/FHV,31,531827,17156.0
+2025-08-01,Holland Tunnel,"1 - Cars, Pickups and Vans",31,978686,31571.0
+2025-08-01,Holland Tunnel,2 - Single-Unit Trucks,31,44402,1432.0
+2025-08-01,Holland Tunnel,3 - Multi-Unit Trucks,31,746,24.0
+2025-08-01,Holland Tunnel,4 - Buses,31,4284,138.0
+2025-08-01,Holland Tunnel,5 - Motorcycles,31,1133,37.0
+2025-08-01,Holland Tunnel,TLC Taxi/FHV,31,303089,9777.0
+2025-08-01,Hugh L. Carey Tunnel,"1 - Cars, Pickups and Vans",31,465410,15013.0
+2025-08-01,Hugh L. Carey Tunnel,2 - Single-Unit Trucks,31,14315,462.0
+2025-08-01,Hugh L. Carey Tunnel,3 - Multi-Unit Trucks,31,315,10.0
+2025-08-01,Hugh L. Carey Tunnel,4 - Buses,31,31279,1009.0
+2025-08-01,Hugh L. Carey Tunnel,5 - Motorcycles,31,1875,60.0
+2025-08-01,Hugh L. Carey Tunnel,TLC Taxi/FHV,31,132982,4290.0
+2025-08-01,Lincoln Tunnel,"1 - Cars, Pickups and Vans",31,1087883,35093.0
+2025-08-01,Lincoln Tunnel,2 - Single-Unit Trucks,31,89136,2875.0
+2025-08-01,Lincoln Tunnel,3 - Multi-Unit Trucks,31,8578,277.0
+2025-08-01,Lincoln Tunnel,4 - Buses,31,46755,1508.0
+2025-08-01,Lincoln Tunnel,5 - Motorcycles,31,4093,132.0
+2025-08-01,Lincoln Tunnel,TLC Taxi/FHV,31,223361,7205.0
+2025-08-01,Manhattan Bridge,"1 - Cars, Pickups and Vans",31,519191,16748.0
+2025-08-01,Manhattan Bridge,2 - Single-Unit Trucks,31,50802,1639.0
+2025-08-01,Manhattan Bridge,3 - Multi-Unit Trucks,31,5620,181.0
+2025-08-01,Manhattan Bridge,4 - Buses,31,8422,272.0
+2025-08-01,Manhattan Bridge,5 - Motorcycles,31,3983,128.0
+2025-08-01,Manhattan Bridge,TLC Taxi/FHV,31,286843,9253.0
+2025-08-01,Queens Midtown Tunnel,"1 - Cars, Pickups and Vans",31,817788,26380.0
+2025-08-01,Queens Midtown Tunnel,2 - Single-Unit Trucks,31,55260,1783.0
+2025-08-01,Queens Midtown Tunnel,3 - Multi-Unit Trucks,31,1049,34.0
+2025-08-01,Queens Midtown Tunnel,4 - Buses,31,28671,925.0
+2025-08-01,Queens Midtown Tunnel,5 - Motorcycles,31,2032,66.0
+2025-08-01,Queens Midtown Tunnel,TLC Taxi/FHV,31,521384,16819.0
+2025-08-01,Queensboro Bridge,"1 - Cars, Pickups and Vans",31,502721,16217.0
+2025-08-01,Queensboro Bridge,2 - Single-Unit Trucks,31,62029,2001.0
+2025-08-01,Queensboro Bridge,3 - Multi-Unit Trucks,31,4537,146.0
+2025-08-01,Queensboro Bridge,4 - Buses,31,10410,336.0
+2025-08-01,Queensboro Bridge,5 - Motorcycles,31,6287,203.0
+2025-08-01,Queensboro Bridge,TLC Taxi/FHV,31,504963,16289.0
+2025-08-01,West 60th St,"1 - Cars, Pickups and Vans",31,397629,12827.0
+2025-08-01,West 60th St,2 - Single-Unit Trucks,31,56661,1828.0
+2025-08-01,West 60th St,3 - Multi-Unit Trucks,31,3530,114.0
+2025-08-01,West 60th St,4 - Buses,31,24163,779.0
+2025-08-01,West 60th St,5 - Motorcycles,31,8952,289.0
+2025-08-01,West 60th St,TLC Taxi/FHV,31,582798,18800.0
+2025-08-01,West Side Highway at 60th St,"1 - Cars, Pickups and Vans",31,974519,31436.0
+2025-08-01,West Side Highway at 60th St,2 - Single-Unit Trucks,31,9274,299.0
+2025-08-01,West Side Highway at 60th St,3 - Multi-Unit Trucks,31,109,4.0
+2025-08-01,West Side Highway at 60th St,4 - Buses,31,9747,314.0
+2025-08-01,West Side Highway at 60th St,5 - Motorcycles,31,4236,137.0
+2025-08-01,West Side Highway at 60th St,TLC Taxi/FHV,31,313461,10112.0
+2025-08-01,Williamsburg Bridge,"1 - Cars, Pickups and Vans",31,735957,23741.0
+2025-08-01,Williamsburg Bridge,2 - Single-Unit Trucks,31,51999,1677.0
+2025-08-01,Williamsburg Bridge,3 - Multi-Unit Trucks,31,2789,90.0
+2025-08-01,Williamsburg Bridge,4 - Buses,31,5795,187.0
+2025-08-01,Williamsburg Bridge,5 - Motorcycles,31,5434,175.0
+2025-08-01,Williamsburg Bridge,TLC Taxi/FHV,31,453061,14615.0
+2025-09-01,Brooklyn Bridge,"1 - Cars, Pickups and Vans",30,438906,14630.0
+2025-09-01,Brooklyn Bridge,2 - Single-Unit Trucks,30,5031,168.0
+2025-09-01,Brooklyn Bridge,3 - Multi-Unit Trucks,30,28,1.0
+2025-09-01,Brooklyn Bridge,4 - Buses,30,1657,55.0
+2025-09-01,Brooklyn Bridge,5 - Motorcycles,30,2366,79.0
+2025-09-01,Brooklyn Bridge,TLC Taxi/FHV,30,366347,12212.0
+2025-09-01,East 60th St,"1 - Cars, Pickups and Vans",30,915651,30522.0
+2025-09-01,East 60th St,2 - Single-Unit Trucks,30,94141,3138.0
+2025-09-01,East 60th St,3 - Multi-Unit Trucks,30,4987,166.0
+2025-09-01,East 60th St,4 - Buses,30,49800,1660.0
+2025-09-01,East 60th St,5 - Motorcycles,30,16565,552.0
+2025-09-01,East 60th St,TLC Taxi/FHV,30,1179225,39308.0
+2025-09-01,FDR Drive at 60th St,"1 - Cars, Pickups and Vans",30,926828,30894.0
+2025-09-01,FDR Drive at 60th St,2 - Single-Unit Trucks,30,10660,355.0
+2025-09-01,FDR Drive at 60th St,3 - Multi-Unit Trucks,30,91,3.0
+2025-09-01,FDR Drive at 60th St,4 - Buses,30,10430,348.0
+2025-09-01,FDR Drive at 60th St,5 - Motorcycles,30,6026,201.0
+2025-09-01,FDR Drive at 60th St,TLC Taxi/FHV,30,557412,18580.0
+2025-09-01,Holland Tunnel,"1 - Cars, Pickups and Vans",30,908535,30284.0
+2025-09-01,Holland Tunnel,2 - Single-Unit Trucks,30,44077,1469.0
+2025-09-01,Holland Tunnel,3 - Multi-Unit Trucks,30,676,23.0
+2025-09-01,Holland Tunnel,4 - Buses,30,4450,148.0
+2025-09-01,Holland Tunnel,5 - Motorcycles,30,1261,42.0
+2025-09-01,Holland Tunnel,TLC Taxi/FHV,30,324613,10820.0
+2025-09-01,Hugh L. Carey Tunnel,"1 - Cars, Pickups and Vans",30,471809,15727.0
+2025-09-01,Hugh L. Carey Tunnel,2 - Single-Unit Trucks,30,15412,514.0
+2025-09-01,Hugh L. Carey Tunnel,3 - Multi-Unit Trucks,30,305,10.0
+2025-09-01,Hugh L. Carey Tunnel,4 - Buses,30,31475,1049.0
+2025-09-01,Hugh L. Carey Tunnel,5 - Motorcycles,30,1859,62.0
+2025-09-01,Hugh L. Carey Tunnel,TLC Taxi/FHV,30,147089,4903.0
+2025-09-01,Lincoln Tunnel,"1 - Cars, Pickups and Vans",30,1007106,33570.0
+2025-09-01,Lincoln Tunnel,2 - Single-Unit Trucks,30,93445,3115.0
+2025-09-01,Lincoln Tunnel,3 - Multi-Unit Trucks,30,8691,290.0
+2025-09-01,Lincoln Tunnel,4 - Buses,30,45324,1511.0
+2025-09-01,Lincoln Tunnel,5 - Motorcycles,30,4153,138.0
+2025-09-01,Lincoln Tunnel,TLC Taxi/FHV,30,250062,8335.0
+2025-09-01,Manhattan Bridge,"1 - Cars, Pickups and Vans",30,508552,16952.0
+2025-09-01,Manhattan Bridge,2 - Single-Unit Trucks,30,51660,1722.0
+2025-09-01,Manhattan Bridge,3 - Multi-Unit Trucks,30,5239,175.0
+2025-09-01,Manhattan Bridge,4 - Buses,30,12119,404.0
+2025-09-01,Manhattan Bridge,5 - Motorcycles,30,4470,149.0
+2025-09-01,Manhattan Bridge,TLC Taxi/FHV,30,308240,10275.0
+2025-09-01,Queens Midtown Tunnel,"1 - Cars, Pickups and Vans",30,764569,25486.0
+2025-09-01,Queens Midtown Tunnel,2 - Single-Unit Trucks,30,56037,1868.0
+2025-09-01,Queens Midtown Tunnel,3 - Multi-Unit Trucks,30,1006,34.0
+2025-09-01,Queens Midtown Tunnel,4 - Buses,30,27135,904.0
+2025-09-01,Queens Midtown Tunnel,5 - Motorcycles,30,2280,76.0
+2025-09-01,Queens Midtown Tunnel,TLC Taxi/FHV,30,568547,18952.0
+2025-09-01,Queensboro Bridge,"1 - Cars, Pickups and Vans",30,497974,16599.0
+2025-09-01,Queensboro Bridge,2 - Single-Unit Trucks,30,59742,1991.0
+2025-09-01,Queensboro Bridge,3 - Multi-Unit Trucks,30,4243,141.0
+2025-09-01,Queensboro Bridge,4 - Buses,30,9713,324.0
+2025-09-01,Queensboro Bridge,5 - Motorcycles,30,5438,181.0
+2025-09-01,Queensboro Bridge,TLC Taxi/FHV,30,525949,17532.0
+2025-09-01,West 60th St,"1 - Cars, Pickups and Vans",30,435409,14514.0
+2025-09-01,West 60th St,2 - Single-Unit Trucks,30,59037,1968.0
+2025-09-01,West 60th St,3 - Multi-Unit Trucks,30,3824,127.0
+2025-09-01,West 60th St,4 - Buses,30,26524,884.0
+2025-09-01,West 60th St,5 - Motorcycles,30,8870,296.0
+2025-09-01,West 60th St,TLC Taxi/FHV,30,623983,20799.0
+2025-09-01,West Side Highway at 60th St,"1 - Cars, Pickups and Vans",30,995719,33191.0
+2025-09-01,West Side Highway at 60th St,2 - Single-Unit Trucks,30,9475,316.0
+2025-09-01,West Side Highway at 60th St,3 - Multi-Unit Trucks,30,94,3.0
+2025-09-01,West Side Highway at 60th St,4 - Buses,30,13895,463.0
+2025-09-01,West Side Highway at 60th St,5 - Motorcycles,30,4108,137.0
+2025-09-01,West Side Highway at 60th St,TLC Taxi/FHV,30,342595,11420.0
+2025-09-01,Williamsburg Bridge,"1 - Cars, Pickups and Vans",30,700909,23364.0
+2025-09-01,Williamsburg Bridge,2 - Single-Unit Trucks,30,53940,1798.0
+2025-09-01,Williamsburg Bridge,3 - Multi-Unit Trucks,30,2435,81.0
+2025-09-01,Williamsburg Bridge,4 - Buses,30,7146,238.0
+2025-09-01,Williamsburg Bridge,5 - Motorcycles,30,5259,175.0
+2025-09-01,Williamsburg Bridge,TLC Taxi/FHV,30,465375,15512.0
+2025-10-01,Brooklyn Bridge,"1 - Cars, Pickups and Vans",31,447998,14452.0
+2025-10-01,Brooklyn Bridge,2 - Single-Unit Trucks,31,5315,171.0
+2025-10-01,Brooklyn Bridge,3 - Multi-Unit Trucks,31,32,1.0
+2025-10-01,Brooklyn Bridge,4 - Buses,31,1927,62.0
+2025-10-01,Brooklyn Bridge,5 - Motorcycles,31,2039,66.0
+2025-10-01,Brooklyn Bridge,TLC Taxi/FHV,31,410704,13249.0
+2025-10-01,East 60th St,"1 - Cars, Pickups and Vans",31,950792,30671.0
+2025-10-01,East 60th St,2 - Single-Unit Trucks,31,98016,3162.0
+2025-10-01,East 60th St,3 - Multi-Unit Trucks,31,5040,163.0
+2025-10-01,East 60th St,4 - Buses,31,53001,1710.0
+2025-10-01,East 60th St,5 - Motorcycles,31,14730,475.0
+2025-10-01,East 60th St,TLC Taxi/FHV,31,1323718,42701.0
+2025-10-01,FDR Drive at 60th St,"1 - Cars, Pickups and Vans",31,937582,30245.0
+2025-10-01,FDR Drive at 60th St,2 - Single-Unit Trucks,31,10603,342.0
+2025-10-01,FDR Drive at 60th St,3 - Multi-Unit Trucks,31,65,2.0
+2025-10-01,FDR Drive at 60th St,4 - Buses,31,11417,368.0
+2025-10-01,FDR Drive at 60th St,5 - Motorcycles,31,4545,147.0
+2025-10-01,FDR Drive at 60th St,TLC Taxi/FHV,31,576043,18582.0
+2025-10-01,Holland Tunnel,"1 - Cars, Pickups and Vans",31,911053,29389.0
+2025-10-01,Holland Tunnel,2 - Single-Unit Trucks,31,45442,1466.0
+2025-10-01,Holland Tunnel,3 - Multi-Unit Trucks,31,695,22.0
+2025-10-01,Holland Tunnel,4 - Buses,31,4632,149.0
+2025-10-01,Holland Tunnel,5 - Motorcycles,31,780,25.0
+2025-10-01,Holland Tunnel,TLC Taxi/FHV,31,351469,11338.0
+2025-10-01,Hugh L. Carey Tunnel,"1 - Cars, Pickups and Vans",31,494439,15950.0
+2025-10-01,Hugh L. Carey Tunnel,2 - Single-Unit Trucks,31,16444,530.0
+2025-10-01,Hugh L. Carey Tunnel,3 - Multi-Unit Trucks,31,414,13.0
+2025-10-01,Hugh L. Carey Tunnel,4 - Buses,31,34128,1101.0
+2025-10-01,Hugh L. Carey Tunnel,5 - Motorcycles,31,1545,50.0
+2025-10-01,Hugh L. Carey Tunnel,TLC Taxi/FHV,31,160151,5166.0
+2025-10-01,Lincoln Tunnel,"1 - Cars, Pickups and Vans",31,1013004,32678.0
+2025-10-01,Lincoln Tunnel,2 - Single-Unit Trucks,31,97156,3134.0
+2025-10-01,Lincoln Tunnel,3 - Multi-Unit Trucks,31,8737,282.0
+2025-10-01,Lincoln Tunnel,4 - Buses,31,46032,1485.0
+2025-10-01,Lincoln Tunnel,5 - Motorcycles,31,3260,105.0
+2025-10-01,Lincoln Tunnel,TLC Taxi/FHV,31,255726,8249.0
+2025-10-01,Manhattan Bridge,"1 - Cars, Pickups and Vans",31,518190,16716.0
+2025-10-01,Manhattan Bridge,2 - Single-Unit Trucks,31,52833,1704.0
+2025-10-01,Manhattan Bridge,3 - Multi-Unit Trucks,31,5238,169.0
+2025-10-01,Manhattan Bridge,4 - Buses,31,12590,406.0
+2025-10-01,Manhattan Bridge,5 - Motorcycles,31,3934,127.0
+2025-10-01,Manhattan Bridge,TLC Taxi/FHV,31,340951,10998.0
+2025-10-01,Queens Midtown Tunnel,"1 - Cars, Pickups and Vans",31,772569,24922.0
+2025-10-01,Queens Midtown Tunnel,2 - Single-Unit Trucks,31,57926,1869.0
+2025-10-01,Queens Midtown Tunnel,3 - Multi-Unit Trucks,31,1144,37.0
+2025-10-01,Queens Midtown Tunnel,4 - Buses,31,27973,902.0
+2025-10-01,Queens Midtown Tunnel,5 - Motorcycles,31,1734,56.0
+2025-10-01,Queens Midtown Tunnel,TLC Taxi/FHV,31,574834,18543.0
+2025-10-01,Queensboro Bridge,"1 - Cars, Pickups and Vans",31,508531,16404.0
+2025-10-01,Queensboro Bridge,2 - Single-Unit Trucks,31,62203,2007.0
+2025-10-01,Queensboro Bridge,3 - Multi-Unit Trucks,31,4164,134.0
+2025-10-01,Queensboro Bridge,4 - Buses,31,10413,336.0
+2025-10-01,Queensboro Bridge,5 - Motorcycles,31,4614,149.0
+2025-10-01,Queensboro Bridge,TLC Taxi/FHV,31,569063,18357.0
+2025-10-01,West 60th St,"1 - Cars, Pickups and Vans",31,432568,13954.0
+2025-10-01,West 60th St,2 - Single-Unit Trucks,31,59812,1929.0
+2025-10-01,West 60th St,3 - Multi-Unit Trucks,31,3748,121.0
+2025-10-01,West 60th St,4 - Buses,31,28434,917.0
+2025-10-01,West 60th St,5 - Motorcycles,31,7373,238.0
+2025-10-01,West 60th St,TLC Taxi/FHV,31,690375,22270.0
+2025-10-01,West Side Highway at 60th St,"1 - Cars, Pickups and Vans",31,1026679,33119.0
+2025-10-01,West Side Highway at 60th St,2 - Single-Unit Trucks,31,9591,309.0
+2025-10-01,West Side Highway at 60th St,3 - Multi-Unit Trucks,31,117,4.0
+2025-10-01,West Side Highway at 60th St,4 - Buses,31,15212,491.0
+2025-10-01,West Side Highway at 60th St,5 - Motorcycles,31,2807,91.0
+2025-10-01,West Side Highway at 60th St,TLC Taxi/FHV,31,369734,11927.0
+2025-10-01,Williamsburg Bridge,"1 - Cars, Pickups and Vans",31,705798,22768.0
+2025-10-01,Williamsburg Bridge,2 - Single-Unit Trucks,31,54449,1756.0
+2025-10-01,Williamsburg Bridge,3 - Multi-Unit Trucks,31,2496,81.0
+2025-10-01,Williamsburg Bridge,4 - Buses,31,7716,249.0
+2025-10-01,Williamsburg Bridge,5 - Motorcycles,31,4422,143.0
+2025-10-01,Williamsburg Bridge,TLC Taxi/FHV,31,498023,16065.0
+2025-11-01,Brooklyn Bridge,"1 - Cars, Pickups and Vans",30,421171,14039.0
+2025-11-01,Brooklyn Bridge,2 - Single-Unit Trucks,30,4312,144.0
+2025-11-01,Brooklyn Bridge,3 - Multi-Unit Trucks,30,37,1.0
+2025-11-01,Brooklyn Bridge,4 - Buses,30,1324,44.0
+2025-11-01,Brooklyn Bridge,5 - Motorcycles,30,1386,46.0
+2025-11-01,Brooklyn Bridge,TLC Taxi/FHV,30,379574,12652.0
+2025-11-01,East 60th St,"1 - Cars, Pickups and Vans",30,875598,29187.0
+2025-11-01,East 60th St,2 - Single-Unit Trucks,30,81395,2713.0
+2025-11-01,East 60th St,3 - Multi-Unit Trucks,30,4469,149.0
+2025-11-01,East 60th St,4 - Buses,30,45954,1532.0
+2025-11-01,East 60th St,5 - Motorcycles,30,11248,375.0
+2025-11-01,East 60th St,TLC Taxi/FHV,30,1257698,41923.0
+2025-11-01,FDR Drive at 60th St,"1 - Cars, Pickups and Vans",30,904928,30164.0
+2025-11-01,FDR Drive at 60th St,2 - Single-Unit Trucks,30,9759,325.0
+2025-11-01,FDR Drive at 60th St,3 - Multi-Unit Trucks,30,139,5.0
+2025-11-01,FDR Drive at 60th St,4 - Buses,30,8523,284.0
+2025-11-01,FDR Drive at 60th St,5 - Motorcycles,30,2895,96.0
+2025-11-01,FDR Drive at 60th St,TLC Taxi/FHV,30,550643,18355.0
+2025-11-01,Holland Tunnel,"1 - Cars, Pickups and Vans",30,878627,29288.0
+2025-11-01,Holland Tunnel,2 - Single-Unit Trucks,30,40268,1342.0
+2025-11-01,Holland Tunnel,3 - Multi-Unit Trucks,30,756,25.0
+2025-11-01,Holland Tunnel,4 - Buses,30,3969,132.0
+2025-11-01,Holland Tunnel,5 - Motorcycles,30,484,16.0
+2025-11-01,Holland Tunnel,TLC Taxi/FHV,30,345321,11511.0
+2025-11-01,Hugh L. Carey Tunnel,"1 - Cars, Pickups and Vans",30,479056,15969.0
+2025-11-01,Hugh L. Carey Tunnel,2 - Single-Unit Trucks,30,14763,492.0
+2025-11-01,Hugh L. Carey Tunnel,3 - Multi-Unit Trucks,30,458,15.0
+2025-11-01,Hugh L. Carey Tunnel,4 - Buses,30,29178,973.0
+2025-11-01,Hugh L. Carey Tunnel,5 - Motorcycles,30,1064,35.0
+2025-11-01,Hugh L. Carey Tunnel,TLC Taxi/FHV,30,149778,4993.0
+2025-11-01,Lincoln Tunnel,"1 - Cars, Pickups and Vans",30,983063,32769.0
+2025-11-01,Lincoln Tunnel,2 - Single-Unit Trucks,30,83098,2770.0
+2025-11-01,Lincoln Tunnel,3 - Multi-Unit Trucks,30,7870,262.0
+2025-11-01,Lincoln Tunnel,4 - Buses,30,42276,1409.0
+2025-11-01,Lincoln Tunnel,5 - Motorcycles,30,2126,71.0
+2025-11-01,Lincoln Tunnel,TLC Taxi/FHV,30,240716,8024.0
+2025-11-01,Manhattan Bridge,"1 - Cars, Pickups and Vans",30,500045,16668.0
+2025-11-01,Manhattan Bridge,2 - Single-Unit Trucks,30,43642,1455.0
+2025-11-01,Manhattan Bridge,3 - Multi-Unit Trucks,30,4377,146.0
+2025-11-01,Manhattan Bridge,4 - Buses,30,10512,350.0
+2025-11-01,Manhattan Bridge,5 - Motorcycles,30,2529,84.0
+2025-11-01,Manhattan Bridge,TLC Taxi/FHV,30,332465,11082.0
+2025-11-01,Queens Midtown Tunnel,"1 - Cars, Pickups and Vans",30,724192,24140.0
+2025-11-01,Queens Midtown Tunnel,2 - Single-Unit Trucks,30,48864,1629.0
+2025-11-01,Queens Midtown Tunnel,3 - Multi-Unit Trucks,30,1027,34.0
+2025-11-01,Queens Midtown Tunnel,4 - Buses,30,24069,802.0
+2025-11-01,Queens Midtown Tunnel,5 - Motorcycles,30,1168,39.0
+2025-11-01,Queens Midtown Tunnel,TLC Taxi/FHV,30,528761,17625.0
+2025-11-01,Queensboro Bridge,"1 - Cars, Pickups and Vans",30,460026,15334.0
+2025-11-01,Queensboro Bridge,2 - Single-Unit Trucks,30,50914,1697.0
+2025-11-01,Queensboro Bridge,3 - Multi-Unit Trucks,30,3487,116.0
+2025-11-01,Queensboro Bridge,4 - Buses,30,8671,289.0
+2025-11-01,Queensboro Bridge,5 - Motorcycles,30,2773,92.0
+2025-11-01,Queensboro Bridge,TLC Taxi/FHV,30,527132,17571.0
+2025-11-01,West 60th St,"1 - Cars, Pickups and Vans",30,433419,14447.0
+2025-11-01,West 60th St,2 - Single-Unit Trucks,30,51400,1713.0
+2025-11-01,West 60th St,3 - Multi-Unit Trucks,30,3343,111.0
+2025-11-01,West 60th St,4 - Buses,30,26635,888.0
+2025-11-01,West 60th St,5 - Motorcycles,30,6010,200.0
+2025-11-01,West 60th St,TLC Taxi/FHV,30,678256,22609.0
+2025-11-01,West Side Highway at 60th St,"1 - Cars, Pickups and Vans",30,962702,32090.0
+2025-11-01,West Side Highway at 60th St,2 - Single-Unit Trucks,30,8830,294.0
+2025-11-01,West Side Highway at 60th St,3 - Multi-Unit Trucks,30,253,8.0
+2025-11-01,West Side Highway at 60th St,4 - Buses,30,11918,397.0
+2025-11-01,West Side Highway at 60th St,5 - Motorcycles,30,1578,53.0
+2025-11-01,West Side Highway at 60th St,TLC Taxi/FHV,30,352257,11742.0
+2025-11-01,Williamsburg Bridge,"1 - Cars, Pickups and Vans",30,685766,22859.0
+2025-11-01,Williamsburg Bridge,2 - Single-Unit Trucks,30,44748,1492.0
+2025-11-01,Williamsburg Bridge,3 - Multi-Unit Trucks,30,2245,75.0
+2025-11-01,Williamsburg Bridge,4 - Buses,30,6519,217.0
+2025-11-01,Williamsburg Bridge,5 - Motorcycles,30,2804,93.0
+2025-11-01,Williamsburg Bridge,TLC Taxi/FHV,30,485747,16192.0
+2025-12-01,Brooklyn Bridge,"1 - Cars, Pickups and Vans",31,434007,14000.0
+2025-12-01,Brooklyn Bridge,2 - Single-Unit Trucks,31,4670,151.0
+2025-12-01,Brooklyn Bridge,3 - Multi-Unit Trucks,31,68,2.0
+2025-12-01,Brooklyn Bridge,4 - Buses,31,1438,46.0
+2025-12-01,Brooklyn Bridge,5 - Motorcycles,31,971,31.0
+2025-12-01,Brooklyn Bridge,TLC Taxi/FHV,31,358787,11574.0
+2025-12-01,East 60th St,"1 - Cars, Pickups and Vans",31,886918,28610.0
+2025-12-01,East 60th St,2 - Single-Unit Trucks,31,83547,2695.0
+2025-12-01,East 60th St,3 - Multi-Unit Trucks,31,4404,142.0
+2025-12-01,East 60th St,4 - Buses,31,47652,1537.0
+2025-12-01,East 60th St,5 - Motorcycles,31,7955,257.0
+2025-12-01,East 60th St,TLC Taxi/FHV,31,1192578,38470.0
+2025-12-01,FDR Drive at 60th St,"1 - Cars, Pickups and Vans",31,953021,30743.0
+2025-12-01,FDR Drive at 60th St,2 - Single-Unit Trucks,31,10910,352.0
+2025-12-01,FDR Drive at 60th St,3 - Multi-Unit Trucks,31,93,3.0
+2025-12-01,FDR Drive at 60th St,4 - Buses,31,8849,285.0
+2025-12-01,FDR Drive at 60th St,5 - Motorcycles,31,1736,56.0
+2025-12-01,FDR Drive at 60th St,TLC Taxi/FHV,31,587581,18954.0
+2025-12-01,Holland Tunnel,"1 - Cars, Pickups and Vans",31,876735,28282.0
+2025-12-01,Holland Tunnel,2 - Single-Unit Trucks,31,42879,1383.0
+2025-12-01,Holland Tunnel,3 - Multi-Unit Trucks,31,752,24.0
+2025-12-01,Holland Tunnel,4 - Buses,31,3583,116.0
+2025-12-01,Holland Tunnel,5 - Motorcycles,31,217,7.0
+2025-12-01,Holland Tunnel,TLC Taxi/FHV,31,373327,12043.0
+2025-12-01,Hugh L. Carey Tunnel,"1 - Cars, Pickups and Vans",31,484964,15644.0
+2025-12-01,Hugh L. Carey Tunnel,2 - Single-Unit Trucks,31,14929,482.0
+2025-12-01,Hugh L. Carey Tunnel,3 - Multi-Unit Trucks,31,364,12.0
+2025-12-01,Hugh L. Carey Tunnel,4 - Buses,31,31957,1031.0
+2025-12-01,Hugh L. Carey Tunnel,5 - Motorcycles,31,476,15.0
+2025-12-01,Hugh L. Carey Tunnel,TLC Taxi/FHV,31,155916,5030.0
+2025-12-01,Lincoln Tunnel,"1 - Cars, Pickups and Vans",31,935418,30175.0
+2025-12-01,Lincoln Tunnel,2 - Single-Unit Trucks,31,84772,2735.0
+2025-12-01,Lincoln Tunnel,3 - Multi-Unit Trucks,31,7636,246.0
+2025-12-01,Lincoln Tunnel,4 - Buses,31,43026,1388.0
+2025-12-01,Lincoln Tunnel,5 - Motorcycles,31,1903,61.0
+2025-12-01,Lincoln Tunnel,TLC Taxi/FHV,31,247401,7981.0
+2025-12-01,Manhattan Bridge,"1 - Cars, Pickups and Vans",31,495953,15998.0
+2025-12-01,Manhattan Bridge,2 - Single-Unit Trucks,31,44052,1421.0
+2025-12-01,Manhattan Bridge,3 - Multi-Unit Trucks,31,3958,128.0
+2025-12-01,Manhattan Bridge,4 - Buses,31,11368,367.0
+2025-12-01,Manhattan Bridge,5 - Motorcycles,31,1254,40.0
+2025-12-01,Manhattan Bridge,TLC Taxi/FHV,31,316784,10219.0
+2025-12-01,Queens Midtown Tunnel,"1 - Cars, Pickups and Vans",31,706759,22799.0
+2025-12-01,Queens Midtown Tunnel,2 - Single-Unit Trucks,31,50709,1636.0
+2025-12-01,Queens Midtown Tunnel,3 - Multi-Unit Trucks,31,1076,35.0
+2025-12-01,Queens Midtown Tunnel,4 - Buses,31,25651,827.0
+2025-12-01,Queens Midtown Tunnel,5 - Motorcycles,31,751,24.0
+2025-12-01,Queens Midtown Tunnel,TLC Taxi/FHV,31,514485,16596.0
+2025-12-01,Queensboro Bridge,"1 - Cars, Pickups and Vans",31,464993,15000.0
+2025-12-01,Queensboro Bridge,2 - Single-Unit Trucks,31,50915,1642.0
+2025-12-01,Queensboro Bridge,3 - Multi-Unit Trucks,31,3163,102.0
+2025-12-01,Queensboro Bridge,4 - Buses,31,9002,290.0
+2025-12-01,Queensboro Bridge,5 - Motorcycles,31,1681,54.0
+2025-12-01,Queensboro Bridge,TLC Taxi/FHV,31,526096,16971.0
+2025-12-01,West 60th St,"1 - Cars, Pickups and Vans",31,440665,14215.0
+2025-12-01,West 60th St,2 - Single-Unit Trucks,31,54316,1752.0
+2025-12-01,West 60th St,3 - Multi-Unit Trucks,31,3120,101.0
+2025-12-01,West 60th St,4 - Buses,31,26779,864.0
+2025-12-01,West 60th St,5 - Motorcycles,31,4407,142.0
+2025-12-01,West 60th St,TLC Taxi/FHV,31,658848,21253.0
+2025-12-01,West Side Highway at 60th St,"1 - Cars, Pickups and Vans",31,964911,31126.0
+2025-12-01,West Side Highway at 60th St,2 - Single-Unit Trucks,31,9203,297.0
+2025-12-01,West Side Highway at 60th St,3 - Multi-Unit Trucks,31,189,6.0
+2025-12-01,West Side Highway at 60th St,4 - Buses,31,12025,388.0
+2025-12-01,West Side Highway at 60th St,5 - Motorcycles,31,595,19.0
+2025-12-01,West Side Highway at 60th St,TLC Taxi/FHV,31,343805,11090.0
+2025-12-01,Williamsburg Bridge,"1 - Cars, Pickups and Vans",31,687035,22162.0
+2025-12-01,Williamsburg Bridge,2 - Single-Unit Trucks,31,45776,1477.0
+2025-12-01,Williamsburg Bridge,3 - Multi-Unit Trucks,31,1944,63.0
+2025-12-01,Williamsburg Bridge,4 - Buses,31,6982,225.0
+2025-12-01,Williamsburg Bridge,5 - Motorcycles,31,1371,44.0
+2025-12-01,Williamsburg Bridge,TLC Taxi/FHV,31,473198,15264.0
+2026-01-01,Brooklyn Bridge,"1 - Cars, Pickups and Vans",31,392918,12675.0
+2026-01-01,Brooklyn Bridge,2 - Single-Unit Trucks,31,4613,149.0
+2026-01-01,Brooklyn Bridge,3 - Multi-Unit Trucks,31,24,1.0
+2026-01-01,Brooklyn Bridge,4 - Buses,31,1550,50.0
+2026-01-01,Brooklyn Bridge,5 - Motorcycles,31,738,24.0
+2026-01-01,Brooklyn Bridge,TLC Taxi/FHV,31,327102,10552.0
+2026-01-01,East 60th St,"1 - Cars, Pickups and Vans",31,798175,25748.0
+2026-01-01,East 60th St,2 - Single-Unit Trucks,31,77129,2488.0
+2026-01-01,East 60th St,3 - Multi-Unit Trucks,31,3789,122.0
+2026-01-01,East 60th St,4 - Buses,31,46338,1495.0
+2026-01-01,East 60th St,5 - Motorcycles,31,7530,243.0
+2026-01-01,East 60th St,TLC Taxi/FHV,31,1148576,37051.0
+2026-01-01,FDR Drive at 60th St,"1 - Cars, Pickups and Vans",31,910243,29363.0
+2026-01-01,FDR Drive at 60th St,2 - Single-Unit Trucks,31,10419,336.0
+2026-01-01,FDR Drive at 60th St,3 - Multi-Unit Trucks,31,52,2.0
+2026-01-01,FDR Drive at 60th St,4 - Buses,31,9456,305.0
+2026-01-01,FDR Drive at 60th St,5 - Motorcycles,31,1723,56.0
+2026-01-01,FDR Drive at 60th St,TLC Taxi/FHV,31,528366,17044.0
+2026-01-01,Holland Tunnel,"1 - Cars, Pickups and Vans",31,766098,24713.0
+2026-01-01,Holland Tunnel,2 - Single-Unit Trucks,31,39277,1267.0
+2026-01-01,Holland Tunnel,3 - Multi-Unit Trucks,31,718,23.0
+2026-01-01,Holland Tunnel,4 - Buses,31,3296,106.0
+2026-01-01,Holland Tunnel,5 - Motorcycles,31,211,7.0
+2026-01-01,Holland Tunnel,TLC Taxi/FHV,31,292600,9439.0
+2026-01-01,Hugh L. Carey Tunnel,"1 - Cars, Pickups and Vans",31,419519,13533.0
+2026-01-01,Hugh L. Carey Tunnel,2 - Single-Unit Trucks,31,13424,433.0
+2026-01-01,Hugh L. Carey Tunnel,3 - Multi-Unit Trucks,31,247,8.0
+2026-01-01,Hugh L. Carey Tunnel,4 - Buses,31,30716,991.0
+2026-01-01,Hugh L. Carey Tunnel,5 - Motorcycles,31,386,12.0
+2026-01-01,Hugh L. Carey Tunnel,TLC Taxi/FHV,31,124285,4009.0
+2026-01-01,Lincoln Tunnel,"1 - Cars, Pickups and Vans",31,827480,26693.0
+2026-01-01,Lincoln Tunnel,2 - Single-Unit Trucks,31,75821,2446.0
+2026-01-01,Lincoln Tunnel,3 - Multi-Unit Trucks,31,6559,212.0
+2026-01-01,Lincoln Tunnel,4 - Buses,31,38769,1251.0
+2026-01-01,Lincoln Tunnel,5 - Motorcycles,31,1872,60.0
+2026-01-01,Lincoln Tunnel,TLC Taxi/FHV,31,186138,6004.0
+2026-01-01,Manhattan Bridge,"1 - Cars, Pickups and Vans",31,431017,13904.0
+2026-01-01,Manhattan Bridge,2 - Single-Unit Trucks,31,39776,1283.0
+2026-01-01,Manhattan Bridge,3 - Multi-Unit Trucks,31,3630,117.0
+2026-01-01,Manhattan Bridge,4 - Buses,31,10108,326.0
+2026-01-01,Manhattan Bridge,5 - Motorcycles,31,1036,33.0
+2026-01-01,Manhattan Bridge,TLC Taxi/FHV,31,284982,9193.0
+2026-01-01,Queens Midtown Tunnel,"1 - Cars, Pickups and Vans",31,652220,21039.0
+2026-01-01,Queens Midtown Tunnel,2 - Single-Unit Trucks,31,47829,1543.0
+2026-01-01,Queens Midtown Tunnel,3 - Multi-Unit Trucks,31,1137,37.0
+2026-01-01,Queens Midtown Tunnel,4 - Buses,31,23237,750.0
+2026-01-01,Queens Midtown Tunnel,5 - Motorcycles,31,658,21.0
+2026-01-01,Queens Midtown Tunnel,TLC Taxi/FHV,31,465710,15023.0
+2026-01-01,Queensboro Bridge,"1 - Cars, Pickups and Vans",31,419628,13536.0
+2026-01-01,Queensboro Bridge,2 - Single-Unit Trucks,31,47089,1519.0
+2026-01-01,Queensboro Bridge,3 - Multi-Unit Trucks,31,2670,86.0
+2026-01-01,Queensboro Bridge,4 - Buses,31,8571,276.0
+2026-01-01,Queensboro Bridge,5 - Motorcycles,31,1512,49.0
+2026-01-01,Queensboro Bridge,TLC Taxi/FHV,31,460798,14864.0
+2026-01-01,West 60th St,"1 - Cars, Pickups and Vans",31,375531,12114.0
+2026-01-01,West 60th St,2 - Single-Unit Trucks,31,49702,1603.0
+2026-01-01,West 60th St,3 - Multi-Unit Trucks,31,2790,90.0
+2026-01-01,West 60th St,4 - Buses,31,27268,880.0
+2026-01-01,West 60th St,5 - Motorcycles,31,4024,130.0
+2026-01-01,West 60th St,TLC Taxi/FHV,31,614331,19817.0
+2026-01-01,West Side Highway at 60th St,"1 - Cars, Pickups and Vans",31,844377,27238.0
+2026-01-01,West Side Highway at 60th St,2 - Single-Unit Trucks,31,8226,265.0
+2026-01-01,West Side Highway at 60th St,3 - Multi-Unit Trucks,31,89,3.0
+2026-01-01,West Side Highway at 60th St,4 - Buses,31,12385,400.0
+2026-01-01,West Side Highway at 60th St,5 - Motorcycles,31,747,24.0
+2026-01-01,West Side Highway at 60th St,TLC Taxi/FHV,31,293122,9456.0
+2026-01-01,Williamsburg Bridge,"1 - Cars, Pickups and Vans",31,634983,20483.0
+2026-01-01,Williamsburg Bridge,2 - Single-Unit Trucks,31,41913,1352.0
+2026-01-01,Williamsburg Bridge,3 - Multi-Unit Trucks,31,1777,57.0
+2026-01-01,Williamsburg Bridge,4 - Buses,31,6159,199.0
+2026-01-01,Williamsburg Bridge,5 - Motorcycles,31,1067,34.0
+2026-01-01,Williamsburg Bridge,TLC Taxi/FHV,31,450309,14526.0
+2026-02-01,Brooklyn Bridge,"1 - Cars, Pickups and Vans",28,342854,12245.0
+2026-02-01,Brooklyn Bridge,2 - Single-Unit Trucks,28,4720,169.0
+2026-02-01,Brooklyn Bridge,3 - Multi-Unit Trucks,28,22,1.0
+2026-02-01,Brooklyn Bridge,4 - Buses,28,1407,50.0
+2026-02-01,Brooklyn Bridge,5 - Motorcycles,28,552,20.0
+2026-02-01,Brooklyn Bridge,TLC Taxi/FHV,28,304204,10864.0
+2026-02-01,East 60th St,"1 - Cars, Pickups and Vans",28,699556,24984.0
+2026-02-01,East 60th St,2 - Single-Unit Trucks,28,71740,2562.0
+2026-02-01,East 60th St,3 - Multi-Unit Trucks,28,3522,126.0
+2026-02-01,East 60th St,4 - Buses,28,42001,1500.0
+2026-02-01,East 60th St,5 - Motorcycles,28,6195,221.0
+2026-02-01,East 60th St,TLC Taxi/FHV,28,1018108,36361.0
+2026-02-01,FDR Drive at 60th St,"1 - Cars, Pickups and Vans",28,817710,29204.0
+2026-02-01,FDR Drive at 60th St,2 - Single-Unit Trucks,28,10966,392.0
+2026-02-01,FDR Drive at 60th St,3 - Multi-Unit Trucks,28,69,2.0
+2026-02-01,FDR Drive at 60th St,4 - Buses,28,8102,289.0
+2026-02-01,FDR Drive at 60th St,5 - Motorcycles,28,1459,52.0
+2026-02-01,FDR Drive at 60th St,TLC Taxi/FHV,28,508759,18170.0
+2026-02-01,Holland Tunnel,"1 - Cars, Pickups and Vans",28,693189,24757.0
+2026-02-01,Holland Tunnel,2 - Single-Unit Trucks,28,36337,1298.0
+2026-02-01,Holland Tunnel,3 - Multi-Unit Trucks,28,703,25.0
+2026-02-01,Holland Tunnel,4 - Buses,28,3081,110.0
+2026-02-01,Holland Tunnel,5 - Motorcycles,28,165,6.0
+2026-02-01,Holland Tunnel,TLC Taxi/FHV,28,286553,10234.0
+2026-02-01,Hugh L. Carey Tunnel,"1 - Cars, Pickups and Vans",28,379327,13547.0
+2026-02-01,Hugh L. Carey Tunnel,2 - Single-Unit Trucks,28,13532,483.0
+2026-02-01,Hugh L. Carey Tunnel,3 - Multi-Unit Trucks,28,235,8.0
+2026-02-01,Hugh L. Carey Tunnel,4 - Buses,28,27341,976.0
+2026-02-01,Hugh L. Carey Tunnel,5 - Motorcycles,28,203,7.0
+2026-02-01,Hugh L. Carey Tunnel,TLC Taxi/FHV,28,121767,4349.0
+2026-02-01,Lincoln Tunnel,"1 - Cars, Pickups and Vans",28,738178,26364.0
+2026-02-01,Lincoln Tunnel,2 - Single-Unit Trucks,28,69433,2480.0
+2026-02-01,Lincoln Tunnel,3 - Multi-Unit Trucks,28,5703,204.0
+2026-02-01,Lincoln Tunnel,4 - Buses,28,34388,1228.0
+2026-02-01,Lincoln Tunnel,5 - Motorcycles,28,1625,58.0
+2026-02-01,Lincoln Tunnel,TLC Taxi/FHV,28,165362,5906.0
+2026-02-01,Manhattan Bridge,"1 - Cars, Pickups and Vans",28,377218,13472.0
+2026-02-01,Manhattan Bridge,2 - Single-Unit Trucks,28,37103,1325.0
+2026-02-01,Manhattan Bridge,3 - Multi-Unit Trucks,28,3489,125.0
+2026-02-01,Manhattan Bridge,4 - Buses,28,9049,323.0
+2026-02-01,Manhattan Bridge,5 - Motorcycles,28,697,25.0
+2026-02-01,Manhattan Bridge,TLC Taxi/FHV,28,254149,9077.0
+2026-02-01,Queens Midtown Tunnel,"1 - Cars, Pickups and Vans",28,587099,20968.0
+2026-02-01,Queens Midtown Tunnel,2 - Single-Unit Trucks,28,44066,1574.0
+2026-02-01,Queens Midtown Tunnel,3 - Multi-Unit Trucks,28,1078,38.0
+2026-02-01,Queens Midtown Tunnel,4 - Buses,28,20927,747.0
+2026-02-01,Queens Midtown Tunnel,5 - Motorcycles,28,502,18.0
+2026-02-01,Queens Midtown Tunnel,TLC Taxi/FHV,28,427251,15259.0
+2026-02-01,Queensboro Bridge,"1 - Cars, Pickups and Vans",28,381573,13628.0
+2026-02-01,Queensboro Bridge,2 - Single-Unit Trucks,28,43340,1548.0
+2026-02-01,Queensboro Bridge,3 - Multi-Unit Trucks,28,2178,78.0
+2026-02-01,Queensboro Bridge,4 - Buses,28,7731,276.0
+2026-02-01,Queensboro Bridge,5 - Motorcycles,28,1188,42.0
+2026-02-01,Queensboro Bridge,TLC Taxi/FHV,28,419853,14995.0
+2026-02-01,West 60th St,"1 - Cars, Pickups and Vans",28,326966,11677.0
+2026-02-01,West 60th St,2 - Single-Unit Trucks,28,45737,1633.0
+2026-02-01,West 60th St,3 - Multi-Unit Trucks,28,2738,98.0
+2026-02-01,West 60th St,4 - Buses,28,24250,866.0
+2026-02-01,West 60th St,5 - Motorcycles,28,3222,115.0
+2026-02-01,West 60th St,TLC Taxi/FHV,28,523491,18696.0
+2026-02-01,West Side Highway at 60th St,"1 - Cars, Pickups and Vans",28,784240,28009.0
+2026-02-01,West Side Highway at 60th St,2 - Single-Unit Trucks,28,8982,321.0
+2026-02-01,West Side Highway at 60th St,3 - Multi-Unit Trucks,28,156,6.0
+2026-02-01,West Side Highway at 60th St,4 - Buses,28,12159,434.0
+2026-02-01,West Side Highway at 60th St,5 - Motorcycles,28,825,29.0
+2026-02-01,West Side Highway at 60th St,TLC Taxi/FHV,28,292053,10430.0
+2026-02-01,Williamsburg Bridge,"1 - Cars, Pickups and Vans",28,554409,19800.0
+2026-02-01,Williamsburg Bridge,2 - Single-Unit Trucks,28,40553,1448.0
+2026-02-01,Williamsburg Bridge,3 - Multi-Unit Trucks,28,1635,58.0
+2026-02-01,Williamsburg Bridge,4 - Buses,28,5303,189.0
+2026-02-01,Williamsburg Bridge,5 - Motorcycles,28,618,22.0
+2026-02-01,Williamsburg Bridge,TLC Taxi/FHV,28,408249,14580.0
+2026-03-01,Brooklyn Bridge,"1 - Cars, Pickups and Vans",31,412929,13320.0
+2026-03-01,Brooklyn Bridge,2 - Single-Unit Trucks,31,5896,190.0
+2026-03-01,Brooklyn Bridge,3 - Multi-Unit Trucks,31,83,3.0
+2026-03-01,Brooklyn Bridge,4 - Buses,31,1701,55.0
+2026-03-01,Brooklyn Bridge,5 - Motorcycles,31,1383,45.0
+2026-03-01,Brooklyn Bridge,TLC Taxi/FHV,31,362288,11687.0
+2026-03-01,East 60th St,"1 - Cars, Pickups and Vans",31,846337,27301.0
+2026-03-01,East 60th St,2 - Single-Unit Trucks,31,89018,2872.0
+2026-03-01,East 60th St,3 - Multi-Unit Trucks,31,4562,147.0
+2026-03-01,East 60th St,4 - Buses,31,47809,1542.0
+2026-03-01,East 60th St,5 - Motorcycles,31,9789,316.0
+2026-03-01,East 60th St,TLC Taxi/FHV,31,1235782,39864.0
+2026-03-01,FDR Drive at 60th St,"1 - Cars, Pickups and Vans",31,979854,31608.0
+2026-03-01,FDR Drive at 60th St,2 - Single-Unit Trucks,31,13485,435.0
+2026-03-01,FDR Drive at 60th St,3 - Multi-Unit Trucks,31,93,3.0
+2026-03-01,FDR Drive at 60th St,4 - Buses,31,10784,348.0
+2026-03-01,FDR Drive at 60th St,5 - Motorcycles,31,2950,95.0
+2026-03-01,FDR Drive at 60th St,TLC Taxi/FHV,31,583535,18824.0
+2026-03-01,Holland Tunnel,"1 - Cars, Pickups and Vans",31,869212,28039.0
+2026-03-01,Holland Tunnel,2 - Single-Unit Trucks,31,46112,1487.0
+2026-03-01,Holland Tunnel,3 - Multi-Unit Trucks,31,932,30.0
+2026-03-01,Holland Tunnel,4 - Buses,31,4381,141.0
+2026-03-01,Holland Tunnel,5 - Motorcycles,31,483,16.0
+2026-03-01,Holland Tunnel,TLC Taxi/FHV,31,349853,11286.0
+2026-03-01,Hugh L. Carey Tunnel,"1 - Cars, Pickups and Vans",31,464011,14968.0
+2026-03-01,Hugh L. Carey Tunnel,2 - Single-Unit Trucks,31,17574,567.0
+2026-03-01,Hugh L. Carey Tunnel,3 - Multi-Unit Trucks,31,380,12.0
+2026-03-01,Hugh L. Carey Tunnel,4 - Buses,31,32552,1050.0
+2026-03-01,Hugh L. Carey Tunnel,5 - Motorcycles,31,808,26.0
+2026-03-01,Hugh L. Carey Tunnel,TLC Taxi/FHV,31,139981,4516.0
+2026-03-01,Lincoln Tunnel,"1 - Cars, Pickups and Vans",31,929647,29989.0
+2026-03-01,Lincoln Tunnel,2 - Single-Unit Trucks,31,88118,2843.0
+2026-03-01,Lincoln Tunnel,3 - Multi-Unit Trucks,31,8035,259.0
+2026-03-01,Lincoln Tunnel,4 - Buses,31,43605,1407.0
+2026-03-01,Lincoln Tunnel,5 - Motorcycles,31,2231,72.0
+2026-03-01,Lincoln Tunnel,TLC Taxi/FHV,31,220183,7103.0
+2026-03-01,Manhattan Bridge,"1 - Cars, Pickups and Vans",31,482517,15565.0
+2026-03-01,Manhattan Bridge,2 - Single-Unit Trucks,31,46664,1505.0
+2026-03-01,Manhattan Bridge,3 - Multi-Unit Trucks,31,4622,149.0
+2026-03-01,Manhattan Bridge,4 - Buses,31,11441,369.0
+2026-03-01,Manhattan Bridge,5 - Motorcycles,31,1894,61.0
+2026-03-01,Manhattan Bridge,TLC Taxi/FHV,31,303126,9778.0
+2026-03-01,Queens Midtown Tunnel,"1 - Cars, Pickups and Vans",31,722574,23309.0
+2026-03-01,Queens Midtown Tunnel,2 - Single-Unit Trucks,31,57133,1843.0
+2026-03-01,Queens Midtown Tunnel,3 - Multi-Unit Trucks,31,1325,43.0
+2026-03-01,Queens Midtown Tunnel,4 - Buses,31,25594,826.0
+2026-03-01,Queens Midtown Tunnel,5 - Motorcycles,31,1235,40.0
+2026-03-01,Queens Midtown Tunnel,TLC Taxi/FHV,31,513173,16554.0
+2026-03-01,Queensboro Bridge,"1 - Cars, Pickups and Vans",31,464350,14979.0
+2026-03-01,Queensboro Bridge,2 - Single-Unit Trucks,31,55822,1801.0
+2026-03-01,Queensboro Bridge,3 - Multi-Unit Trucks,31,3472,112.0
+2026-03-01,Queensboro Bridge,4 - Buses,31,9226,298.0
+2026-03-01,Queensboro Bridge,5 - Motorcycles,31,2455,79.0
+2026-03-01,Queensboro Bridge,TLC Taxi/FHV,31,520260,16783.0
+2026-03-01,West 60th St,"1 - Cars, Pickups and Vans",31,401583,12954.0
+2026-03-01,West 60th St,2 - Single-Unit Trucks,31,54490,1758.0
+2026-03-01,West 60th St,3 - Multi-Unit Trucks,31,3432,111.0
+2026-03-01,West 60th St,4 - Buses,31,28987,935.0
+2026-03-01,West 60th St,5 - Motorcycles,31,4791,155.0
+2026-03-01,West 60th St,TLC Taxi/FHV,31,642647,20731.0
+2026-03-01,West Side Highway at 60th St,"1 - Cars, Pickups and Vans",31,960499,30984.0
+2026-03-01,West Side Highway at 60th St,2 - Single-Unit Trucks,31,10712,346.0
+2026-03-01,West Side Highway at 60th St,3 - Multi-Unit Trucks,31,124,4.0
+2026-03-01,West Side Highway at 60th St,4 - Buses,31,14466,467.0
+2026-03-01,West Side Highway at 60th St,5 - Motorcycles,31,1740,56.0
+2026-03-01,West Side Highway at 60th St,TLC Taxi/FHV,31,342635,11053.0
+2026-03-01,Williamsburg Bridge,"1 - Cars, Pickups and Vans",31,681261,21976.0
+2026-03-01,Williamsburg Bridge,2 - Single-Unit Trucks,31,50077,1615.0
+2026-03-01,Williamsburg Bridge,3 - Multi-Unit Trucks,31,2410,78.0
+2026-03-01,Williamsburg Bridge,4 - Buses,31,6744,218.0
+2026-03-01,Williamsburg Bridge,5 - Motorcycles,31,1712,55.0
+2026-03-01,Williamsburg Bridge,TLC Taxi/FHV,31,480255,15492.0
+2026-04-01,Brooklyn Bridge,"1 - Cars, Pickups and Vans",30,410854,13695.0
+2026-04-01,Brooklyn Bridge,2 - Single-Unit Trucks,30,6293,210.0
+2026-04-01,Brooklyn Bridge,3 - Multi-Unit Trucks,30,83,3.0
+2026-04-01,Brooklyn Bridge,4 - Buses,30,1581,53.0
+2026-04-01,Brooklyn Bridge,5 - Motorcycles,30,2061,69.0
+2026-04-01,Brooklyn Bridge,TLC Taxi/FHV,30,381033,12701.0
+2026-04-01,East 60th St,"1 - Cars, Pickups and Vans",30,843273,28109.0
+2026-04-01,East 60th St,2 - Single-Unit Trucks,30,92987,3100.0
+2026-04-01,East 60th St,3 - Multi-Unit Trucks,30,5223,174.0
+2026-04-01,East 60th St,4 - Buses,30,47862,1595.0
+2026-04-01,East 60th St,5 - Motorcycles,30,11210,374.0
+2026-04-01,East 60th St,TLC Taxi/FHV,30,1275996,42533.0
+2026-04-01,FDR Drive at 60th St,"1 - Cars, Pickups and Vans",30,934218,31141.0
+2026-04-01,FDR Drive at 60th St,2 - Single-Unit Trucks,30,13092,436.0
+2026-04-01,FDR Drive at 60th St,3 - Multi-Unit Trucks,30,111,4.0
+2026-04-01,FDR Drive at 60th St,4 - Buses,30,9514,317.0
+2026-04-01,FDR Drive at 60th St,5 - Motorcycles,30,3740,125.0
+2026-04-01,FDR Drive at 60th St,TLC Taxi/FHV,30,586207,19540.0
+2026-04-01,Holland Tunnel,"1 - Cars, Pickups and Vans",30,858070,28602.0
+2026-04-01,Holland Tunnel,2 - Single-Unit Trucks,30,46294,1543.0
+2026-04-01,Holland Tunnel,3 - Multi-Unit Trucks,30,921,31.0
+2026-04-01,Holland Tunnel,4 - Buses,30,4335,144.0
+2026-04-01,Holland Tunnel,5 - Motorcycles,30,804,27.0
+2026-04-01,Holland Tunnel,TLC Taxi/FHV,30,337273,11242.0
+2026-04-01,Hugh L. Carey Tunnel,"1 - Cars, Pickups and Vans",30,444485,14816.0
+2026-04-01,Hugh L. Carey Tunnel,2 - Single-Unit Trucks,30,17100,570.0
+2026-04-01,Hugh L. Carey Tunnel,3 - Multi-Unit Trucks,30,423,14.0
+2026-04-01,Hugh L. Carey Tunnel,4 - Buses,30,31537,1051.0
+2026-04-01,Hugh L. Carey Tunnel,5 - Motorcycles,30,1239,41.0
+2026-04-01,Hugh L. Carey Tunnel,TLC Taxi/FHV,30,135028,4501.0
+2026-04-01,Lincoln Tunnel,"1 - Cars, Pickups and Vans",30,891049,29702.0
+2026-04-01,Lincoln Tunnel,2 - Single-Unit Trucks,30,85383,2846.0
+2026-04-01,Lincoln Tunnel,3 - Multi-Unit Trucks,30,8037,268.0
+2026-04-01,Lincoln Tunnel,4 - Buses,30,42642,1421.0
+2026-04-01,Lincoln Tunnel,5 - Motorcycles,30,2454,82.0
+2026-04-01,Lincoln Tunnel,TLC Taxi/FHV,30,216545,7218.0
+2026-04-01,Manhattan Bridge,"1 - Cars, Pickups and Vans",30,482743,16091.0
+2026-04-01,Manhattan Bridge,2 - Single-Unit Trucks,30,46323,1544.0
+2026-04-01,Manhattan Bridge,3 - Multi-Unit Trucks,30,4703,157.0
+2026-04-01,Manhattan Bridge,4 - Buses,30,10839,361.0
+2026-04-01,Manhattan Bridge,5 - Motorcycles,30,2979,99.0
+2026-04-01,Manhattan Bridge,TLC Taxi/FHV,30,318581,10619.0
+2026-04-01,Queens Midtown Tunnel,"1 - Cars, Pickups and Vans",30,701765,23392.0
+2026-04-01,Queens Midtown Tunnel,2 - Single-Unit Trucks,30,55772,1859.0
+2026-04-01,Queens Midtown Tunnel,3 - Multi-Unit Trucks,30,1201,40.0
+2026-04-01,Queens Midtown Tunnel,4 - Buses,30,25790,860.0
+2026-04-01,Queens Midtown Tunnel,5 - Motorcycles,30,1463,49.0
+2026-04-01,Queens Midtown Tunnel,TLC Taxi/FHV,30,504078,16803.0
+2026-04-01,Queensboro Bridge,"1 - Cars, Pickups and Vans",30,457642,15255.0
+2026-04-01,Queensboro Bridge,2 - Single-Unit Trucks,30,59013,1967.0
+2026-04-01,Queensboro Bridge,3 - Multi-Unit Trucks,30,4207,140.0
+2026-04-01,Queensboro Bridge,4 - Buses,30,8497,283.0
+2026-04-01,Queensboro Bridge,5 - Motorcycles,30,2948,98.0
+2026-04-01,Queensboro Bridge,TLC Taxi/FHV,30,542440,18081.0
+2026-04-01,West 60th St,"1 - Cars, Pickups and Vans",30,397543,13251.0
+2026-04-01,West 60th St,2 - Single-Unit Trucks,30,55039,1835.0
+2026-04-01,West 60th St,3 - Multi-Unit Trucks,30,3386,113.0
+2026-04-01,West 60th St,4 - Buses,30,27626,921.0
+2026-04-01,West 60th St,5 - Motorcycles,30,5377,179.0
+2026-04-01,West 60th St,TLC Taxi/FHV,30,664705,22157.0
+2026-04-01,West Side Highway at 60th St,"1 - Cars, Pickups and Vans",30,969310,32310.0
+2026-04-01,West Side Highway at 60th St,2 - Single-Unit Trucks,30,10697,357.0
+2026-04-01,West Side Highway at 60th St,3 - Multi-Unit Trucks,30,161,5.0
+2026-04-01,West Side Highway at 60th St,4 - Buses,30,14161,472.0
+2026-04-01,West Side Highway at 60th St,5 - Motorcycles,30,2729,91.0
+2026-04-01,West Side Highway at 60th St,TLC Taxi/FHV,30,353826,11794.0
+2026-04-01,Williamsburg Bridge,"1 - Cars, Pickups and Vans",30,667916,22264.0
+2026-04-01,Williamsburg Bridge,2 - Single-Unit Trucks,30,51017,1701.0
+2026-04-01,Williamsburg Bridge,3 - Multi-Unit Trucks,30,2523,84.0
+2026-04-01,Williamsburg Bridge,4 - Buses,30,6285,210.0
+2026-04-01,Williamsburg Bridge,5 - Motorcycles,30,2736,91.0
+2026-04-01,Williamsburg Bridge,TLC Taxi/FHV,30,484881,16163.0
+2026-05-01,Brooklyn Bridge,"1 - Cars, Pickups and Vans",31,438329,14140.0
+2026-05-01,Brooklyn Bridge,2 - Single-Unit Trucks,31,6541,211.0
+2026-05-01,Brooklyn Bridge,3 - Multi-Unit Trucks,31,90,3.0
+2026-05-01,Brooklyn Bridge,4 - Buses,31,1968,63.0
+2026-05-01,Brooklyn Bridge,5 - Motorcycles,31,2487,80.0
+2026-05-01,Brooklyn Bridge,TLC Taxi/FHV,31,393303,12687.0
+2026-05-01,East 60th St,"1 - Cars, Pickups and Vans",31,892460,28789.0
+2026-05-01,East 60th St,2 - Single-Unit Trucks,31,95137,3069.0
+2026-05-01,East 60th St,3 - Multi-Unit Trucks,31,4935,159.0
+2026-05-01,East 60th St,4 - Buses,31,50080,1615.0
+2026-05-01,East 60th St,5 - Motorcycles,31,12940,417.0
+2026-05-01,East 60th St,TLC Taxi/FHV,31,1271227,41007.0
+2026-05-01,FDR Drive at 60th St,"1 - Cars, Pickups and Vans",31,947011,30549.0
+2026-05-01,FDR Drive at 60th St,2 - Single-Unit Trucks,31,12332,398.0
+2026-05-01,FDR Drive at 60th St,3 - Multi-Unit Trucks,31,130,4.0
+2026-05-01,FDR Drive at 60th St,4 - Buses,31,11551,373.0
+2026-05-01,FDR Drive at 60th St,5 - Motorcycles,31,5052,163.0
+2026-05-01,FDR Drive at 60th St,TLC Taxi/FHV,31,592172,19102.0
+2026-05-01,Holland Tunnel,"1 - Cars, Pickups and Vans",31,912965,29450.0
+2026-05-01,Holland Tunnel,2 - Single-Unit Trucks,31,47991,1548.0
+2026-05-01,Holland Tunnel,3 - Multi-Unit Trucks,31,844,27.0
+2026-05-01,Holland Tunnel,4 - Buses,31,4676,151.0
+2026-05-01,Holland Tunnel,5 - Motorcycles,31,1097,35.0
+2026-05-01,Holland Tunnel,TLC Taxi/FHV,31,361079,11648.0
+2026-05-01,Hugh L. Carey Tunnel,"1 - Cars, Pickups and Vans",31,477449,15402.0
+2026-05-01,Hugh L. Carey Tunnel,2 - Single-Unit Trucks,31,17252,557.0
+2026-05-01,Hugh L. Carey Tunnel,3 - Multi-Unit Trucks,31,306,10.0
+2026-05-01,Hugh L. Carey Tunnel,4 - Buses,31,31361,1012.0
+2026-05-01,Hugh L. Carey Tunnel,5 - Motorcycles,31,1546,50.0
+2026-05-01,Hugh L. Carey Tunnel,TLC Taxi/FHV,31,144694,4668.0
+2026-05-01,Lincoln Tunnel,"1 - Cars, Pickups and Vans",31,952404,30723.0
+2026-05-01,Lincoln Tunnel,2 - Single-Unit Trucks,31,86864,2802.0
+2026-05-01,Lincoln Tunnel,3 - Multi-Unit Trucks,31,7481,241.0
+2026-05-01,Lincoln Tunnel,4 - Buses,31,40392,1303.0
+2026-05-01,Lincoln Tunnel,5 - Motorcycles,31,2913,94.0
+2026-05-01,Lincoln Tunnel,TLC Taxi/FHV,31,240307,7752.0
+2026-05-01,Manhattan Bridge,"1 - Cars, Pickups and Vans",31,513483,16564.0
+2026-05-01,Manhattan Bridge,2 - Single-Unit Trucks,31,48963,1579.0
+2026-05-01,Manhattan Bridge,3 - Multi-Unit Trucks,31,4428,143.0
+2026-05-01,Manhattan Bridge,4 - Buses,31,11847,382.0
+2026-05-01,Manhattan Bridge,5 - Motorcycles,31,3630,117.0
+2026-05-01,Manhattan Bridge,TLC Taxi/FHV,31,326750,10540.0
+2026-05-01,Queens Midtown Tunnel,"1 - Cars, Pickups and Vans",31,763499,24629.0
+2026-05-01,Queens Midtown Tunnel,2 - Single-Unit Trucks,31,54112,1746.0
+2026-05-01,Queens Midtown Tunnel,3 - Multi-Unit Trucks,31,1074,35.0
+2026-05-01,Queens Midtown Tunnel,4 - Buses,31,26753,863.0
+2026-05-01,Queens Midtown Tunnel,5 - Motorcycles,31,1717,55.0
+2026-05-01,Queens Midtown Tunnel,TLC Taxi/FHV,31,545949,17611.0
+2026-05-01,Queensboro Bridge,"1 - Cars, Pickups and Vans",31,493187,15909.0
+2026-05-01,Queensboro Bridge,2 - Single-Unit Trucks,31,61446,1982.0
+2026-05-01,Queensboro Bridge,3 - Multi-Unit Trucks,31,3804,123.0
+2026-05-01,Queensboro Bridge,4 - Buses,31,9072,293.0
+2026-05-01,Queensboro Bridge,5 - Motorcycles,31,3295,106.0
+2026-05-01,Queensboro Bridge,TLC Taxi/FHV,31,565629,18246.0
+2026-05-01,West 60th St,"1 - Cars, Pickups and Vans",31,405087,13067.0
+2026-05-01,West 60th St,2 - Single-Unit Trucks,31,56619,1826.0
+2026-05-01,West 60th St,3 - Multi-Unit Trucks,31,3080,99.0
+2026-05-01,West 60th St,4 - Buses,31,29565,954.0
+2026-05-01,West 60th St,5 - Motorcycles,31,5541,179.0
+2026-05-01,West 60th St,TLC Taxi/FHV,31,662705,21378.0
+2026-05-01,West Side Highway at 60th St,"1 - Cars, Pickups and Vans",31,998489,32209.0
+2026-05-01,West Side Highway at 60th St,2 - Single-Unit Trucks,31,10325,333.0
+2026-05-01,West Side Highway at 60th St,3 - Multi-Unit Trucks,31,228,7.0
+2026-05-01,West Side Highway at 60th St,4 - Buses,31,16037,517.0
+2026-05-01,West Side Highway at 60th St,5 - Motorcycles,31,3600,116.0
+2026-05-01,West Side Highway at 60th St,TLC Taxi/FHV,31,366340,11817.0
+2026-05-01,Williamsburg Bridge,"1 - Cars, Pickups and Vans",31,688777,22219.0
+2026-05-01,Williamsburg Bridge,2 - Single-Unit Trucks,31,52264,1686.0
+2026-05-01,Williamsburg Bridge,3 - Multi-Unit Trucks,31,2037,66.0
+2026-05-01,Williamsburg Bridge,4 - Buses,31,8020,259.0
+2026-05-01,Williamsburg Bridge,5 - Motorcycles,31,3381,109.0
+2026-05-01,Williamsburg Bridge,TLC Taxi/FHV,31,505035,16291.0
+2026-06-01,Brooklyn Bridge,"1 - Cars, Pickups and Vans",30,414785,13826.0
+2026-06-01,Brooklyn Bridge,2 - Single-Unit Trucks,30,6951,232.0
+2026-06-01,Brooklyn Bridge,3 - Multi-Unit Trucks,30,122,4.0
+2026-06-01,Brooklyn Bridge,4 - Buses,30,1657,55.0
+2026-06-01,Brooklyn Bridge,5 - Motorcycles,30,2547,85.0
+2026-06-01,Brooklyn Bridge,TLC Taxi/FHV,30,369723,12324.0
+2026-06-01,East 60th St,"1 - Cars, Pickups and Vans",30,859444,28648.0
+2026-06-01,East 60th St,2 - Single-Unit Trucks,30,100383,3346.0
+2026-06-01,East 60th St,3 - Multi-Unit Trucks,30,4880,163.0
+2026-06-01,East 60th St,4 - Buses,30,49496,1650.0
+2026-06-01,East 60th St,5 - Motorcycles,30,13934,464.0
+2026-06-01,East 60th St,TLC Taxi/FHV,30,1211572,40386.0
+2026-06-01,FDR Drive at 60th St,"1 - Cars, Pickups and Vans",30,928357,30945.0
+2026-06-01,FDR Drive at 60th St,2 - Single-Unit Trucks,30,13127,438.0
+2026-06-01,FDR Drive at 60th St,3 - Multi-Unit Trucks,30,106,4.0
+2026-06-01,FDR Drive at 60th St,4 - Buses,30,9744,325.0
+2026-06-01,FDR Drive at 60th St,5 - Motorcycles,30,5285,176.0
+2026-06-01,FDR Drive at 60th St,TLC Taxi/FHV,30,572040,19068.0
+2026-06-01,Holland Tunnel,"1 - Cars, Pickups and Vans",30,904837,30161.0
+2026-06-01,Holland Tunnel,2 - Single-Unit Trucks,30,50128,1671.0
+2026-06-01,Holland Tunnel,3 - Multi-Unit Trucks,30,830,28.0
+2026-06-01,Holland Tunnel,4 - Buses,30,5541,185.0
+2026-06-01,Holland Tunnel,5 - Motorcycles,30,1147,38.0
+2026-06-01,Holland Tunnel,TLC Taxi/FHV,30,355312,11844.0
+2026-06-01,Hugh L. Carey Tunnel,"1 - Cars, Pickups and Vans",30,474215,15807.0
+2026-06-01,Hugh L. Carey Tunnel,2 - Single-Unit Trucks,30,18228,608.0
+2026-06-01,Hugh L. Carey Tunnel,3 - Multi-Unit Trucks,30,288,10.0
+2026-06-01,Hugh L. Carey Tunnel,4 - Buses,30,32373,1079.0
+2026-06-01,Hugh L. Carey Tunnel,5 - Motorcycles,30,1734,58.0
+2026-06-01,Hugh L. Carey Tunnel,TLC Taxi/FHV,30,142696,4757.0
+2026-06-01,Lincoln Tunnel,"1 - Cars, Pickups and Vans",30,879787,29326.0
+2026-06-01,Lincoln Tunnel,2 - Single-Unit Trucks,30,86827,2894.0
+2026-06-01,Lincoln Tunnel,3 - Multi-Unit Trucks,30,7546,252.0
+2026-06-01,Lincoln Tunnel,4 - Buses,30,42576,1419.0
+2026-06-01,Lincoln Tunnel,5 - Motorcycles,30,3068,102.0
+2026-06-01,Lincoln Tunnel,TLC Taxi/FHV,30,238001,7933.0
+2026-06-01,Manhattan Bridge,"1 - Cars, Pickups and Vans",30,489071,16302.0
+2026-06-01,Manhattan Bridge,2 - Single-Unit Trucks,30,50412,1680.0
+2026-06-01,Manhattan Bridge,3 - Multi-Unit Trucks,30,4418,147.0
+2026-06-01,Manhattan Bridge,4 - Buses,30,11244,375.0
+2026-06-01,Manhattan Bridge,5 - Motorcycles,30,3792,126.0
+2026-06-01,Manhattan Bridge,TLC Taxi/FHV,30,294993,9833.0
+2026-06-01,Queens Midtown Tunnel,"1 - Cars, Pickups and Vans",30,747463,24915.0
+2026-06-01,Queens Midtown Tunnel,2 - Single-Unit Trucks,30,56144,1871.0
+2026-06-01,Queens Midtown Tunnel,3 - Multi-Unit Trucks,30,1193,40.0
+2026-06-01,Queens Midtown Tunnel,4 - Buses,30,28054,935.0
+2026-06-01,Queens Midtown Tunnel,5 - Motorcycles,30,1893,63.0
+2026-06-01,Queens Midtown Tunnel,TLC Taxi/FHV,30,527609,17587.0
+2026-06-01,Queensboro Bridge,"1 - Cars, Pickups and Vans",30,466652,15555.0
+2026-06-01,Queensboro Bridge,2 - Single-Unit Trucks,30,66131,2204.0
+2026-06-01,Queensboro Bridge,3 - Multi-Unit Trucks,30,3428,114.0
+2026-06-01,Queensboro Bridge,4 - Buses,30,9047,302.0
+2026-06-01,Queensboro Bridge,5 - Motorcycles,30,3590,120.0
+2026-06-01,Queensboro Bridge,TLC Taxi/FHV,30,542829,18094.0
+2026-06-01,West 60th St,"1 - Cars, Pickups and Vans",30,374849,12495.0
+2026-06-01,West 60th St,2 - Single-Unit Trucks,30,58549,1952.0
+2026-06-01,West 60th St,3 - Multi-Unit Trucks,30,3154,105.0
+2026-06-01,West 60th St,4 - Buses,30,27211,907.0
+2026-06-01,West 60th St,5 - Motorcycles,30,6007,200.0
+2026-06-01,West 60th St,TLC Taxi/FHV,30,618088,20603.0
+2026-06-01,West Side Highway at 60th St,"1 - Cars, Pickups and Vans",30,988451,32948.0
+2026-06-01,West Side Highway at 60th St,2 - Single-Unit Trucks,30,11106,370.0
+2026-06-01,West Side Highway at 60th St,3 - Multi-Unit Trucks,30,204,7.0
+2026-06-01,West Side Highway at 60th St,4 - Buses,30,14232,474.0
+2026-06-01,West Side Highway at 60th St,5 - Motorcycles,30,4276,143.0
+2026-06-01,West Side Highway at 60th St,TLC Taxi/FHV,30,346082,11536.0
+2026-06-01,Williamsburg Bridge,"1 - Cars, Pickups and Vans",30,678604,22620.0
+2026-06-01,Williamsburg Bridge,2 - Single-Unit Trucks,30,54497,1817.0
+2026-06-01,Williamsburg Bridge,3 - Multi-Unit Trucks,30,2046,68.0
+2026-06-01,Williamsburg Bridge,4 - Buses,30,7711,257.0
+2026-06-01,Williamsburg Bridge,5 - Motorcycles,30,3852,128.0
+2026-06-01,Williamsburg Bridge,TLC Taxi/FHV,30,472476,15749.0
+2026-07-01,Brooklyn Bridge,"1 - Cars, Pickups and Vans",31,406234,13104.0
+2026-07-01,Brooklyn Bridge,2 - Single-Unit Trucks,31,6719,217.0
+2026-07-01,Brooklyn Bridge,3 - Multi-Unit Trucks,31,109,4.0
+2026-07-01,Brooklyn Bridge,4 - Buses,31,1387,45.0
+2026-07-01,Brooklyn Bridge,5 - Motorcycles,31,2300,74.0
+2026-07-01,Brooklyn Bridge,TLC Taxi/FHV,31,379543,12243.0
+2026-07-01,East 60th St,"1 - Cars, Pickups and Vans",31,811985,26193.0
+2026-07-01,East 60th St,2 - Single-Unit Trucks,31,97953,3160.0
+2026-07-01,East 60th St,3 - Multi-Unit Trucks,31,4878,157.0
+2026-07-01,East 60th St,4 - Buses,31,50470,1628.0
+2026-07-01,East 60th St,5 - Motorcycles,31,12534,404.0
+2026-07-01,East 60th St,TLC Taxi/FHV,31,1210992,39064.0
+2026-07-01,FDR Drive at 60th St,"1 - Cars, Pickups and Vans",31,984240,31750.0
+2026-07-01,FDR Drive at 60th St,2 - Single-Unit Trucks,31,14127,456.0
+2026-07-01,FDR Drive at 60th St,3 - Multi-Unit Trucks,31,106,3.0
+2026-07-01,FDR Drive at 60th St,4 - Buses,31,9328,301.0
+2026-07-01,FDR Drive at 60th St,5 - Motorcycles,31,5096,164.0
+2026-07-01,FDR Drive at 60th St,TLC Taxi/FHV,31,598504,19307.0
+2026-07-01,Holland Tunnel,"1 - Cars, Pickups and Vans",31,912805,29445.0
+2026-07-01,Holland Tunnel,2 - Single-Unit Trucks,31,49721,1604.0
+2026-07-01,Holland Tunnel,3 - Multi-Unit Trucks,31,706,23.0
+2026-07-01,Holland Tunnel,4 - Buses,31,4958,160.0
+2026-07-01,Holland Tunnel,5 - Motorcycles,31,1046,34.0
+2026-07-01,Holland Tunnel,TLC Taxi/FHV,31,348905,11255.0
+2026-07-01,Hugh L. Carey Tunnel,"1 - Cars, Pickups and Vans",31,450656,14537.0
+2026-07-01,Hugh L. Carey Tunnel,2 - Single-Unit Trucks,31,17940,579.0
+2026-07-01,Hugh L. Carey Tunnel,3 - Multi-Unit Trucks,31,270,9.0
+2026-07-01,Hugh L. Carey Tunnel,4 - Buses,31,33060,1066.0
+2026-07-01,Hugh L. Carey Tunnel,5 - Motorcycles,31,1476,48.0
+2026-07-01,Hugh L. Carey Tunnel,TLC Taxi/FHV,31,134672,4344.0
+2026-07-01,Lincoln Tunnel,"1 - Cars, Pickups and Vans",31,895552,28889.0
+2026-07-01,Lincoln Tunnel,2 - Single-Unit Trucks,31,85083,2745.0
+2026-07-01,Lincoln Tunnel,3 - Multi-Unit Trucks,31,6993,226.0
+2026-07-01,Lincoln Tunnel,4 - Buses,31,41309,1333.0
+2026-07-01,Lincoln Tunnel,5 - Motorcycles,31,2542,82.0
+2026-07-01,Lincoln Tunnel,TLC Taxi/FHV,31,233879,7544.0
+2026-07-01,Manhattan Bridge,"1 - Cars, Pickups and Vans",31,493002,15903.0
+2026-07-01,Manhattan Bridge,2 - Single-Unit Trucks,31,50858,1641.0
+2026-07-01,Manhattan Bridge,3 - Multi-Unit Trucks,31,4382,141.0
+2026-07-01,Manhattan Bridge,4 - Buses,31,9133,295.0
+2026-07-01,Manhattan Bridge,5 - Motorcycles,31,3328,107.0
+2026-07-01,Manhattan Bridge,TLC Taxi/FHV,31,307436,9917.0
+2026-07-01,Queens Midtown Tunnel,"1 - Cars, Pickups and Vans",31,746291,24074.0
+2026-07-01,Queens Midtown Tunnel,2 - Single-Unit Trucks,31,56770,1831.0
+2026-07-01,Queens Midtown Tunnel,3 - Multi-Unit Trucks,31,1228,40.0
+2026-07-01,Queens Midtown Tunnel,4 - Buses,31,28119,907.0
+2026-07-01,Queens Midtown Tunnel,5 - Motorcycles,31,1686,54.0
+2026-07-01,Queens Midtown Tunnel,TLC Taxi/FHV,31,518281,16719.0
+2026-07-01,Queensboro Bridge,"1 - Cars, Pickups and Vans",31,450737,14540.0
+2026-07-01,Queensboro Bridge,2 - Single-Unit Trucks,31,66024,2130.0
+2026-07-01,Queensboro Bridge,3 - Multi-Unit Trucks,31,3563,115.0
+2026-07-01,Queensboro Bridge,4 - Buses,31,9038,292.0
+2026-07-01,Queensboro Bridge,5 - Motorcycles,31,4028,130.0
+2026-07-01,Queensboro Bridge,TLC Taxi/FHV,31,544824,17575.0
+2026-07-01,West 60th St,"1 - Cars, Pickups and Vans",31,362421,11691.0
+2026-07-01,West 60th St,2 - Single-Unit Trucks,31,58626,1891.0
+2026-07-01,West 60th St,3 - Multi-Unit Trucks,31,3198,103.0
+2026-07-01,West 60th St,4 - Buses,31,26791,864.0
+2026-07-01,West 60th St,5 - Motorcycles,31,5515,178.0
+2026-07-01,West 60th St,TLC Taxi/FHV,31,633676,20441.0
+2026-07-01,West Side Highway at 60th St,"1 - Cars, Pickups and Vans",31,945140,30488.0
+2026-07-01,West Side Highway at 60th St,2 - Single-Unit Trucks,31,11221,362.0
+2026-07-01,West Side Highway at 60th St,3 - Multi-Unit Trucks,31,176,6.0
+2026-07-01,West Side Highway at 60th St,4 - Buses,31,12948,418.0
+2026-07-01,West Side Highway at 60th St,5 - Motorcycles,31,3748,121.0
+2026-07-01,West Side Highway at 60th St,TLC Taxi/FHV,31,335320,10817.0
+2026-07-01,Williamsburg Bridge,"1 - Cars, Pickups and Vans",31,670628,21633.0
+2026-07-01,Williamsburg Bridge,2 - Single-Unit Trucks,31,54373,1754.0
+2026-07-01,Williamsburg Bridge,3 - Multi-Unit Trucks,31,1928,62.0
+2026-07-01,Williamsburg Bridge,4 - Buses,31,6799,219.0
+2026-07-01,Williamsburg Bridge,5 - Motorcycles,31,3938,127.0
+2026-07-01,Williamsburg Bridge,TLC Taxi/FHV,31,486951,15708.0
+2026-08-01,Brooklyn Bridge,"1 - Cars, Pickups and Vans",31,417369,13464.0
+2026-08-01,Brooklyn Bridge,2 - Single-Unit Trucks,31,6798,219.0
+2026-08-01,Brooklyn Bridge,3 - Multi-Unit Trucks,31,139,4.0
+2026-08-01,Brooklyn Bridge,4 - Buses,31,860,28.0
+2026-08-01,Brooklyn Bridge,5 - Motorcycles,31,2487,80.0
+2026-08-01,Brooklyn Bridge,TLC Taxi/FHV,31,371018,11968.0
+2026-08-01,East 60th St,"1 - Cars, Pickups and Vans",31,810262,26137.0
+2026-08-01,East 60th St,2 - Single-Unit Trucks,31,94516,3049.0
+2026-08-01,East 60th St,3 - Multi-Unit Trucks,31,4358,141.0
+2026-08-01,East 60th St,4 - Buses,31,49177,1586.0
+2026-08-01,East 60th St,5 - Motorcycles,31,12139,392.0
+2026-08-01,East 60th St,TLC Taxi/FHV,31,1185225,38233.0
+2026-08-01,FDR Drive at 60th St,"1 - Cars, Pickups and Vans",31,979560,31599.0
+2026-08-01,FDR Drive at 60th St,2 - Single-Unit Trucks,31,14405,465.0
+2026-08-01,FDR Drive at 60th St,3 - Multi-Unit Trucks,31,61,2.0
+2026-08-01,FDR Drive at 60th St,4 - Buses,31,5732,185.0
+2026-08-01,FDR Drive at 60th St,5 - Motorcycles,31,5227,169.0
+2026-08-01,FDR Drive at 60th St,TLC Taxi/FHV,31,569468,18370.0
+2026-08-01,Holland Tunnel,"1 - Cars, Pickups and Vans",31,914563,29502.0
+2026-08-01,Holland Tunnel,2 - Single-Unit Trucks,31,47779,1541.0
+2026-08-01,Holland Tunnel,3 - Multi-Unit Trucks,31,664,21.0
+2026-08-01,Holland Tunnel,4 - Buses,31,4471,144.0
+2026-08-01,Holland Tunnel,5 - Motorcycles,31,951,31.0
+2026-08-01,Holland Tunnel,TLC Taxi/FHV,31,338967,10934.0
+2026-08-01,Hugh L. Carey Tunnel,"1 - Cars, Pickups and Vans",31,419057,13518.0
+2026-08-01,Hugh L. Carey Tunnel,2 - Single-Unit Trucks,31,16905,545.0
+2026-08-01,Hugh L. Carey Tunnel,3 - Multi-Unit Trucks,31,224,7.0
+2026-08-01,Hugh L. Carey Tunnel,4 - Buses,31,30888,996.0
+2026-08-01,Hugh L. Carey Tunnel,5 - Motorcycles,31,1395,45.0
+2026-08-01,Hugh L. Carey Tunnel,TLC Taxi/FHV,31,121656,3924.0
+2026-08-01,Lincoln Tunnel,"1 - Cars, Pickups and Vans",31,929194,29974.0
+2026-08-01,Lincoln Tunnel,2 - Single-Unit Trucks,31,80903,2610.0
+2026-08-01,Lincoln Tunnel,3 - Multi-Unit Trucks,31,6397,206.0
+2026-08-01,Lincoln Tunnel,4 - Buses,31,38383,1238.0
+2026-08-01,Lincoln Tunnel,5 - Motorcycles,31,2547,82.0
+2026-08-01,Lincoln Tunnel,TLC Taxi/FHV,31,220565,7115.0
+2026-08-01,Manhattan Bridge,"1 - Cars, Pickups and Vans",31,495297,15977.0
+2026-08-01,Manhattan Bridge,2 - Single-Unit Trucks,31,50497,1629.0
+2026-08-01,Manhattan Bridge,3 - Multi-Unit Trucks,31,4258,137.0
+2026-08-01,Manhattan Bridge,4 - Buses,31,8154,263.0
+2026-08-01,Manhattan Bridge,5 - Motorcycles,31,3390,109.0
+2026-08-01,Manhattan Bridge,TLC Taxi/FHV,31,291018,9388.0
+2026-08-01,Queens Midtown Tunnel,"1 - Cars, Pickups and Vans",31,755132,24359.0
+2026-08-01,Queens Midtown Tunnel,2 - Single-Unit Trucks,31,55185,1780.0
+2026-08-01,Queens Midtown Tunnel,3 - Multi-Unit Trucks,31,1101,36.0
+2026-08-01,Queens Midtown Tunnel,4 - Buses,31,27322,881.0
+2026-08-01,Queens Midtown Tunnel,5 - Motorcycles,31,1697,55.0
+2026-08-01,Queens Midtown Tunnel,TLC Taxi/FHV,31,494277,15944.0
+2026-08-01,Queensboro Bridge,"1 - Cars, Pickups and Vans",31,451381,14561.0
+2026-08-01,Queensboro Bridge,2 - Single-Unit Trucks,31,63602,2052.0
+2026-08-01,Queensboro Bridge,3 - Multi-Unit Trucks,31,3212,104.0
+2026-08-01,Queensboro Bridge,4 - Buses,31,8303,268.0
+2026-08-01,Queensboro Bridge,5 - Motorcycles,31,3891,126.0
+2026-08-01,Queensboro Bridge,TLC Taxi/FHV,31,547851,17673.0
+2026-08-01,West 60th St,"1 - Cars, Pickups and Vans",31,348721,11249.0
+2026-08-01,West 60th St,2 - Single-Unit Trucks,31,55026,1775.0
+2026-08-01,West 60th St,3 - Multi-Unit Trucks,31,2840,92.0
+2026-08-01,West 60th St,4 - Buses,31,25077,809.0
+2026-08-01,West 60th St,5 - Motorcycles,31,5208,168.0
+2026-08-01,West 60th St,TLC Taxi/FHV,31,596518,19243.0
+2026-08-01,West Side Highway at 60th St,"1 - Cars, Pickups and Vans",31,922608,29762.0
+2026-08-01,West Side Highway at 60th St,2 - Single-Unit Trucks,31,10792,348.0
+2026-08-01,West Side Highway at 60th St,3 - Multi-Unit Trucks,31,151,5.0
+2026-08-01,West Side Highway at 60th St,4 - Buses,31,10253,331.0
+2026-08-01,West Side Highway at 60th St,5 - Motorcycles,31,3609,116.0
+2026-08-01,West Side Highway at 60th St,TLC Taxi/FHV,31,324413,10465.0
+2026-08-01,Williamsburg Bridge,"1 - Cars, Pickups and Vans",31,679991,21935.0
+2026-08-01,Williamsburg Bridge,2 - Single-Unit Trucks,31,52335,1688.0
+2026-08-01,Williamsburg Bridge,3 - Multi-Unit Trucks,31,1770,57.0
+2026-08-01,Williamsburg Bridge,4 - Buses,31,5930,191.0
+2026-08-01,Williamsburg Bridge,5 - Motorcycles,31,4110,133.0
+2026-08-01,Williamsburg Bridge,TLC Taxi/FHV,31,489560,15792.0
+2026-09-01,Brooklyn Bridge,"1 - Cars, Pickups and Vans",30,403634,13454.0
+2026-09-01,Brooklyn Bridge,2 - Single-Unit Trucks,30,6843,228.0
+2026-09-01,Brooklyn Bridge,3 - Multi-Unit Trucks,30,111,4.0
+2026-09-01,Brooklyn Bridge,4 - Buses,30,1515,50.0
+2026-09-01,Brooklyn Bridge,5 - Motorcycles,30,2004,67.0
+2026-09-01,Brooklyn Bridge,TLC Taxi/FHV,30,369594,12320.0
+2026-09-01,East 60th St,"1 - Cars, Pickups and Vans",30,820523,27351.0
+2026-09-01,East 60th St,2 - Single-Unit Trucks,30,93548,3118.0
+2026-09-01,East 60th St,3 - Multi-Unit Trucks,30,4124,137.0
+2026-09-01,East 60th St,4 - Buses,30,49876,1663.0
+2026-09-01,East 60th St,5 - Motorcycles,30,11687,390.0
+2026-09-01,East 60th St,TLC Taxi/FHV,30,1130391,37680.0
+2026-09-01,FDR Drive at 60th St,"1 - Cars, Pickups and Vans",30,931358,31045.0
+2026-09-01,FDR Drive at 60th St,2 - Single-Unit Trucks,30,14344,478.0
+2026-09-01,FDR Drive at 60th St,3 - Multi-Unit Trucks,30,68,2.0
+2026-09-01,FDR Drive at 60th St,4 - Buses,30,9185,306.0
+2026-09-01,FDR Drive at 60th St,5 - Motorcycles,30,5023,167.0
+2026-09-01,FDR Drive at 60th St,TLC Taxi/FHV,30,595523,19851.0
+2026-09-01,Holland Tunnel,"1 - Cars, Pickups and Vans",30,852254,28408.0
+2026-09-01,Holland Tunnel,2 - Single-Unit Trucks,30,49093,1636.0
+2026-09-01,Holland Tunnel,3 - Multi-Unit Trucks,30,596,20.0
+2026-09-01,Holland Tunnel,4 - Buses,30,4478,149.0
+2026-09-01,Holland Tunnel,5 - Motorcycles,30,910,30.0
+2026-09-01,Holland Tunnel,TLC Taxi/FHV,30,356280,11876.0
+2026-09-01,Hugh L. Carey Tunnel,"1 - Cars, Pickups and Vans",30,434176,14473.0
+2026-09-01,Hugh L. Carey Tunnel,2 - Single-Unit Trucks,30,17004,567.0
+2026-09-01,Hugh L. Carey Tunnel,3 - Multi-Unit Trucks,30,221,7.0
+2026-09-01,Hugh L. Carey Tunnel,4 - Buses,30,30148,1005.0
+2026-09-01,Hugh L. Carey Tunnel,5 - Motorcycles,30,1532,51.0
+2026-09-01,Hugh L. Carey Tunnel,TLC Taxi/FHV,30,141359,4712.0
+2026-09-01,Lincoln Tunnel,"1 - Cars, Pickups and Vans",30,827680,27589.0
+2026-09-01,Lincoln Tunnel,2 - Single-Unit Trucks,30,86657,2889.0
+2026-09-01,Lincoln Tunnel,3 - Multi-Unit Trucks,30,7059,235.0
+2026-09-01,Lincoln Tunnel,4 - Buses,30,73195,2440.0
+2026-09-01,Lincoln Tunnel,5 - Motorcycles,30,2539,85.0
+2026-09-01,Lincoln Tunnel,TLC Taxi/FHV,30,238209,7940.0
+2026-09-01,Manhattan Bridge,"1 - Cars, Pickups and Vans",30,466626,15554.0
+2026-09-01,Manhattan Bridge,2 - Single-Unit Trucks,30,49024,1634.0
+2026-09-01,Manhattan Bridge,3 - Multi-Unit Trucks,30,3921,131.0
+2026-09-01,Manhattan Bridge,4 - Buses,30,11244,375.0
+2026-09-01,Manhattan Bridge,5 - Motorcycles,30,3180,106.0
+2026-09-01,Manhattan Bridge,TLC Taxi/FHV,30,303172,10106.0
+2026-09-01,Queens Midtown Tunnel,"1 - Cars, Pickups and Vans",30,682672,22756.0
+2026-09-01,Queens Midtown Tunnel,2 - Single-Unit Trucks,30,56657,1889.0
+2026-09-01,Queens Midtown Tunnel,3 - Multi-Unit Trucks,30,1019,34.0
+2026-09-01,Queens Midtown Tunnel,4 - Buses,30,26481,883.0
+2026-09-01,Queens Midtown Tunnel,5 - Motorcycles,30,1807,60.0
+2026-09-01,Queens Midtown Tunnel,TLC Taxi/FHV,30,557270,18576.0
+2026-09-01,Queensboro Bridge,"1 - Cars, Pickups and Vans",30,439664,14655.0
+2026-09-01,Queensboro Bridge,2 - Single-Unit Trucks,30,61448,2048.0
+2026-09-01,Queensboro Bridge,3 - Multi-Unit Trucks,30,3101,103.0
+2026-09-01,Queensboro Bridge,4 - Buses,30,8680,289.0
+2026-09-01,Queensboro Bridge,5 - Motorcycles,30,3270,109.0
+2026-09-01,Queensboro Bridge,TLC Taxi/FHV,30,542388,18080.0
+2026-09-01,West 60th St,"1 - Cars, Pickups and Vans",30,376716,12557.0
+2026-09-01,West 60th St,2 - Single-Unit Trucks,30,57676,1923.0
+2026-09-01,West 60th St,3 - Multi-Unit Trucks,30,3131,104.0
+2026-09-01,West 60th St,4 - Buses,30,27309,910.0
+2026-09-01,West 60th St,5 - Motorcycles,30,5129,171.0
+2026-09-01,West 60th St,TLC Taxi/FHV,30,615287,20510.0
+2026-09-01,West Side Highway at 60th St,"1 - Cars, Pickups and Vans",30,939124,31304.0
+2026-09-01,West Side Highway at 60th St,2 - Single-Unit Trucks,30,11373,379.0
+2026-09-01,West Side Highway at 60th St,3 - Multi-Unit Trucks,30,154,5.0
+2026-09-01,West Side Highway at 60th St,4 - Buses,30,13020,434.0
+2026-09-01,West Side Highway at 60th St,5 - Motorcycles,30,3331,111.0
+2026-09-01,West Side Highway at 60th St,TLC Taxi/FHV,30,360287,12010.0
+2026-09-01,Williamsburg Bridge,"1 - Cars, Pickups and Vans",30,639886,21330.0
+2026-09-01,Williamsburg Bridge,2 - Single-Unit Trucks,30,52685,1756.0
+2026-09-01,Williamsburg Bridge,3 - Multi-Unit Trucks,30,1720,57.0
+2026-09-01,Williamsburg Bridge,4 - Buses,30,6927,231.0
+2026-09-01,Williamsburg Bridge,5 - Motorcycles,30,3646,122.0
+2026-09-01,Williamsburg Bridge,TLC Taxi/FHV,30,502208,16740.0
