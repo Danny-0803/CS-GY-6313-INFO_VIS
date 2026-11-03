@@ -11,7 +11,7 @@ Our audience is policymakers and the public in U.S. cities that are thinking abo
 
 - Q1. How have vehicle entries into the zone changed, by crossing and time of day?
 - Q2. How have weekday bus speeds inside the zone changed compared with bus speeds outside it?
-- Q3. Do drivers avoid the toll by timing trips around the 5 AM and 9 PM price changes, or by using the free FDR Drive and West Side Highway?
+- Q3. How do vehicle entries change around the 5 AM and 9 PM toll-price changes, and what share stays on excluded roads?
 - Q4. How did subway entries inside the zone change compared with the outer boroughs, and how much of that trend was there before the toll?
 - Q7. Comparing 2025 with 2026, which changes held up and which faded?
 - "Not being covered" Q5 (where new subway riders come from) and Q6 (horn complaints and crashes).
@@ -73,7 +73,7 @@ Each link below opens the dataset page.
 
 ## How days are matched
 
-A 2025 day is compared with the day 364 days earlier, and a 2026 day with the day 728 days earlier, so the weekday is always the same. Holidays are matched to the same holiday in 2024. If a normal day would land on a 2024 holiday, we use the week before instead (or the week after, or two weeks before, so the match always stays in 2024). A 2024 day can be used twice when a nearby day was moved off a holiday, so both sides always compare the same number of days. Monthly data is compared with the same month in 2024. The monthly sources (bus speeds and vehicle miles) count all of January 2025, including the four days before tolling started. Vehicle miles end in June 2026, so Q7 compares January to June of each year for them. Everything stops at 30 September 2026.
+A 2025 day is compared with the day 364 days earlier, and a 2026 day with the day 728 days earlier, so the weekday is always the same. Holidays are matched to the same holiday in 2024. If a normal day would land on a 2024 holiday, we use the week before instead (or the week after, or two weeks before, so the match always stays in 2024). A 2024 day can be used twice when a nearby day was moved off a holiday, so both sides always compare the same number of days. Monthly data is compared with the same month in 2024. The monthly sources (bus speeds and vehicle miles) count all of January 2025, including the four days before tolling started. Vehicle miles end in June 2026, so Q7 compares January to June of each year for them. The Q4 check (2024 vs. 2023) uses a plain 364-day weekday comparison with no holiday adjustments, and leaves out December 30 and 31, 2024, whose pairs would land in 2024. Everything stops at 30 September 2026.
 
 ## AI use
 

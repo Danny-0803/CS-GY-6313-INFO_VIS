@@ -248,8 +248,8 @@ def q4_subway():
 
 
 def q4_placebo():
-    """Same rule on 2024 vs 2023, before the toll. Shows how much subway counts
-    moved on their own."""
+    """2024 vs 2023, before the toll, using a plain 364-day weekday comparison
+    (no holiday adjustments). Shows how much subway counts moved on their own."""
     print("Q4 check: placebo 2024 vs 2023")
     sub = pd.read_csv(raw("subway_daily"), parse_dates=["ride_date"])
     stations = pd.read_csv(OUT / "q4_stations_tagged.csv")[["station_complex_id", "area"]]
@@ -257,6 +257,8 @@ def q4_placebo():
     rows = []
     for day in pd.date_range("2024-01-07", "2024-12-31"):
         b = day - pd.Timedelta(days=364)
+        if b.year != 2023:   # Dec 30-31, 2024 would land in January 2024, so skip them
+            continue
         for area in ("Inside the zone", "Outer boroughs"):
             if (day, area) in d.index and (b, area) in d.index:
                 rows.append({"month": day.to_period("M").to_timestamp(), "area": area,
