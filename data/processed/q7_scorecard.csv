@@ -1,7 +1,7 @@
 measure,group,role,period,pct_change_vs_2024
-Vehicle miles (index),Congestion Relief Zone,zone,Jan-Sep 2025,-6.9
+Vehicle miles (index),Congestion Relief Zone,zone,Jan-Jun 2025,-8.2
 Vehicle miles (index),Congestion Relief Zone,zone,Jan-Jun 2026,-9.2
-Vehicle miles (index),"Excluded roadways (FDR, West Side Hwy)",comparison,Jan-Sep 2025,-3.9
+Vehicle miles (index),"Excluded roadways (FDR, West Side Hwy)",comparison,Jan-Jun 2025,-5.0
 Vehicle miles (index),"Excluded roadways (FDR, West Side Hwy)",comparison,Jan-Jun 2026,-8.5
 Vehicle crossings,MTA tunnels into the zone,zone,Jan-Sep 2025,-1.4
 Vehicle crossings,MTA tunnels into the zone,zone,Jan-Sep 2026,-5.6

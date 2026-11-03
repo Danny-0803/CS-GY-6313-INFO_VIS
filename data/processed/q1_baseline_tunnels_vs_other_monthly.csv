@@ -21,8 +21,8 @@ month,group,matched_days,crossings,crossings_2024,pct_change_vs_2024
 2025-10-01,Other MTA crossings (not into the zone),31,24721196,24913627,-0.8
 2025-11-01,MTA tunnels into the zone,30,2257942,2233536,1.1
 2025-11-01,Other MTA crossings (not into the zone),30,23565381,23278448,1.2
-2025-12-01,MTA tunnels into the zone,31,2216867,2313755,-4.2
-2025-12-01,Other MTA crossings (not into the zone),31,23449295,23885041,-1.8
+2025-12-01,MTA tunnels into the zone,31,2216867,2324117,-4.6
+2025-12-01,Other MTA crossings (not into the zone),31,23449295,23957078,-2.1
 2026-01-01,MTA tunnels into the zone,31,1987108,2091673,-5.0
 2026-01-01,Other MTA crossings (not into the zone),31,20932167,21562224,-2.9
 2026-02-01,MTA tunnels into the zone,28,1819756,2009919,-9.5

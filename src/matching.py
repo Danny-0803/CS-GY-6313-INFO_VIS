@@ -3,6 +3,8 @@ How each 2025-26 day is matched to a 2024 day.
 - 2025 dates go back 364 days and 2026 dates go back 728 days, so the weekday always matches.
 - A holiday is matched to the same holiday in 2024. We count federal holidays plus Christmas Eve, New Year's Eve and the day after Thanksgiving.
 - If a normal day would land on a 2024 holiday, we go one more week back (or one week forward if that is a holiday too).
+  The match always stays in 2024, so Dec 30, 2025 goes two weeks back, to Dec 17, 2024.
+- A 2024 day can be used twice when a nearby day was moved off a holiday. Both sides still have the same number of days.
 - Each pair gets a match_type so it can be filtered out later.
 Monthly data (bus speeds, vehicle miles) is compared with the same month of 2024.
 """
@@ -53,11 +55,11 @@ def match_day(d: date) -> tuple[date, str]:
         return shifted, "same_weekday"
 
     if shifted in SPECIAL:
-        back = shifted - timedelta(days=7)
-        if back not in SPECIAL and back.year == BASE_YEAR:
-            return back, "shifted_off_holiday"
-        fwd = shifted + timedelta(days=7)
-        return fwd, "shifted_off_holiday"
+        # one week back, then one week forward, then two weeks back; always a normal day in 2024
+        for step in (-7, 7, -14):
+            near = shifted + timedelta(days=step)
+            if near not in SPECIAL and near.year == BASE_YEAR:
+                return near, "shifted_off_holiday"
 
     return shifted, "same_weekday"
 

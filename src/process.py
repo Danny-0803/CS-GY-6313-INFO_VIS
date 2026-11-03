@@ -293,10 +293,11 @@ def q7(bt_mon, bus_m, sub_mon, vmt=None):
     rows = []
     if vmt is not None:
         for grp, role in [("Congestion Relief Zone", "zone"), ("Excluded roadways (FDR, West Side Hwy)", "comparison")]:
-            for yr, last in ((2025, 9), (2026, 6)):
-                x = vmt[(vmt.area == grp) & (vmt.month.dt.year == yr) & (vmt.month.dt.month <= last)]
+            # vehicle miles stop in June 2026, so both years use January to June
+            for yr in (2025, 2026):
+                x = vmt[(vmt.area == grp) & (vmt.month.dt.year == yr) & (vmt.month.dt.month <= 6)]
                 rows.append({"measure": "Vehicle miles (index)", "group": grp, "role": role,
-                             "period": f"Jan-{'Sep' if last == 9 else 'Jun'} {yr}",
+                             "period": f"Jan-Jun {yr}",
                              "pct_change_vs_2024": round(float(x.pct_change_vs_2024.mean()), 1)})
     def add(measure, group, comparison, df, val, base):
         for yr in (2025, 2026):
