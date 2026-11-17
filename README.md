@@ -49,6 +49,8 @@ Each link below opens the dataset page.
 | S1 | MTA Vehicle Miles Traveled in the CBD      | https://data.ny.gov/d/jbxx-kxff |
 | S2 | MTA CBD Taxi and For-Hire Vehicle Speeds   | https://data.ny.gov/d/6p29-6xqn |
 
+The gray land on the Q4 Visualization subway map is the NYC Department of City Planning borough boundary file, saved as data/raw/nyc_boroughs.geojson. It is only used as a background.
+
 ## Processed tables
 
 | File                                       | Question | Each row is |
@@ -57,6 +59,7 @@ Each link below opens the dataset page.
 | `q1_entries_daily_by_crossing.csv`         | Q1       | one entry point on one day |
 | `q1_entries_monthly_by_crossing_class.csv` | Q1       | one entry point, vehicle type and month |
 | `q1_heatmap_weekday_hour.csv`              | Q1       | one weekday and hour |
+| `q1_heatmap_by_crossing_weekday_hour.csv`  | Q1       | one entry point, weekday and hour |
 | `q1_baseline_tunnels_vs_other_monthly.csv` | Q1       | one month and group, vs matched 2024 days |
 | `q1_crossings_since_2019_monthly.csv`      | Q1       | one month and group, 2019 to 2026 |
 | `baseline_check_d1_vs_d2_monthly.csv`      | baseline | one tunnel and month, D1 vs D2 |
@@ -69,11 +72,25 @@ Each link below opens the dataset page.
 | `q4_subway_by_area_monthly.csv`            | Q4       | one area and month, vs matched 2024 days |
 | `q4_placebo_2024_vs_2023_monthly.csv`      | Q4       | one area and month, 2024 vs 2023 |
 | `q4_station_pct_change_map.csv`            | Q4       | one station |
+| `q4_station_monthly.csv`                   | Q4       | one station and month, vs matched 2024 days |
 | `q7_scorecard.csv`                         | Q7       | one measure, group and period |
+| `q7_daily_crossings_vs_2024.csv`	         | Q7	    | one crossing group on one day, vs its matched 2024 day
+| `q7_daily_subway_vs_2024.csv` 	         | Q7	    | one subway area on one day, vs its matched 2024 day
 
 ## How days are matched
 
 A 2025 day is compared with the day 364 days earlier, and a 2026 day with the day 728 days earlier, so the weekday is always the same. Holidays are matched to the same holiday in 2024. If a normal day would land on a 2024 holiday, we use the week before instead (or the week after, or two weeks before, so the match always stays in 2024). A 2024 day can be used twice when a nearby day was moved off a holiday, so both sides always compare the same number of days. Monthly data is compared with the same month in 2024. The monthly sources (bus speeds and vehicle miles) count all of January 2025, including the four days before tolling started. Vehicle miles end in June 2026, so Q7 compares January to June of each year for them. The Q4 check (2024 vs. 2023) uses a plain 364-day weekday comparison with no holiday adjustments, and leaves out December 30 and 31, 2024, whose pairs would land in 2024. Everything stops at 30 September 2026.
+
+
+## Milestones
+- Milestone 2 (data analysis and sketches): the Milestone_2 folder.
+
+- Milestone 3 (D3 visualizations): the Observable notebook : https://observablehq.com/@ds8953/the-9-line-what-changed-after-new-york-started-congestion-pricing 
+    
+    How to view it:
+    - Open the link in any web browser. You don't need an account or any installs.
+    - Read from top to bottom. Each question has its question, the D3 chart, the D3 code under the chart, and a "What the visualization shows" section.
+    - Use the buttons, menu and checkboxes above each chart, and hover over points, cells and stations to see exact numbers. On the subway map, scroll to zoom, drag to move and double-click to reset.
 
 ## AI use
 
