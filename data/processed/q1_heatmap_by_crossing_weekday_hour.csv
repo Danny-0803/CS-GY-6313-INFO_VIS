@@ -1,0 +1,2017 @@
+detection_group,day_of_week,hour_of_day,avg_entries_2025,avg_entries_2026,pct_change_2026_vs_2025
+Brooklyn Bridge,Friday,0,810.0,794.0,-1.9
+Brooklyn Bridge,Friday,1,562.0,575.0,2.2
+Brooklyn Bridge,Friday,2,394.0,426.0,8.0
+Brooklyn Bridge,Friday,3,388.0,424.0,9.2
+Brooklyn Bridge,Friday,4,792.0,797.0,0.7
+Brooklyn Bridge,Friday,5,850.0,817.0,-4.0
+Brooklyn Bridge,Friday,6,1222.0,1116.0,-8.7
+Brooklyn Bridge,Friday,7,1309.0,1233.0,-5.8
+Brooklyn Bridge,Friday,8,1375.0,1286.0,-6.5
+Brooklyn Bridge,Friday,9,1359.0,1304.0,-4.0
+Brooklyn Bridge,Friday,10,1306.0,1269.0,-2.8
+Brooklyn Bridge,Friday,11,1267.0,1210.0,-4.5
+Brooklyn Bridge,Friday,12,1192.0,1176.0,-1.3
+Brooklyn Bridge,Friday,13,1219.0,1186.0,-2.7
+Brooklyn Bridge,Friday,14,1328.0,1285.0,-3.2
+Brooklyn Bridge,Friday,15,1379.0,1332.0,-3.4
+Brooklyn Bridge,Friday,16,1440.0,1365.0,-5.2
+Brooklyn Bridge,Friday,17,1450.0,1402.0,-3.3
+Brooklyn Bridge,Friday,18,1448.0,1380.0,-4.7
+Brooklyn Bridge,Friday,19,1380.0,1349.0,-2.3
+Brooklyn Bridge,Friday,20,1318.0,1279.0,-3.0
+Brooklyn Bridge,Friday,21,1509.0,1364.0,-9.6
+Brooklyn Bridge,Friday,22,1420.0,1270.0,-10.6
+Brooklyn Bridge,Friday,23,1250.0,1245.0,-0.5
+Brooklyn Bridge,Monday,0,578.0,513.0,-11.2
+Brooklyn Bridge,Monday,1,388.0,357.0,-8.0
+Brooklyn Bridge,Monday,2,273.0,276.0,1.0
+Brooklyn Bridge,Monday,3,318.0,328.0,3.0
+Brooklyn Bridge,Monday,4,746.0,708.0,-5.1
+Brooklyn Bridge,Monday,5,828.0,733.0,-11.4
+Brooklyn Bridge,Monday,6,1222.0,1016.0,-16.8
+Brooklyn Bridge,Monday,7,1319.0,1128.0,-14.4
+Brooklyn Bridge,Monday,8,1352.0,1224.0,-9.4
+Brooklyn Bridge,Monday,9,1330.0,1249.0,-6.2
+Brooklyn Bridge,Monday,10,1317.0,1195.0,-9.2
+Brooklyn Bridge,Monday,11,1236.0,1132.0,-8.5
+Brooklyn Bridge,Monday,12,1183.0,1104.0,-6.6
+Brooklyn Bridge,Monday,13,1204.0,1121.0,-6.9
+Brooklyn Bridge,Monday,14,1269.0,1174.0,-7.5
+Brooklyn Bridge,Monday,15,1267.0,1170.0,-7.6
+Brooklyn Bridge,Monday,16,1270.0,1150.0,-9.5
+Brooklyn Bridge,Monday,17,1300.0,1123.0,-13.6
+Brooklyn Bridge,Monday,18,1272.0,1116.0,-12.2
+Brooklyn Bridge,Monday,19,1204.0,1043.0,-13.4
+Brooklyn Bridge,Monday,20,1147.0,1023.0,-10.8
+Brooklyn Bridge,Monday,21,1372.0,1162.0,-15.3
+Brooklyn Bridge,Monday,22,1146.0,1047.0,-8.7
+Brooklyn Bridge,Monday,23,834.0,829.0,-0.6
+Brooklyn Bridge,Saturday,0,1009.0,1021.0,1.3
+Brooklyn Bridge,Saturday,1,868.0,897.0,3.4
+Brooklyn Bridge,Saturday,2,668.0,703.0,5.3
+Brooklyn Bridge,Saturday,3,541.0,585.0,8.1
+Brooklyn Bridge,Saturday,4,605.0,659.0,8.9
+Brooklyn Bridge,Saturday,5,797.0,829.0,4.0
+Brooklyn Bridge,Saturday,6,1133.0,1113.0,-1.8
+Brooklyn Bridge,Saturday,7,1182.0,1140.0,-3.5
+Brooklyn Bridge,Saturday,8,1281.0,1206.0,-5.8
+Brooklyn Bridge,Saturday,9,1190.0,1155.0,-2.9
+Brooklyn Bridge,Saturday,10,1242.0,1202.0,-3.2
+Brooklyn Bridge,Saturday,11,1286.0,1212.0,-5.8
+Brooklyn Bridge,Saturday,12,1287.0,1214.0,-5.7
+Brooklyn Bridge,Saturday,13,1306.0,1238.0,-5.2
+Brooklyn Bridge,Saturday,14,1303.0,1250.0,-4.1
+Brooklyn Bridge,Saturday,15,1339.0,1271.0,-5.1
+Brooklyn Bridge,Saturday,16,1331.0,1279.0,-3.9
+Brooklyn Bridge,Saturday,17,1310.0,1245.0,-4.9
+Brooklyn Bridge,Saturday,18,1337.0,1247.0,-6.7
+Brooklyn Bridge,Saturday,19,1320.0,1210.0,-8.3
+Brooklyn Bridge,Saturday,20,1228.0,1143.0,-7.0
+Brooklyn Bridge,Saturday,21,1353.0,1232.0,-9.0
+Brooklyn Bridge,Saturday,22,1381.0,1218.0,-11.8
+Brooklyn Bridge,Saturday,23,1281.0,1197.0,-6.6
+Brooklyn Bridge,Sunday,0,1109.0,1028.0,-7.4
+Brooklyn Bridge,Sunday,1,965.0,929.0,-3.7
+Brooklyn Bridge,Sunday,2,740.0,716.0,-3.3
+Brooklyn Bridge,Sunday,3,604.0,598.0,-1.0
+Brooklyn Bridge,Sunday,4,562.0,586.0,4.1
+Brooklyn Bridge,Sunday,5,708.0,676.0,-4.5
+Brooklyn Bridge,Sunday,6,1061.0,957.0,-9.8
+Brooklyn Bridge,Sunday,7,1069.0,985.0,-7.9
+Brooklyn Bridge,Sunday,8,1203.0,1103.0,-8.4
+Brooklyn Bridge,Sunday,9,1148.0,1074.0,-6.4
+Brooklyn Bridge,Sunday,10,1198.0,1160.0,-3.2
+Brooklyn Bridge,Sunday,11,1264.0,1184.0,-6.4
+Brooklyn Bridge,Sunday,12,1278.0,1229.0,-3.9
+Brooklyn Bridge,Sunday,13,1326.0,1232.0,-7.1
+Brooklyn Bridge,Sunday,14,1366.0,1239.0,-9.3
+Brooklyn Bridge,Sunday,15,1300.0,1183.0,-9.0
+Brooklyn Bridge,Sunday,16,1286.0,1152.0,-10.4
+Brooklyn Bridge,Sunday,17,1202.0,1090.0,-9.4
+Brooklyn Bridge,Sunday,18,1186.0,1070.0,-9.7
+Brooklyn Bridge,Sunday,19,1107.0,1012.0,-8.5
+Brooklyn Bridge,Sunday,20,1035.0,931.0,-10.1
+Brooklyn Bridge,Sunday,21,1162.0,1030.0,-11.4
+Brooklyn Bridge,Sunday,22,1114.0,928.0,-16.7
+Brooklyn Bridge,Sunday,23,873.0,785.0,-10.1
+Brooklyn Bridge,Thursday,0,680.0,704.0,3.6
+Brooklyn Bridge,Thursday,1,448.0,477.0,6.5
+Brooklyn Bridge,Thursday,2,307.0,364.0,18.7
+Brooklyn Bridge,Thursday,3,339.0,401.0,18.2
+Brooklyn Bridge,Thursday,4,799.0,800.0,0.2
+Brooklyn Bridge,Thursday,5,862.0,818.0,-5.2
+Brooklyn Bridge,Thursday,6,1298.0,1134.0,-12.6
+Brooklyn Bridge,Thursday,7,1377.0,1269.0,-7.9
+Brooklyn Bridge,Thursday,8,1454.0,1384.0,-4.8
+Brooklyn Bridge,Thursday,9,1511.0,1401.0,-7.3
+Brooklyn Bridge,Thursday,10,1421.0,1352.0,-4.8
+Brooklyn Bridge,Thursday,11,1346.0,1292.0,-4.1
+Brooklyn Bridge,Thursday,12,1288.0,1220.0,-5.3
+Brooklyn Bridge,Thursday,13,1340.0,1239.0,-7.6
+Brooklyn Bridge,Thursday,14,1409.0,1316.0,-6.6
+Brooklyn Bridge,Thursday,15,1407.0,1298.0,-7.8
+Brooklyn Bridge,Thursday,16,1474.0,1352.0,-8.3
+Brooklyn Bridge,Thursday,17,1490.0,1372.0,-7.9
+Brooklyn Bridge,Thursday,18,1482.0,1348.0,-9.0
+Brooklyn Bridge,Thursday,19,1389.0,1308.0,-5.8
+Brooklyn Bridge,Thursday,20,1326.0,1270.0,-4.2
+Brooklyn Bridge,Thursday,21,1484.0,1414.0,-4.8
+Brooklyn Bridge,Thursday,22,1445.0,1287.0,-10.9
+Brooklyn Bridge,Thursday,23,1179.0,1180.0,0.1
+Brooklyn Bridge,Tuesday,0,534.0,526.0,-1.5
+Brooklyn Bridge,Tuesday,1,353.0,364.0,3.1
+Brooklyn Bridge,Tuesday,2,256.0,284.0,10.7
+Brooklyn Bridge,Tuesday,3,301.0,330.0,9.4
+Brooklyn Bridge,Tuesday,4,784.0,773.0,-1.5
+Brooklyn Bridge,Tuesday,5,883.0,817.0,-7.5
+Brooklyn Bridge,Tuesday,6,1310.0,1157.0,-11.7
+Brooklyn Bridge,Tuesday,7,1438.0,1319.0,-8.3
+Brooklyn Bridge,Tuesday,8,1505.0,1410.0,-6.3
+Brooklyn Bridge,Tuesday,9,1527.0,1430.0,-6.3
+Brooklyn Bridge,Tuesday,10,1438.0,1356.0,-5.7
+Brooklyn Bridge,Tuesday,11,1336.0,1278.0,-4.3
+Brooklyn Bridge,Tuesday,12,1276.0,1204.0,-5.6
+Brooklyn Bridge,Tuesday,13,1312.0,1240.0,-5.4
+Brooklyn Bridge,Tuesday,14,1364.0,1263.0,-7.4
+Brooklyn Bridge,Tuesday,15,1355.0,1241.0,-8.4
+Brooklyn Bridge,Tuesday,16,1374.0,1245.0,-9.4
+Brooklyn Bridge,Tuesday,17,1391.0,1232.0,-11.4
+Brooklyn Bridge,Tuesday,18,1388.0,1244.0,-10.4
+Brooklyn Bridge,Tuesday,19,1295.0,1202.0,-7.2
+Brooklyn Bridge,Tuesday,20,1243.0,1142.0,-8.1
+Brooklyn Bridge,Tuesday,21,1500.0,1350.0,-10.0
+Brooklyn Bridge,Tuesday,22,1320.0,1191.0,-9.7
+Brooklyn Bridge,Tuesday,23,998.0,999.0,0.1
+Brooklyn Bridge,Wednesday,0,600.0,600.0,0.0
+Brooklyn Bridge,Wednesday,1,383.0,400.0,4.7
+Brooklyn Bridge,Wednesday,2,284.0,310.0,9.1
+Brooklyn Bridge,Wednesday,3,324.0,363.0,12.0
+Brooklyn Bridge,Wednesday,4,801.0,801.0,0.0
+Brooklyn Bridge,Wednesday,5,885.0,824.0,-6.9
+Brooklyn Bridge,Wednesday,6,1301.0,1125.0,-13.5
+Brooklyn Bridge,Wednesday,7,1453.0,1311.0,-9.8
+Brooklyn Bridge,Wednesday,8,1513.0,1414.0,-6.5
+Brooklyn Bridge,Wednesday,9,1518.0,1462.0,-3.7
+Brooklyn Bridge,Wednesday,10,1405.0,1365.0,-2.9
+Brooklyn Bridge,Wednesday,11,1348.0,1300.0,-3.6
+Brooklyn Bridge,Wednesday,12,1274.0,1234.0,-3.2
+Brooklyn Bridge,Wednesday,13,1286.0,1249.0,-2.9
+Brooklyn Bridge,Wednesday,14,1354.0,1300.0,-4.0
+Brooklyn Bridge,Wednesday,15,1392.0,1265.0,-9.2
+Brooklyn Bridge,Wednesday,16,1445.0,1276.0,-11.7
+Brooklyn Bridge,Wednesday,17,1469.0,1328.0,-9.6
+Brooklyn Bridge,Wednesday,18,1454.0,1301.0,-10.6
+Brooklyn Bridge,Wednesday,19,1365.0,1229.0,-9.9
+Brooklyn Bridge,Wednesday,20,1314.0,1189.0,-9.5
+Brooklyn Bridge,Wednesday,21,1562.0,1367.0,-12.4
+Brooklyn Bridge,Wednesday,22,1420.0,1268.0,-10.7
+Brooklyn Bridge,Wednesday,23,1056.0,1072.0,1.5
+East 60th St,Friday,0,2684.0,2664.0,-0.8
+East 60th St,Friday,1,1782.0,1822.0,2.3
+East 60th St,Friday,2,1254.0,1297.0,3.4
+East 60th St,Friday,3,1069.0,1126.0,5.3
+East 60th St,Friday,4,1390.0,1379.0,-0.8
+East 60th St,Friday,5,1543.0,1506.0,-2.4
+East 60th St,Friday,6,2383.0,2247.0,-5.7
+East 60th St,Friday,7,3157.0,3046.0,-3.5
+East 60th St,Friday,8,3631.0,3458.0,-4.8
+East 60th St,Friday,9,3734.0,3569.0,-4.4
+East 60th St,Friday,10,3774.0,3566.0,-5.5
+East 60th St,Friday,11,3765.0,3529.0,-6.3
+East 60th St,Friday,12,3788.0,3558.0,-6.1
+East 60th St,Friday,13,3705.0,3524.0,-4.9
+East 60th St,Friday,14,3947.0,3752.0,-4.9
+East 60th St,Friday,15,4351.0,4084.0,-6.1
+East 60th St,Friday,16,4552.0,4250.0,-6.6
+East 60th St,Friday,17,4397.0,4183.0,-4.8
+East 60th St,Friday,18,4372.0,4125.0,-5.6
+East 60th St,Friday,19,4169.0,4009.0,-3.8
+East 60th St,Friday,20,3661.0,3587.0,-2.0
+East 60th St,Friday,21,3746.0,3543.0,-5.4
+East 60th St,Friday,22,3678.0,3502.0,-4.8
+East 60th St,Friday,23,3515.0,3334.0,-5.1
+East 60th St,Monday,0,1804.0,1694.0,-6.1
+East 60th St,Monday,1,1183.0,1172.0,-1.0
+East 60th St,Monday,2,850.0,835.0,-1.8
+East 60th St,Monday,3,806.0,797.0,-1.2
+East 60th St,Monday,4,1222.0,1117.0,-8.6
+East 60th St,Monday,5,1471.0,1319.0,-10.3
+East 60th St,Monday,6,2367.0,2113.0,-10.7
+East 60th St,Monday,7,3251.0,2982.0,-8.3
+East 60th St,Monday,8,3731.0,3413.0,-8.5
+East 60th St,Monday,9,3689.0,3438.0,-6.8
+East 60th St,Monday,10,3694.0,3349.0,-9.3
+East 60th St,Monday,11,3673.0,3348.0,-8.9
+East 60th St,Monday,12,3724.0,3393.0,-8.9
+East 60th St,Monday,13,3774.0,3458.0,-8.4
+East 60th St,Monday,14,3921.0,3570.0,-8.9
+East 60th St,Monday,15,4252.0,3909.0,-8.1
+East 60th St,Monday,16,4461.0,4057.0,-9.1
+East 60th St,Monday,17,4250.0,3824.0,-10.0
+East 60th St,Monday,18,4253.0,3886.0,-8.6
+East 60th St,Monday,19,3980.0,3712.0,-6.7
+East 60th St,Monday,20,3360.0,3193.0,-5.0
+East 60th St,Monday,21,3486.0,3210.0,-7.9
+East 60th St,Monday,22,3196.0,2943.0,-7.9
+East 60th St,Monday,23,2598.0,2459.0,-5.3
+East 60th St,Saturday,0,3001.0,2911.0,-3.0
+East 60th St,Saturday,1,2375.0,2392.0,0.7
+East 60th St,Saturday,2,1854.0,1921.0,3.6
+East 60th St,Saturday,3,1434.0,1513.0,5.5
+East 60th St,Saturday,4,1233.0,1324.0,7.4
+East 60th St,Saturday,5,1228.0,1295.0,5.4
+East 60th St,Saturday,6,1725.0,1722.0,-0.2
+East 60th St,Saturday,7,2374.0,2313.0,-2.6
+East 60th St,Saturday,8,2737.0,2695.0,-1.6
+East 60th St,Saturday,9,2871.0,2782.0,-3.1
+East 60th St,Saturday,10,3178.0,3059.0,-3.7
+East 60th St,Saturday,11,3335.0,3241.0,-2.8
+East 60th St,Saturday,12,3455.0,3351.0,-3.0
+East 60th St,Saturday,13,3527.0,3404.0,-3.5
+East 60th St,Saturday,14,3814.0,3642.0,-4.5
+East 60th St,Saturday,15,4185.0,3989.0,-4.7
+East 60th St,Saturday,16,4363.0,4088.0,-6.3
+East 60th St,Saturday,17,4266.0,3994.0,-6.4
+East 60th St,Saturday,18,4206.0,3954.0,-6.0
+East 60th St,Saturday,19,3966.0,3816.0,-3.8
+East 60th St,Saturday,20,3547.0,3479.0,-1.9
+East 60th St,Saturday,21,3656.0,3386.0,-7.4
+East 60th St,Saturday,22,3729.0,3408.0,-8.6
+East 60th St,Saturday,23,3602.0,3290.0,-8.7
+East 60th St,Sunday,0,3005.0,2873.0,-4.4
+East 60th St,Sunday,1,2441.0,2439.0,-0.1
+East 60th St,Sunday,2,1909.0,1980.0,3.7
+East 60th St,Sunday,3,1446.0,1504.0,4.0
+East 60th St,Sunday,4,1137.0,1202.0,5.7
+East 60th St,Sunday,5,1037.0,1090.0,5.1
+East 60th St,Sunday,6,1391.0,1349.0,-3.0
+East 60th St,Sunday,7,1963.0,1871.0,-4.7
+East 60th St,Sunday,8,2247.0,2158.0,-3.9
+East 60th St,Sunday,9,2337.0,2270.0,-2.9
+East 60th St,Sunday,10,2760.0,2664.0,-3.5
+East 60th St,Sunday,11,3093.0,2966.0,-4.1
+East 60th St,Sunday,12,3269.0,3101.0,-5.1
+East 60th St,Sunday,13,3368.0,3199.0,-5.0
+East 60th St,Sunday,14,3586.0,3407.0,-5.0
+East 60th St,Sunday,15,3859.0,3659.0,-5.2
+East 60th St,Sunday,16,3979.0,3710.0,-6.8
+East 60th St,Sunday,17,3879.0,3613.0,-6.9
+East 60th St,Sunday,18,3790.0,3568.0,-5.9
+East 60th St,Sunday,19,3622.0,3381.0,-6.7
+East 60th St,Sunday,20,3272.0,3079.0,-5.9
+East 60th St,Sunday,21,3330.0,3019.0,-9.3
+East 60th St,Sunday,22,3040.0,2806.0,-7.7
+East 60th St,Sunday,23,2463.0,2294.0,-6.8
+East 60th St,Thursday,0,2349.0,2405.0,2.4
+East 60th St,Thursday,1,1470.0,1612.0,9.7
+East 60th St,Thursday,2,1001.0,1106.0,10.5
+East 60th St,Thursday,3,939.0,1013.0,7.9
+East 60th St,Thursday,4,1365.0,1320.0,-3.3
+East 60th St,Thursday,5,1600.0,1490.0,-6.8
+East 60th St,Thursday,6,2543.0,2306.0,-9.3
+East 60th St,Thursday,7,3473.0,3191.0,-8.1
+East 60th St,Thursday,8,3975.0,3651.0,-8.2
+East 60th St,Thursday,9,3946.0,3651.0,-7.5
+East 60th St,Thursday,10,3867.0,3543.0,-8.4
+East 60th St,Thursday,11,3843.0,3518.0,-8.5
+East 60th St,Thursday,12,3917.0,3542.0,-9.6
+East 60th St,Thursday,13,3985.0,3565.0,-10.5
+East 60th St,Thursday,14,4107.0,3699.0,-9.9
+East 60th St,Thursday,15,4444.0,4081.0,-8.2
+East 60th St,Thursday,16,4695.0,4236.0,-9.8
+East 60th St,Thursday,17,4528.0,4128.0,-8.8
+East 60th St,Thursday,18,4568.0,4214.0,-7.8
+East 60th St,Thursday,19,4431.0,4229.0,-4.6
+East 60th St,Thursday,20,3975.0,3764.0,-5.3
+East 60th St,Thursday,21,4176.0,3798.0,-9.1
+East 60th St,Thursday,22,4058.0,3801.0,-6.3
+East 60th St,Thursday,23,3506.0,3391.0,-3.3
+East 60th St,Tuesday,0,1834.0,1873.0,2.1
+East 60th St,Tuesday,1,1140.0,1205.0,5.7
+East 60th St,Tuesday,2,823.0,847.0,2.9
+East 60th St,Tuesday,3,828.0,836.0,1.0
+East 60th St,Tuesday,4,1316.0,1212.0,-7.9
+East 60th St,Tuesday,5,1587.0,1462.0,-7.9
+East 60th St,Tuesday,6,2548.0,2346.0,-7.9
+East 60th St,Tuesday,7,3513.0,3281.0,-6.6
+East 60th St,Tuesday,8,4010.0,3721.0,-7.2
+East 60th St,Tuesday,9,3940.0,3674.0,-6.7
+East 60th St,Tuesday,10,3893.0,3588.0,-7.8
+East 60th St,Tuesday,11,3872.0,3481.0,-10.1
+East 60th St,Tuesday,12,3899.0,3504.0,-10.1
+East 60th St,Tuesday,13,3907.0,3523.0,-9.8
+East 60th St,Tuesday,14,4036.0,3690.0,-8.6
+East 60th St,Tuesday,15,4427.0,4014.0,-9.3
+East 60th St,Tuesday,16,4631.0,4262.0,-8.0
+East 60th St,Tuesday,17,4436.0,4085.0,-7.9
+East 60th St,Tuesday,18,4494.0,4155.0,-7.5
+East 60th St,Tuesday,19,4426.0,4142.0,-6.4
+East 60th St,Tuesday,20,3800.0,3655.0,-3.8
+East 60th St,Tuesday,21,3970.0,3717.0,-6.4
+East 60th St,Tuesday,22,3745.0,3556.0,-5.0
+East 60th St,Tuesday,23,3056.0,2971.0,-2.8
+East 60th St,Wednesday,0,2103.0,2146.0,2.0
+East 60th St,Wednesday,1,1282.0,1373.0,7.0
+East 60th St,Wednesday,2,892.0,962.0,7.8
+East 60th St,Wednesday,3,870.0,899.0,3.4
+East 60th St,Wednesday,4,1342.0,1282.0,-4.5
+East 60th St,Wednesday,5,1567.0,1504.0,-4.0
+East 60th St,Wednesday,6,2514.0,2325.0,-7.5
+East 60th St,Wednesday,7,3473.0,3236.0,-6.8
+East 60th St,Wednesday,8,3983.0,3714.0,-6.7
+East 60th St,Wednesday,9,3948.0,3683.0,-6.7
+East 60th St,Wednesday,10,3891.0,3624.0,-6.9
+East 60th St,Wednesday,11,3839.0,3557.0,-7.3
+East 60th St,Wednesday,12,3959.0,3549.0,-10.4
+East 60th St,Wednesday,13,3928.0,3568.0,-9.2
+East 60th St,Wednesday,14,4066.0,3709.0,-8.8
+East 60th St,Wednesday,15,4500.0,4091.0,-9.1
+East 60th St,Wednesday,16,4769.0,4333.0,-9.1
+East 60th St,Wednesday,17,4546.0,4142.0,-8.9
+East 60th St,Wednesday,18,4573.0,4276.0,-6.5
+East 60th St,Wednesday,19,4523.0,4226.0,-6.6
+East 60th St,Wednesday,20,3987.0,3795.0,-4.8
+East 60th St,Wednesday,21,4158.0,3867.0,-7.0
+East 60th St,Wednesday,22,3973.0,3701.0,-6.9
+East 60th St,Wednesday,23,3394.0,3217.0,-5.2
+FDR Drive at 60th St,Friday,0,1094.0,1033.0,-5.6
+FDR Drive at 60th St,Friday,1,688.0,743.0,7.9
+FDR Drive at 60th St,Friday,2,467.0,612.0,31.1
+FDR Drive at 60th St,Friday,3,432.0,573.0,32.7
+FDR Drive at 60th St,Friday,4,892.0,973.0,9.1
+FDR Drive at 60th St,Friday,5,1328.0,1397.0,5.2
+FDR Drive at 60th St,Friday,6,2357.0,2338.0,-0.8
+FDR Drive at 60th St,Friday,7,2667.0,2643.0,-0.9
+FDR Drive at 60th St,Friday,8,3049.0,3055.0,0.2
+FDR Drive at 60th St,Friday,9,3044.0,2980.0,-2.1
+FDR Drive at 60th St,Friday,10,2894.0,2899.0,0.2
+FDR Drive at 60th St,Friday,11,2819.0,2914.0,3.4
+FDR Drive at 60th St,Friday,12,2880.0,2846.0,-1.2
+FDR Drive at 60th St,Friday,13,2828.0,2752.0,-2.7
+FDR Drive at 60th St,Friday,14,2812.0,2743.0,-2.5
+FDR Drive at 60th St,Friday,15,2795.0,2734.0,-2.2
+FDR Drive at 60th St,Friday,16,2764.0,2660.0,-3.7
+FDR Drive at 60th St,Friday,17,2766.0,2669.0,-3.5
+FDR Drive at 60th St,Friday,18,2910.0,2657.0,-8.7
+FDR Drive at 60th St,Friday,19,2807.0,2653.0,-5.5
+FDR Drive at 60th St,Friday,20,2692.0,2543.0,-5.6
+FDR Drive at 60th St,Friday,21,2710.0,2522.0,-6.9
+FDR Drive at 60th St,Friday,22,2659.0,2372.0,-10.8
+FDR Drive at 60th St,Friday,23,2313.0,2060.0,-10.9
+FDR Drive at 60th St,Monday,0,868.0,793.0,-8.7
+FDR Drive at 60th St,Monday,1,530.0,542.0,2.2
+FDR Drive at 60th St,Monday,2,362.0,446.0,23.0
+FDR Drive at 60th St,Monday,3,359.0,455.0,26.7
+FDR Drive at 60th St,Monday,4,849.0,863.0,1.6
+FDR Drive at 60th St,Monday,5,1306.0,1277.0,-2.2
+FDR Drive at 60th St,Monday,6,2280.0,2201.0,-3.5
+FDR Drive at 60th St,Monday,7,2616.0,2526.0,-3.5
+FDR Drive at 60th St,Monday,8,3066.0,2905.0,-5.3
+FDR Drive at 60th St,Monday,9,3053.0,2990.0,-2.1
+FDR Drive at 60th St,Monday,10,2803.0,2747.0,-2.0
+FDR Drive at 60th St,Monday,11,2731.0,2641.0,-3.3
+FDR Drive at 60th St,Monday,12,2617.0,2531.0,-3.3
+FDR Drive at 60th St,Monday,13,2547.0,2501.0,-1.8
+FDR Drive at 60th St,Monday,14,2597.0,2562.0,-1.4
+FDR Drive at 60th St,Monday,15,2605.0,2503.0,-3.9
+FDR Drive at 60th St,Monday,16,2579.0,2536.0,-1.7
+FDR Drive at 60th St,Monday,17,2549.0,2580.0,1.2
+FDR Drive at 60th St,Monday,18,2592.0,2592.0,-0.0
+FDR Drive at 60th St,Monday,19,2292.0,2248.0,-1.9
+FDR Drive at 60th St,Monday,20,1934.0,1932.0,-0.1
+FDR Drive at 60th St,Monday,21,1918.0,1913.0,-0.2
+FDR Drive at 60th St,Monday,22,1743.0,1710.0,-1.9
+FDR Drive at 60th St,Monday,23,1332.0,1259.0,-5.5
+FDR Drive at 60th St,Saturday,0,1567.0,1439.0,-8.2
+FDR Drive at 60th St,Saturday,1,1214.0,1184.0,-2.5
+FDR Drive at 60th St,Saturday,2,889.0,970.0,9.1
+FDR Drive at 60th St,Saturday,3,679.0,804.0,18.4
+FDR Drive at 60th St,Saturday,4,674.0,821.0,21.7
+FDR Drive at 60th St,Saturday,5,938.0,1036.0,10.4
+FDR Drive at 60th St,Saturday,6,1682.0,1693.0,0.6
+FDR Drive at 60th St,Saturday,7,1852.0,1873.0,1.1
+FDR Drive at 60th St,Saturday,8,2133.0,2220.0,4.1
+FDR Drive at 60th St,Saturday,9,2199.0,2414.0,9.8
+FDR Drive at 60th St,Saturday,10,2427.0,2686.0,10.7
+FDR Drive at 60th St,Saturday,11,2634.0,2820.0,7.1
+FDR Drive at 60th St,Saturday,12,2717.0,2848.0,4.8
+FDR Drive at 60th St,Saturday,13,2764.0,2862.0,3.6
+FDR Drive at 60th St,Saturday,14,2710.0,2785.0,2.8
+FDR Drive at 60th St,Saturday,15,2594.0,2733.0,5.4
+FDR Drive at 60th St,Saturday,16,2668.0,2718.0,1.9
+FDR Drive at 60th St,Saturday,17,2711.0,2763.0,1.9
+FDR Drive at 60th St,Saturday,18,2748.0,2816.0,2.5
+FDR Drive at 60th St,Saturday,19,2670.0,2697.0,1.0
+FDR Drive at 60th St,Saturday,20,2574.0,2501.0,-2.8
+FDR Drive at 60th St,Saturday,21,2649.0,2541.0,-4.1
+FDR Drive at 60th St,Saturday,22,2659.0,2469.0,-7.1
+FDR Drive at 60th St,Saturday,23,2471.0,2380.0,-3.7
+FDR Drive at 60th St,Sunday,0,1734.0,1723.0,-0.7
+FDR Drive at 60th St,Sunday,1,1360.0,1358.0,-0.2
+FDR Drive at 60th St,Sunday,2,986.0,1082.0,9.7
+FDR Drive at 60th St,Sunday,3,737.0,842.0,14.2
+FDR Drive at 60th St,Sunday,4,655.0,745.0,13.8
+FDR Drive at 60th St,Sunday,5,775.0,792.0,2.2
+FDR Drive at 60th St,Sunday,6,1362.0,1386.0,1.8
+FDR Drive at 60th St,Sunday,7,1444.0,1482.0,2.7
+FDR Drive at 60th St,Sunday,8,1697.0,1780.0,4.9
+FDR Drive at 60th St,Sunday,9,1918.0,1988.0,3.7
+FDR Drive at 60th St,Sunday,10,2375.0,2417.0,1.8
+FDR Drive at 60th St,Sunday,11,2611.0,2619.0,0.3
+FDR Drive at 60th St,Sunday,12,2648.0,2644.0,-0.2
+FDR Drive at 60th St,Sunday,13,2663.0,2635.0,-1.0
+FDR Drive at 60th St,Sunday,14,2706.0,2638.0,-2.5
+FDR Drive at 60th St,Sunday,15,2628.0,2586.0,-1.6
+FDR Drive at 60th St,Sunday,16,2555.0,2497.0,-2.2
+FDR Drive at 60th St,Sunday,17,2528.0,2472.0,-2.2
+FDR Drive at 60th St,Sunday,18,2495.0,2464.0,-1.3
+FDR Drive at 60th St,Sunday,19,2291.0,2242.0,-2.1
+FDR Drive at 60th St,Sunday,20,2098.0,2025.0,-3.5
+FDR Drive at 60th St,Sunday,21,2075.0,1963.0,-5.4
+FDR Drive at 60th St,Sunday,22,1988.0,1833.0,-7.8
+FDR Drive at 60th St,Sunday,23,1486.0,1420.0,-4.5
+FDR Drive at 60th St,Thursday,0,896.0,914.0,2.0
+FDR Drive at 60th St,Thursday,1,543.0,653.0,20.3
+FDR Drive at 60th St,Thursday,2,373.0,543.0,45.6
+FDR Drive at 60th St,Thursday,3,370.0,525.0,41.7
+FDR Drive at 60th St,Thursday,4,895.0,946.0,5.6
+FDR Drive at 60th St,Thursday,5,1375.0,1425.0,3.6
+FDR Drive at 60th St,Thursday,6,2435.0,2433.0,-0.1
+FDR Drive at 60th St,Thursday,7,2803.0,2699.0,-3.7
+FDR Drive at 60th St,Thursday,8,3250.0,3189.0,-1.9
+FDR Drive at 60th St,Thursday,9,3348.0,3284.0,-1.9
+FDR Drive at 60th St,Thursday,10,3027.0,2981.0,-1.5
+FDR Drive at 60th St,Thursday,11,2934.0,2834.0,-3.4
+FDR Drive at 60th St,Thursday,12,2820.0,2789.0,-1.1
+FDR Drive at 60th St,Thursday,13,2772.0,2704.0,-2.5
+FDR Drive at 60th St,Thursday,14,2802.0,2763.0,-1.4
+FDR Drive at 60th St,Thursday,15,2809.0,2726.0,-2.9
+FDR Drive at 60th St,Thursday,16,2739.0,2620.0,-4.4
+FDR Drive at 60th St,Thursday,17,2661.0,2644.0,-0.6
+FDR Drive at 60th St,Thursday,18,2800.0,2755.0,-1.6
+FDR Drive at 60th St,Thursday,19,2658.0,2657.0,-0.0
+FDR Drive at 60th St,Thursday,20,2353.0,2391.0,1.6
+FDR Drive at 60th St,Thursday,21,2252.0,2378.0,5.6
+FDR Drive at 60th St,Thursday,22,2246.0,2317.0,3.2
+FDR Drive at 60th St,Thursday,23,1858.0,1840.0,-1.0
+FDR Drive at 60th St,Tuesday,0,744.0,718.0,-3.5
+FDR Drive at 60th St,Tuesday,1,443.0,506.0,14.3
+FDR Drive at 60th St,Tuesday,2,324.0,421.0,29.8
+FDR Drive at 60th St,Tuesday,3,328.0,424.0,29.3
+FDR Drive at 60th St,Tuesday,4,862.0,876.0,1.6
+FDR Drive at 60th St,Tuesday,5,1331.0,1396.0,4.9
+FDR Drive at 60th St,Tuesday,6,2376.0,2416.0,1.7
+FDR Drive at 60th St,Tuesday,7,2874.0,2860.0,-0.5
+FDR Drive at 60th St,Tuesday,8,3370.0,3302.0,-2.0
+FDR Drive at 60th St,Tuesday,9,3387.0,3361.0,-0.8
+FDR Drive at 60th St,Tuesday,10,2963.0,3022.0,2.0
+FDR Drive at 60th St,Tuesday,11,2872.0,2831.0,-1.4
+FDR Drive at 60th St,Tuesday,12,2847.0,2775.0,-2.5
+FDR Drive at 60th St,Tuesday,13,2761.0,2731.0,-1.1
+FDR Drive at 60th St,Tuesday,14,2734.0,2698.0,-1.3
+FDR Drive at 60th St,Tuesday,15,2706.0,2598.0,-4.0
+FDR Drive at 60th St,Tuesday,16,2716.0,2578.0,-5.1
+FDR Drive at 60th St,Tuesday,17,2745.0,2602.0,-5.2
+FDR Drive at 60th St,Tuesday,18,2760.0,2647.0,-4.1
+FDR Drive at 60th St,Tuesday,19,2462.0,2374.0,-3.6
+FDR Drive at 60th St,Tuesday,20,2079.0,2023.0,-2.7
+FDR Drive at 60th St,Tuesday,21,2119.0,1992.0,-6.0
+FDR Drive at 60th St,Tuesday,22,1921.0,1836.0,-4.5
+FDR Drive at 60th St,Tuesday,23,1445.0,1393.0,-3.6
+FDR Drive at 60th St,Wednesday,0,804.0,750.0,-6.7
+FDR Drive at 60th St,Wednesday,1,478.0,534.0,11.6
+FDR Drive at 60th St,Wednesday,2,349.0,458.0,31.1
+FDR Drive at 60th St,Wednesday,3,353.0,466.0,32.0
+FDR Drive at 60th St,Wednesday,4,890.0,905.0,1.6
+FDR Drive at 60th St,Wednesday,5,1384.0,1404.0,1.5
+FDR Drive at 60th St,Wednesday,6,2478.0,2444.0,-1.4
+FDR Drive at 60th St,Wednesday,7,2908.0,2908.0,-0.0
+FDR Drive at 60th St,Wednesday,8,3410.0,3336.0,-2.2
+FDR Drive at 60th St,Wednesday,9,3524.0,3363.0,-4.6
+FDR Drive at 60th St,Wednesday,10,3126.0,3116.0,-0.3
+FDR Drive at 60th St,Wednesday,11,2981.0,2880.0,-3.4
+FDR Drive at 60th St,Wednesday,12,2920.0,2818.0,-3.5
+FDR Drive at 60th St,Wednesday,13,2833.0,2721.0,-4.0
+FDR Drive at 60th St,Wednesday,14,2716.0,2684.0,-1.2
+FDR Drive at 60th St,Wednesday,15,2686.0,2646.0,-1.5
+FDR Drive at 60th St,Wednesday,16,2687.0,2569.0,-4.4
+FDR Drive at 60th St,Wednesday,17,2688.0,2578.0,-4.1
+FDR Drive at 60th St,Wednesday,18,2669.0,2638.0,-1.2
+FDR Drive at 60th St,Wednesday,19,2473.0,2449.0,-1.0
+FDR Drive at 60th St,Wednesday,20,2240.0,2188.0,-2.3
+FDR Drive at 60th St,Wednesday,21,2243.0,2206.0,-1.6
+FDR Drive at 60th St,Wednesday,22,2039.0,2116.0,3.8
+FDR Drive at 60th St,Wednesday,23,1581.0,1550.0,-1.9
+Holland Tunnel,Friday,0,861.0,1013.0,17.7
+Holland Tunnel,Friday,1,701.0,907.0,29.5
+Holland Tunnel,Friday,2,508.0,737.0,45.1
+Holland Tunnel,Friday,3,463.0,652.0,40.7
+Holland Tunnel,Friday,4,873.0,1032.0,18.2
+Holland Tunnel,Friday,5,1819.0,1854.0,1.9
+Holland Tunnel,Friday,6,2436.0,2326.0,-4.5
+Holland Tunnel,Friday,7,2286.0,2218.0,-3.0
+Holland Tunnel,Friday,8,2034.0,2109.0,3.7
+Holland Tunnel,Friday,9,2049.0,2036.0,-0.7
+Holland Tunnel,Friday,10,1949.0,1897.0,-2.7
+Holland Tunnel,Friday,11,1884.0,1877.0,-0.4
+Holland Tunnel,Friday,12,1882.0,1876.0,-0.3
+Holland Tunnel,Friday,13,1989.0,1953.0,-1.8
+Holland Tunnel,Friday,14,2146.0,2111.0,-1.6
+Holland Tunnel,Friday,15,2195.0,2201.0,0.3
+Holland Tunnel,Friday,16,2218.0,2228.0,0.5
+Holland Tunnel,Friday,17,2338.0,2252.0,-3.7
+Holland Tunnel,Friday,18,2408.0,2290.0,-4.9
+Holland Tunnel,Friday,19,2267.0,2172.0,-4.2
+Holland Tunnel,Friday,20,1904.0,1910.0,0.3
+Holland Tunnel,Friday,21,1869.0,1747.0,-6.5
+Holland Tunnel,Friday,22,1803.0,1640.0,-9.1
+Holland Tunnel,Friday,23,1565.0,1468.0,-6.2
+Holland Tunnel,Monday,0,811.0,833.0,2.8
+Holland Tunnel,Monday,1,550.0,659.0,19.9
+Holland Tunnel,Monday,2,401.0,524.0,30.9
+Holland Tunnel,Monday,3,421.0,529.0,25.6
+Holland Tunnel,Monday,4,863.0,962.0,11.4
+Holland Tunnel,Monday,5,1822.0,1756.0,-3.6
+Holland Tunnel,Monday,6,2408.0,2229.0,-7.5
+Holland Tunnel,Monday,7,2344.0,2199.0,-6.2
+Holland Tunnel,Monday,8,2238.0,2154.0,-3.7
+Holland Tunnel,Monday,9,2233.0,2125.0,-4.8
+Holland Tunnel,Monday,10,2089.0,1989.0,-4.8
+Holland Tunnel,Monday,11,1954.0,1838.0,-5.9
+Holland Tunnel,Monday,12,1906.0,1755.0,-7.9
+Holland Tunnel,Monday,13,1857.0,1738.0,-6.4
+Holland Tunnel,Monday,14,1944.0,1835.0,-5.6
+Holland Tunnel,Monday,15,1965.0,1918.0,-2.4
+Holland Tunnel,Monday,16,2064.0,1961.0,-5.0
+Holland Tunnel,Monday,17,2129.0,2051.0,-3.7
+Holland Tunnel,Monday,18,2153.0,2053.0,-4.7
+Holland Tunnel,Monday,19,1768.0,1695.0,-4.1
+Holland Tunnel,Monday,20,1535.0,1467.0,-4.4
+Holland Tunnel,Monday,21,1697.0,1572.0,-7.3
+Holland Tunnel,Monday,22,1472.0,1425.0,-3.2
+Holland Tunnel,Monday,23,802.0,906.0,13.1
+Holland Tunnel,Saturday,0,1231.0,1278.0,3.8
+Holland Tunnel,Saturday,1,969.0,1100.0,13.5
+Holland Tunnel,Saturday,2,801.0,944.0,17.9
+Holland Tunnel,Saturday,3,672.0,850.0,26.6
+Holland Tunnel,Saturday,4,715.0,872.0,21.9
+Holland Tunnel,Saturday,5,1039.0,1170.0,12.6
+Holland Tunnel,Saturday,6,1447.0,1579.0,9.1
+Holland Tunnel,Saturday,7,1642.0,1738.0,5.8
+Holland Tunnel,Saturday,8,1978.0,1982.0,0.2
+Holland Tunnel,Saturday,9,2098.0,2081.0,-0.8
+Holland Tunnel,Saturday,10,2268.0,2213.0,-2.4
+Holland Tunnel,Saturday,11,2318.0,2268.0,-2.1
+Holland Tunnel,Saturday,12,2330.0,2245.0,-3.6
+Holland Tunnel,Saturday,13,2336.0,2223.0,-4.8
+Holland Tunnel,Saturday,14,2323.0,2241.0,-3.5
+Holland Tunnel,Saturday,15,2273.0,2251.0,-0.9
+Holland Tunnel,Saturday,16,2324.0,2267.0,-2.5
+Holland Tunnel,Saturday,17,2350.0,2288.0,-2.7
+Holland Tunnel,Saturday,18,2346.0,2234.0,-4.8
+Holland Tunnel,Saturday,19,2241.0,2114.0,-5.7
+Holland Tunnel,Saturday,20,2022.0,1934.0,-4.3
+Holland Tunnel,Saturday,21,2029.0,1871.0,-7.8
+Holland Tunnel,Saturday,22,2016.0,1809.0,-10.2
+Holland Tunnel,Saturday,23,1805.0,1662.0,-8.0
+Holland Tunnel,Sunday,0,1414.0,1437.0,1.6
+Holland Tunnel,Sunday,1,1123.0,1212.0,7.9
+Holland Tunnel,Sunday,2,865.0,998.0,15.4
+Holland Tunnel,Sunday,3,716.0,866.0,21.0
+Holland Tunnel,Sunday,4,689.0,853.0,23.8
+Holland Tunnel,Sunday,5,813.0,947.0,16.5
+Holland Tunnel,Sunday,6,1110.0,1156.0,4.1
+Holland Tunnel,Sunday,7,1334.0,1331.0,-0.3
+Holland Tunnel,Sunday,8,1800.0,1715.0,-4.7
+Holland Tunnel,Sunday,9,2042.0,1918.0,-6.1
+Holland Tunnel,Sunday,10,2251.0,2152.0,-4.4
+Holland Tunnel,Sunday,11,2305.0,2234.0,-3.1
+Holland Tunnel,Sunday,12,2321.0,2244.0,-3.3
+Holland Tunnel,Sunday,13,2335.0,2264.0,-3.1
+Holland Tunnel,Sunday,14,2331.0,2242.0,-3.8
+Holland Tunnel,Sunday,15,2327.0,2211.0,-5.0
+Holland Tunnel,Sunday,16,2313.0,2187.0,-5.4
+Holland Tunnel,Sunday,17,2294.0,2171.0,-5.4
+Holland Tunnel,Sunday,18,2280.0,2123.0,-6.9
+Holland Tunnel,Sunday,19,2135.0,2004.0,-6.2
+Holland Tunnel,Sunday,20,2062.0,1883.0,-8.6
+Holland Tunnel,Sunday,21,2078.0,1867.0,-10.2
+Holland Tunnel,Sunday,22,1883.0,1698.0,-9.8
+Holland Tunnel,Sunday,23,1039.0,1063.0,2.4
+Holland Tunnel,Thursday,0,760.0,908.0,19.4
+Holland Tunnel,Thursday,1,552.0,758.0,37.2
+Holland Tunnel,Thursday,2,387.0,617.0,59.4
+Holland Tunnel,Thursday,3,377.0,583.0,54.5
+Holland Tunnel,Thursday,4,881.0,1043.0,18.4
+Holland Tunnel,Thursday,5,1877.0,1911.0,1.8
+Holland Tunnel,Thursday,6,2535.0,2387.0,-5.8
+Holland Tunnel,Thursday,7,2446.0,2342.0,-4.3
+Holland Tunnel,Thursday,8,2340.0,2297.0,-1.9
+Holland Tunnel,Thursday,9,2303.0,2271.0,-1.4
+Holland Tunnel,Thursday,10,2190.0,2124.0,-3.0
+Holland Tunnel,Thursday,11,2008.0,1991.0,-0.8
+Holland Tunnel,Thursday,12,1891.0,1837.0,-2.9
+Holland Tunnel,Thursday,13,1913.0,1835.0,-4.1
+Holland Tunnel,Thursday,14,2058.0,1932.0,-6.1
+Holland Tunnel,Thursday,15,2096.0,2045.0,-2.5
+Holland Tunnel,Thursday,16,2196.0,2120.0,-3.5
+Holland Tunnel,Thursday,17,2276.0,2219.0,-2.5
+Holland Tunnel,Thursday,18,2380.0,2287.0,-3.9
+Holland Tunnel,Thursday,19,2059.0,2061.0,0.1
+Holland Tunnel,Thursday,20,1755.0,1698.0,-3.3
+Holland Tunnel,Thursday,21,1922.0,1770.0,-7.9
+Holland Tunnel,Thursday,22,1818.0,1751.0,-3.7
+Holland Tunnel,Thursday,23,1005.0,1072.0,6.7
+Holland Tunnel,Tuesday,0,622.0,740.0,18.9
+Holland Tunnel,Tuesday,1,440.0,598.0,36.1
+Holland Tunnel,Tuesday,2,333.0,508.0,52.5
+Holland Tunnel,Tuesday,3,350.0,501.0,42.9
+Holland Tunnel,Tuesday,4,829.0,967.0,16.6
+Holland Tunnel,Tuesday,5,1894.0,1891.0,-0.2
+Holland Tunnel,Tuesday,6,2547.0,2412.0,-5.3
+Holland Tunnel,Tuesday,7,2452.0,2362.0,-3.7
+Holland Tunnel,Tuesday,8,2341.0,2300.0,-1.7
+Holland Tunnel,Tuesday,9,2385.0,2287.0,-4.1
+Holland Tunnel,Tuesday,10,2214.0,2130.0,-3.8
+Holland Tunnel,Tuesday,11,1977.0,1928.0,-2.4
+Holland Tunnel,Tuesday,12,1799.0,1741.0,-3.2
+Holland Tunnel,Tuesday,13,1742.0,1687.0,-3.1
+Holland Tunnel,Tuesday,14,1845.0,1749.0,-5.2
+Holland Tunnel,Tuesday,15,1929.0,1847.0,-4.2
+Holland Tunnel,Tuesday,16,2044.0,1944.0,-4.9
+Holland Tunnel,Tuesday,17,2166.0,2085.0,-3.7
+Holland Tunnel,Tuesday,18,2245.0,2090.0,-6.9
+Holland Tunnel,Tuesday,19,1847.0,1719.0,-6.9
+Holland Tunnel,Tuesday,20,1586.0,1526.0,-3.8
+Holland Tunnel,Tuesday,21,1792.0,1699.0,-5.2
+Holland Tunnel,Tuesday,22,1633.0,1575.0,-3.6
+Holland Tunnel,Tuesday,23,864.0,966.0,11.8
+Holland Tunnel,Wednesday,0,670.0,834.0,24.6
+Holland Tunnel,Wednesday,1,458.0,650.0,41.9
+Holland Tunnel,Wednesday,2,341.0,537.0,57.5
+Holland Tunnel,Wednesday,3,351.0,530.0,51.1
+Holland Tunnel,Wednesday,4,853.0,992.0,16.2
+Holland Tunnel,Wednesday,5,1898.0,1926.0,1.5
+Holland Tunnel,Wednesday,6,2559.0,2438.0,-4.7
+Holland Tunnel,Wednesday,7,2454.0,2411.0,-1.7
+Holland Tunnel,Wednesday,8,2333.0,2359.0,1.1
+Holland Tunnel,Wednesday,9,2361.0,2317.0,-1.9
+Holland Tunnel,Wednesday,10,2182.0,2171.0,-0.5
+Holland Tunnel,Wednesday,11,1980.0,1935.0,-2.3
+Holland Tunnel,Wednesday,12,1898.0,1817.0,-4.3
+Holland Tunnel,Wednesday,13,1840.0,1791.0,-2.6
+Holland Tunnel,Wednesday,14,1933.0,1847.0,-4.5
+Holland Tunnel,Wednesday,15,1965.0,1928.0,-1.9
+Holland Tunnel,Wednesday,16,2120.0,2035.0,-4.0
+Holland Tunnel,Wednesday,17,2228.0,2152.0,-3.4
+Holland Tunnel,Wednesday,18,2286.0,2188.0,-4.3
+Holland Tunnel,Wednesday,19,1960.0,1839.0,-6.1
+Holland Tunnel,Wednesday,20,1651.0,1594.0,-3.4
+Holland Tunnel,Wednesday,21,1880.0,1799.0,-4.3
+Holland Tunnel,Wednesday,22,1740.0,1715.0,-1.4
+Holland Tunnel,Wednesday,23,939.0,1019.0,8.5
+Hugh L. Carey Tunnel,Friday,0,146.0,149.0,2.3
+Hugh L. Carey Tunnel,Friday,1,84.0,114.0,36.6
+Hugh L. Carey Tunnel,Friday,2,50.0,115.0,128.2
+Hugh L. Carey Tunnel,Friday,3,51.0,127.0,149.8
+Hugh L. Carey Tunnel,Friday,4,132.0,221.0,68.4
+Hugh L. Carey Tunnel,Friday,5,493.0,590.0,19.8
+Hugh L. Carey Tunnel,Friday,6,1408.0,1431.0,1.7
+Hugh L. Carey Tunnel,Friday,7,1809.0,1765.0,-2.4
+Hugh L. Carey Tunnel,Friday,8,2012.0,1879.0,-6.6
+Hugh L. Carey Tunnel,Friday,9,1829.0,1744.0,-4.7
+Hugh L. Carey Tunnel,Friday,10,1405.0,1412.0,0.5
+Hugh L. Carey Tunnel,Friday,11,1226.0,1211.0,-1.2
+Hugh L. Carey Tunnel,Friday,12,1170.0,1190.0,1.7
+Hugh L. Carey Tunnel,Friday,13,1242.0,1186.0,-4.5
+Hugh L. Carey Tunnel,Friday,14,1351.0,1251.0,-7.3
+Hugh L. Carey Tunnel,Friday,15,1445.0,1258.0,-12.9
+Hugh L. Carey Tunnel,Friday,16,1108.0,1174.0,5.9
+Hugh L. Carey Tunnel,Friday,17,905.0,984.0,8.8
+Hugh L. Carey Tunnel,Friday,18,913.0,979.0,7.3
+Hugh L. Carey Tunnel,Friday,19,1165.0,1128.0,-3.2
+Hugh L. Carey Tunnel,Friday,20,903.0,916.0,1.5
+Hugh L. Carey Tunnel,Friday,21,779.0,747.0,-4.1
+Hugh L. Carey Tunnel,Friday,22,669.0,645.0,-3.6
+Hugh L. Carey Tunnel,Friday,23,557.0,525.0,-5.7
+Hugh L. Carey Tunnel,Monday,0,100.0,98.0,-2.1
+Hugh L. Carey Tunnel,Monday,1,60.0,71.0,18.3
+Hugh L. Carey Tunnel,Monday,2,37.0,77.0,108.2
+Hugh L. Carey Tunnel,Monday,3,45.0,91.0,101.8
+Hugh L. Carey Tunnel,Monday,4,125.0,176.0,40.6
+Hugh L. Carey Tunnel,Monday,5,472.0,542.0,14.8
+Hugh L. Carey Tunnel,Monday,6,1420.0,1396.0,-1.7
+Hugh L. Carey Tunnel,Monday,7,1824.0,1724.0,-5.5
+Hugh L. Carey Tunnel,Monday,8,2025.0,1849.0,-8.7
+Hugh L. Carey Tunnel,Monday,9,1935.0,1777.0,-8.2
+Hugh L. Carey Tunnel,Monday,10,1387.0,1388.0,0.1
+Hugh L. Carey Tunnel,Monday,11,1202.0,1173.0,-2.4
+Hugh L. Carey Tunnel,Monday,12,1125.0,1102.0,-2.0
+Hugh L. Carey Tunnel,Monday,13,1121.0,1110.0,-1.0
+Hugh L. Carey Tunnel,Monday,14,1157.0,1125.0,-2.8
+Hugh L. Carey Tunnel,Monday,15,1217.0,1168.0,-4.0
+Hugh L. Carey Tunnel,Monday,16,967.0,987.0,2.0
+Hugh L. Carey Tunnel,Monday,17,847.0,832.0,-1.8
+Hugh L. Carey Tunnel,Monday,18,823.0,794.0,-3.5
+Hugh L. Carey Tunnel,Monday,19,753.0,705.0,-6.3
+Hugh L. Carey Tunnel,Monday,20,544.0,523.0,-3.8
+Hugh L. Carey Tunnel,Monday,21,448.0,409.0,-8.7
+Hugh L. Carey Tunnel,Monday,22,387.0,348.0,-10.2
+Hugh L. Carey Tunnel,Monday,23,257.0,221.0,-13.8
+Hugh L. Carey Tunnel,Saturday,0,257.0,234.0,-9.0
+Hugh L. Carey Tunnel,Saturday,1,154.0,148.0,-3.9
+Hugh L. Carey Tunnel,Saturday,2,87.0,110.0,27.1
+Hugh L. Carey Tunnel,Saturday,3,60.0,104.0,73.4
+Hugh L. Carey Tunnel,Saturday,4,86.0,151.0,76.5
+Hugh L. Carey Tunnel,Saturday,5,184.0,247.0,34.1
+Hugh L. Carey Tunnel,Saturday,6,492.0,532.0,8.1
+Hugh L. Carey Tunnel,Saturday,7,623.0,675.0,8.4
+Hugh L. Carey Tunnel,Saturday,8,852.0,861.0,1.0
+Hugh L. Carey Tunnel,Saturday,9,967.0,927.0,-4.2
+Hugh L. Carey Tunnel,Saturday,10,1085.0,1034.0,-4.8
+Hugh L. Carey Tunnel,Saturday,11,1150.0,1067.0,-7.2
+Hugh L. Carey Tunnel,Saturday,12,1232.0,1121.0,-9.0
+Hugh L. Carey Tunnel,Saturday,13,1274.0,1176.0,-7.7
+Hugh L. Carey Tunnel,Saturday,14,1273.0,1124.0,-11.7
+Hugh L. Carey Tunnel,Saturday,15,1294.0,1146.0,-11.5
+Hugh L. Carey Tunnel,Saturday,16,1288.0,1172.0,-9.0
+Hugh L. Carey Tunnel,Saturday,17,1287.0,1190.0,-7.6
+Hugh L. Carey Tunnel,Saturday,18,1312.0,1216.0,-7.3
+Hugh L. Carey Tunnel,Saturday,19,1172.0,1108.0,-5.5
+Hugh L. Carey Tunnel,Saturday,20,985.0,951.0,-3.4
+Hugh L. Carey Tunnel,Saturday,21,939.0,883.0,-6.0
+Hugh L. Carey Tunnel,Saturday,22,854.0,785.0,-8.1
+Hugh L. Carey Tunnel,Saturday,23,687.0,650.0,-5.5
+Hugh L. Carey Tunnel,Sunday,0,317.0,315.0,-0.7
+Hugh L. Carey Tunnel,Sunday,1,175.0,176.0,0.8
+Hugh L. Carey Tunnel,Sunday,2,106.0,106.0,0.9
+Hugh L. Carey Tunnel,Sunday,3,66.0,84.0,27.7
+Hugh L. Carey Tunnel,Sunday,4,76.0,102.0,33.8
+Hugh L. Carey Tunnel,Sunday,5,134.0,158.0,17.5
+Hugh L. Carey Tunnel,Sunday,6,320.0,347.0,8.4
+Hugh L. Carey Tunnel,Sunday,7,411.0,438.0,6.4
+Hugh L. Carey Tunnel,Sunday,8,619.0,607.0,-1.9
+Hugh L. Carey Tunnel,Sunday,9,820.0,787.0,-4.0
+Hugh L. Carey Tunnel,Sunday,10,1005.0,936.0,-6.8
+Hugh L. Carey Tunnel,Sunday,11,1096.0,1014.0,-7.5
+Hugh L. Carey Tunnel,Sunday,12,1146.0,1038.0,-9.4
+Hugh L. Carey Tunnel,Sunday,13,1218.0,1094.0,-10.3
+Hugh L. Carey Tunnel,Sunday,14,1267.0,1145.0,-9.6
+Hugh L. Carey Tunnel,Sunday,15,1197.0,1116.0,-6.8
+Hugh L. Carey Tunnel,Sunday,16,1184.0,1062.0,-10.3
+Hugh L. Carey Tunnel,Sunday,17,1101.0,1012.0,-8.1
+Hugh L. Carey Tunnel,Sunday,18,997.0,944.0,-5.3
+Hugh L. Carey Tunnel,Sunday,19,821.0,810.0,-1.3
+Hugh L. Carey Tunnel,Sunday,20,688.0,663.0,-3.7
+Hugh L. Carey Tunnel,Sunday,21,571.0,546.0,-4.3
+Hugh L. Carey Tunnel,Sunday,22,452.0,443.0,-1.9
+Hugh L. Carey Tunnel,Sunday,23,274.0,275.0,0.5
+Hugh L. Carey Tunnel,Thursday,0,119.0,129.0,8.8
+Hugh L. Carey Tunnel,Thursday,1,66.0,101.0,53.1
+Hugh L. Carey Tunnel,Thursday,2,42.0,103.0,146.1
+Hugh L. Carey Tunnel,Thursday,3,52.0,117.0,126.2
+Hugh L. Carey Tunnel,Thursday,4,132.0,210.0,59.1
+Hugh L. Carey Tunnel,Thursday,5,529.0,630.0,19.2
+Hugh L. Carey Tunnel,Thursday,6,1544.0,1535.0,-0.6
+Hugh L. Carey Tunnel,Thursday,7,2018.0,1897.0,-6.0
+Hugh L. Carey Tunnel,Thursday,8,2211.0,2024.0,-8.5
+Hugh L. Carey Tunnel,Thursday,9,2155.0,1993.0,-7.5
+Hugh L. Carey Tunnel,Thursday,10,1685.0,1609.0,-4.5
+Hugh L. Carey Tunnel,Thursday,11,1351.0,1324.0,-2.0
+Hugh L. Carey Tunnel,Thursday,12,1290.0,1244.0,-3.6
+Hugh L. Carey Tunnel,Thursday,13,1309.0,1241.0,-5.2
+Hugh L. Carey Tunnel,Thursday,14,1314.0,1271.0,-3.3
+Hugh L. Carey Tunnel,Thursday,15,1403.0,1305.0,-7.0
+Hugh L. Carey Tunnel,Thursday,16,1084.0,1161.0,7.2
+Hugh L. Carey Tunnel,Thursday,17,911.0,966.0,6.1
+Hugh L. Carey Tunnel,Thursday,18,897.0,958.0,6.8
+Hugh L. Carey Tunnel,Thursday,19,1083.0,1035.0,-4.4
+Hugh L. Carey Tunnel,Thursday,20,816.0,798.0,-2.2
+Hugh L. Carey Tunnel,Thursday,21,644.0,605.0,-6.0
+Hugh L. Carey Tunnel,Thursday,22,536.0,493.0,-8.0
+Hugh L. Carey Tunnel,Thursday,23,356.0,359.0,0.8
+Hugh L. Carey Tunnel,Tuesday,0,114.0,102.0,-10.2
+Hugh L. Carey Tunnel,Tuesday,1,62.0,74.0,19.4
+Hugh L. Carey Tunnel,Tuesday,2,38.0,82.0,115.9
+Hugh L. Carey Tunnel,Tuesday,3,48.0,101.0,109.3
+Hugh L. Carey Tunnel,Tuesday,4,137.0,196.0,43.3
+Hugh L. Carey Tunnel,Tuesday,5,528.0,601.0,13.9
+Hugh L. Carey Tunnel,Tuesday,6,1561.0,1571.0,0.6
+Hugh L. Carey Tunnel,Tuesday,7,2052.0,1949.0,-5.0
+Hugh L. Carey Tunnel,Tuesday,8,2263.0,2095.0,-7.4
+Hugh L. Carey Tunnel,Tuesday,9,2239.0,2069.0,-7.6
+Hugh L. Carey Tunnel,Tuesday,10,1649.0,1608.0,-2.4
+Hugh L. Carey Tunnel,Tuesday,11,1352.0,1297.0,-4.1
+Hugh L. Carey Tunnel,Tuesday,12,1231.0,1235.0,0.3
+Hugh L. Carey Tunnel,Tuesday,13,1198.0,1202.0,0.3
+Hugh L. Carey Tunnel,Tuesday,14,1240.0,1207.0,-2.7
+Hugh L. Carey Tunnel,Tuesday,15,1337.0,1257.0,-6.0
+Hugh L. Carey Tunnel,Tuesday,16,1033.0,1057.0,2.4
+Hugh L. Carey Tunnel,Tuesday,17,882.0,869.0,-1.5
+Hugh L. Carey Tunnel,Tuesday,18,857.0,853.0,-0.4
+Hugh L. Carey Tunnel,Tuesday,19,831.0,832.0,0.2
+Hugh L. Carey Tunnel,Tuesday,20,584.0,588.0,0.6
+Hugh L. Carey Tunnel,Tuesday,21,506.0,480.0,-5.1
+Hugh L. Carey Tunnel,Tuesday,22,440.0,389.0,-11.6
+Hugh L. Carey Tunnel,Tuesday,23,271.0,251.0,-7.4
+Hugh L. Carey Tunnel,Wednesday,0,118.0,105.0,-10.4
+Hugh L. Carey Tunnel,Wednesday,1,59.0,78.0,32.6
+Hugh L. Carey Tunnel,Wednesday,2,38.0,87.0,125.8
+Hugh L. Carey Tunnel,Wednesday,3,49.0,106.0,117.0
+Hugh L. Carey Tunnel,Wednesday,4,133.0,210.0,57.8
+Hugh L. Carey Tunnel,Wednesday,5,528.0,619.0,17.3
+Hugh L. Carey Tunnel,Wednesday,6,1561.0,1602.0,2.6
+Hugh L. Carey Tunnel,Wednesday,7,2046.0,1997.0,-2.4
+Hugh L. Carey Tunnel,Wednesday,8,2252.0,2104.0,-6.6
+Hugh L. Carey Tunnel,Wednesday,9,2211.0,2025.0,-8.4
+Hugh L. Carey Tunnel,Wednesday,10,1658.0,1637.0,-1.3
+Hugh L. Carey Tunnel,Wednesday,11,1369.0,1327.0,-3.1
+Hugh L. Carey Tunnel,Wednesday,12,1282.0,1244.0,-2.9
+Hugh L. Carey Tunnel,Wednesday,13,1257.0,1255.0,-0.1
+Hugh L. Carey Tunnel,Wednesday,14,1283.0,1232.0,-3.9
+Hugh L. Carey Tunnel,Wednesday,15,1353.0,1275.0,-5.7
+Hugh L. Carey Tunnel,Wednesday,16,1059.0,1099.0,3.8
+Hugh L. Carey Tunnel,Wednesday,17,903.0,904.0,0.1
+Hugh L. Carey Tunnel,Wednesday,18,884.0,899.0,1.7
+Hugh L. Carey Tunnel,Wednesday,19,928.0,888.0,-4.4
+Hugh L. Carey Tunnel,Wednesday,20,647.0,631.0,-2.5
+Hugh L. Carey Tunnel,Wednesday,21,537.0,519.0,-3.4
+Hugh L. Carey Tunnel,Wednesday,22,465.0,413.0,-11.1
+Hugh L. Carey Tunnel,Wednesday,23,292.0,283.0,-3.2
+Lincoln Tunnel,Friday,0,1172.0,1103.0,-5.9
+Lincoln Tunnel,Friday,1,716.0,794.0,10.8
+Lincoln Tunnel,Friday,2,514.0,663.0,29.0
+Lincoln Tunnel,Friday,3,526.0,626.0,19.0
+Lincoln Tunnel,Friday,4,1060.0,1027.0,-3.1
+Lincoln Tunnel,Friday,5,2099.0,2014.0,-4.1
+Lincoln Tunnel,Friday,6,3604.0,3152.0,-12.5
+Lincoln Tunnel,Friday,7,3505.0,2921.0,-16.7
+Lincoln Tunnel,Friday,8,3200.0,2666.0,-16.7
+Lincoln Tunnel,Friday,9,2647.0,2381.0,-10.1
+Lincoln Tunnel,Friday,10,2341.0,2230.0,-4.7
+Lincoln Tunnel,Friday,11,2341.0,2154.0,-8.0
+Lincoln Tunnel,Friday,12,2205.0,2015.0,-8.6
+Lincoln Tunnel,Friday,13,2079.0,1841.0,-11.4
+Lincoln Tunnel,Friday,14,2000.0,1773.0,-11.4
+Lincoln Tunnel,Friday,15,1926.0,1713.0,-11.0
+Lincoln Tunnel,Friday,16,1803.0,1600.0,-11.3
+Lincoln Tunnel,Friday,17,1758.0,1476.0,-16.1
+Lincoln Tunnel,Friday,18,1945.0,1656.0,-14.9
+Lincoln Tunnel,Friday,19,2020.0,1626.0,-19.5
+Lincoln Tunnel,Friday,20,1833.0,1570.0,-14.3
+Lincoln Tunnel,Friday,21,1726.0,1504.0,-12.9
+Lincoln Tunnel,Friday,22,1685.0,1457.0,-13.5
+Lincoln Tunnel,Friday,23,1474.0,1251.0,-15.1
+Lincoln Tunnel,Monday,0,916.0,789.0,-13.8
+Lincoln Tunnel,Monday,1,525.0,549.0,4.6
+Lincoln Tunnel,Monday,2,406.0,467.0,15.0
+Lincoln Tunnel,Monday,3,442.0,494.0,11.9
+Lincoln Tunnel,Monday,4,997.0,925.0,-7.2
+Lincoln Tunnel,Monday,5,2135.0,1941.0,-9.1
+Lincoln Tunnel,Monday,6,3579.0,3011.0,-15.9
+Lincoln Tunnel,Monday,7,3563.0,2839.0,-20.3
+Lincoln Tunnel,Monday,8,3257.0,2508.0,-23.0
+Lincoln Tunnel,Monday,9,2985.0,2443.0,-18.2
+Lincoln Tunnel,Monday,10,2656.0,2351.0,-11.5
+Lincoln Tunnel,Monday,11,2401.0,2086.0,-13.1
+Lincoln Tunnel,Monday,12,2216.0,1973.0,-11.0
+Lincoln Tunnel,Monday,13,1990.0,1734.0,-12.9
+Lincoln Tunnel,Monday,14,1959.0,1719.0,-12.3
+Lincoln Tunnel,Monday,15,1875.0,1614.0,-13.9
+Lincoln Tunnel,Monday,16,1718.0,1490.0,-13.3
+Lincoln Tunnel,Monday,17,1604.0,1282.0,-20.1
+Lincoln Tunnel,Monday,18,1779.0,1474.0,-17.1
+Lincoln Tunnel,Monday,19,1605.0,1403.0,-12.6
+Lincoln Tunnel,Monday,20,1442.0,1272.0,-11.7
+Lincoln Tunnel,Monday,21,1542.0,1341.0,-13.0
+Lincoln Tunnel,Monday,22,1368.0,1160.0,-15.2
+Lincoln Tunnel,Monday,23,1071.0,884.0,-17.5
+Lincoln Tunnel,Saturday,0,1280.0,1132.0,-11.5
+Lincoln Tunnel,Saturday,1,868.0,837.0,-3.6
+Lincoln Tunnel,Saturday,2,621.0,663.0,6.7
+Lincoln Tunnel,Saturday,3,528.0,589.0,11.4
+Lincoln Tunnel,Saturday,4,646.0,711.0,10.0
+Lincoln Tunnel,Saturday,5,1065.0,1063.0,-0.2
+Lincoln Tunnel,Saturday,6,1651.0,1549.0,-6.2
+Lincoln Tunnel,Saturday,7,1622.0,1505.0,-7.2
+Lincoln Tunnel,Saturday,8,1828.0,1735.0,-5.1
+Lincoln Tunnel,Saturday,9,2036.0,1878.0,-7.8
+Lincoln Tunnel,Saturday,10,2411.0,2198.0,-8.8
+Lincoln Tunnel,Saturday,11,2724.0,2468.0,-9.4
+Lincoln Tunnel,Saturday,12,2802.0,2497.0,-10.9
+Lincoln Tunnel,Saturday,13,2753.0,2422.0,-12.0
+Lincoln Tunnel,Saturday,14,2719.0,2378.0,-12.5
+Lincoln Tunnel,Saturday,15,2690.0,2391.0,-11.1
+Lincoln Tunnel,Saturday,16,2787.0,2447.0,-12.2
+Lincoln Tunnel,Saturday,17,2865.0,2457.0,-14.3
+Lincoln Tunnel,Saturday,18,2875.0,2463.0,-14.3
+Lincoln Tunnel,Saturday,19,2644.0,2224.0,-15.9
+Lincoln Tunnel,Saturday,20,2268.0,1894.0,-16.5
+Lincoln Tunnel,Saturday,21,2179.0,1821.0,-16.4
+Lincoln Tunnel,Saturday,22,2076.0,1724.0,-17.0
+Lincoln Tunnel,Saturday,23,1698.0,1392.0,-18.0
+Lincoln Tunnel,Sunday,0,1456.0,1271.0,-12.7
+Lincoln Tunnel,Sunday,1,939.0,899.0,-4.2
+Lincoln Tunnel,Sunday,2,634.0,651.0,2.8
+Lincoln Tunnel,Sunday,3,500.0,529.0,5.7
+Lincoln Tunnel,Sunday,4,527.0,572.0,8.5
+Lincoln Tunnel,Sunday,5,699.0,732.0,4.8
+Lincoln Tunnel,Sunday,6,1180.0,1155.0,-2.1
+Lincoln Tunnel,Sunday,7,1188.0,1154.0,-2.9
+Lincoln Tunnel,Sunday,8,1483.0,1391.0,-6.2
+Lincoln Tunnel,Sunday,9,1821.0,1666.0,-8.5
+Lincoln Tunnel,Sunday,10,2294.0,2002.0,-12.7
+Lincoln Tunnel,Sunday,11,2740.0,2379.0,-13.2
+Lincoln Tunnel,Sunday,12,2906.0,2517.0,-13.4
+Lincoln Tunnel,Sunday,13,2918.0,2515.0,-13.8
+Lincoln Tunnel,Sunday,14,2918.0,2475.0,-15.2
+Lincoln Tunnel,Sunday,15,2899.0,2506.0,-13.6
+Lincoln Tunnel,Sunday,16,2944.0,2516.0,-14.5
+Lincoln Tunnel,Sunday,17,2907.0,2496.0,-14.1
+Lincoln Tunnel,Sunday,18,2865.0,2412.0,-15.8
+Lincoln Tunnel,Sunday,19,2714.0,2193.0,-19.2
+Lincoln Tunnel,Sunday,20,2519.0,1969.0,-21.8
+Lincoln Tunnel,Sunday,21,2399.0,1876.0,-21.8
+Lincoln Tunnel,Sunday,22,1998.0,1588.0,-20.5
+Lincoln Tunnel,Sunday,23,1376.0,1096.0,-20.4
+Lincoln Tunnel,Thursday,0,938.0,960.0,2.4
+Lincoln Tunnel,Thursday,1,596.0,646.0,8.4
+Lincoln Tunnel,Thursday,2,444.0,573.0,29.3
+Lincoln Tunnel,Thursday,3,460.0,556.0,20.8
+Lincoln Tunnel,Thursday,4,1067.0,1007.0,-5.6
+Lincoln Tunnel,Thursday,5,2220.0,2183.0,-1.7
+Lincoln Tunnel,Thursday,6,3791.0,3322.0,-12.4
+Lincoln Tunnel,Thursday,7,3711.0,3119.0,-15.9
+Lincoln Tunnel,Thursday,8,3421.0,2799.0,-18.2
+Lincoln Tunnel,Thursday,9,3074.0,2602.0,-15.3
+Lincoln Tunnel,Thursday,10,2832.0,2429.0,-14.2
+Lincoln Tunnel,Thursday,11,2566.0,2290.0,-10.7
+Lincoln Tunnel,Thursday,12,2338.0,2090.0,-10.6
+Lincoln Tunnel,Thursday,13,2027.0,1795.0,-11.4
+Lincoln Tunnel,Thursday,14,1971.0,1719.0,-12.8
+Lincoln Tunnel,Thursday,15,1882.0,1654.0,-12.1
+Lincoln Tunnel,Thursday,16,1730.0,1513.0,-12.5
+Lincoln Tunnel,Thursday,17,1702.0,1345.0,-20.9
+Lincoln Tunnel,Thursday,18,1884.0,1579.0,-16.2
+Lincoln Tunnel,Thursday,19,1860.0,1570.0,-15.6
+Lincoln Tunnel,Thursday,20,1678.0,1487.0,-11.4
+Lincoln Tunnel,Thursday,21,1755.0,1535.0,-12.6
+Lincoln Tunnel,Thursday,22,1695.0,1443.0,-14.8
+Lincoln Tunnel,Thursday,23,1452.0,1142.0,-21.3
+Lincoln Tunnel,Tuesday,0,750.0,738.0,-1.6
+Lincoln Tunnel,Tuesday,1,497.0,541.0,8.9
+Lincoln Tunnel,Tuesday,2,393.0,490.0,24.7
+Lincoln Tunnel,Tuesday,3,441.0,510.0,15.8
+Lincoln Tunnel,Tuesday,4,1069.0,985.0,-7.9
+Lincoln Tunnel,Tuesday,5,2255.0,2167.0,-3.9
+Lincoln Tunnel,Tuesday,6,3869.0,3366.0,-13.0
+Lincoln Tunnel,Tuesday,7,3824.0,3192.0,-16.5
+Lincoln Tunnel,Tuesday,8,3527.0,2828.0,-19.8
+Lincoln Tunnel,Tuesday,9,3155.0,2595.0,-17.8
+Lincoln Tunnel,Tuesday,10,2860.0,2468.0,-13.7
+Lincoln Tunnel,Tuesday,11,2535.0,2182.0,-13.9
+Lincoln Tunnel,Tuesday,12,2201.0,1954.0,-11.2
+Lincoln Tunnel,Tuesday,13,1886.0,1709.0,-9.4
+Lincoln Tunnel,Tuesday,14,1873.0,1659.0,-11.4
+Lincoln Tunnel,Tuesday,15,1805.0,1611.0,-10.7
+Lincoln Tunnel,Tuesday,16,1673.0,1461.0,-12.7
+Lincoln Tunnel,Tuesday,17,1584.0,1240.0,-21.8
+Lincoln Tunnel,Tuesday,18,1747.0,1467.0,-16.0
+Lincoln Tunnel,Tuesday,19,1576.0,1391.0,-11.8
+Lincoln Tunnel,Tuesday,20,1403.0,1281.0,-8.7
+Lincoln Tunnel,Tuesday,21,1546.0,1433.0,-7.3
+Lincoln Tunnel,Tuesday,22,1487.0,1275.0,-14.3
+Lincoln Tunnel,Tuesday,23,1182.0,985.0,-16.7
+Lincoln Tunnel,Wednesday,0,837.0,822.0,-1.8
+Lincoln Tunnel,Wednesday,1,492.0,565.0,14.8
+Lincoln Tunnel,Wednesday,2,404.0,518.0,28.0
+Lincoln Tunnel,Wednesday,3,450.0,540.0,19.9
+Lincoln Tunnel,Wednesday,4,1060.0,1020.0,-3.8
+Lincoln Tunnel,Wednesday,5,2245.0,2197.0,-2.2
+Lincoln Tunnel,Wednesday,6,3857.0,3363.0,-12.8
+Lincoln Tunnel,Wednesday,7,3831.0,3139.0,-18.1
+Lincoln Tunnel,Wednesday,8,3487.0,2861.0,-18.0
+Lincoln Tunnel,Wednesday,9,3134.0,2658.0,-15.2
+Lincoln Tunnel,Wednesday,10,2773.0,2501.0,-9.8
+Lincoln Tunnel,Wednesday,11,2546.0,2248.0,-11.7
+Lincoln Tunnel,Wednesday,12,2304.0,2050.0,-11.1
+Lincoln Tunnel,Wednesday,13,1990.0,1793.0,-9.9
+Lincoln Tunnel,Wednesday,14,1885.0,1690.0,-10.3
+Lincoln Tunnel,Wednesday,15,1834.0,1656.0,-9.7
+Lincoln Tunnel,Wednesday,16,1681.0,1482.0,-11.9
+Lincoln Tunnel,Wednesday,17,1592.0,1265.0,-20.6
+Lincoln Tunnel,Wednesday,18,1801.0,1525.0,-15.3
+Lincoln Tunnel,Wednesday,19,1714.0,1470.0,-14.3
+Lincoln Tunnel,Wednesday,20,1518.0,1372.0,-9.6
+Lincoln Tunnel,Wednesday,21,1662.0,1477.0,-11.1
+Lincoln Tunnel,Wednesday,22,1578.0,1359.0,-13.9
+Lincoln Tunnel,Wednesday,23,1263.0,1093.0,-13.5
+Manhattan Bridge,Friday,0,864.0,887.0,2.6
+Manhattan Bridge,Friday,1,622.0,679.0,9.1
+Manhattan Bridge,Friday,2,427.0,501.0,17.4
+Manhattan Bridge,Friday,3,367.0,450.0,22.7
+Manhattan Bridge,Friday,4,541.0,591.0,9.2
+Manhattan Bridge,Friday,5,723.0,718.0,-0.7
+Manhattan Bridge,Friday,6,1330.0,1220.0,-8.2
+Manhattan Bridge,Friday,7,1650.0,1502.0,-8.9
+Manhattan Bridge,Friday,8,1702.0,1601.0,-5.9
+Manhattan Bridge,Friday,9,1715.0,1648.0,-3.9
+Manhattan Bridge,Friday,10,1562.0,1493.0,-4.4
+Manhattan Bridge,Friday,11,1437.0,1375.0,-4.3
+Manhattan Bridge,Friday,12,1377.0,1293.0,-6.1
+Manhattan Bridge,Friday,13,1397.0,1298.0,-7.1
+Manhattan Bridge,Friday,14,1478.0,1373.0,-7.1
+Manhattan Bridge,Friday,15,1488.0,1363.0,-8.4
+Manhattan Bridge,Friday,16,1475.0,1351.0,-8.4
+Manhattan Bridge,Friday,17,1629.0,1422.0,-12.7
+Manhattan Bridge,Friday,18,1625.0,1470.0,-9.6
+Manhattan Bridge,Friday,19,1555.0,1542.0,-0.8
+Manhattan Bridge,Friday,20,1350.0,1445.0,7.0
+Manhattan Bridge,Friday,21,1635.0,1568.0,-4.1
+Manhattan Bridge,Friday,22,1501.0,1462.0,-2.6
+Manhattan Bridge,Friday,23,1423.0,1380.0,-3.0
+Manhattan Bridge,Monday,0,547.0,552.0,0.9
+Manhattan Bridge,Monday,1,388.0,414.0,6.6
+Manhattan Bridge,Monday,2,289.0,333.0,15.0
+Manhattan Bridge,Monday,3,277.0,320.0,15.6
+Manhattan Bridge,Monday,4,482.0,499.0,3.4
+Manhattan Bridge,Monday,5,701.0,651.0,-7.1
+Manhattan Bridge,Monday,6,1285.0,1117.0,-13.0
+Manhattan Bridge,Monday,7,1659.0,1479.0,-10.9
+Manhattan Bridge,Monday,8,1738.0,1548.0,-10.9
+Manhattan Bridge,Monday,9,1727.0,1519.0,-12.0
+Manhattan Bridge,Monday,10,1519.0,1380.0,-9.2
+Manhattan Bridge,Monday,11,1343.0,1218.0,-9.3
+Manhattan Bridge,Monday,12,1249.0,1154.0,-7.6
+Manhattan Bridge,Monday,13,1237.0,1116.0,-9.8
+Manhattan Bridge,Monday,14,1297.0,1158.0,-10.7
+Manhattan Bridge,Monday,15,1242.0,1109.0,-10.8
+Manhattan Bridge,Monday,16,1281.0,1100.0,-14.2
+Manhattan Bridge,Monday,17,1300.0,1147.0,-11.8
+Manhattan Bridge,Monday,18,1257.0,1130.0,-10.1
+Manhattan Bridge,Monday,19,1125.0,1076.0,-4.3
+Manhattan Bridge,Monday,20,1017.0,973.0,-4.4
+Manhattan Bridge,Monday,21,1213.0,1138.0,-6.2
+Manhattan Bridge,Monday,22,1086.0,1030.0,-5.1
+Manhattan Bridge,Monday,23,787.0,753.0,-4.3
+Manhattan Bridge,Saturday,0,1236.0,1279.0,3.4
+Manhattan Bridge,Saturday,1,1112.0,1197.0,7.6
+Manhattan Bridge,Saturday,2,826.0,914.0,10.6
+Manhattan Bridge,Saturday,3,597.0,680.0,13.8
+Manhattan Bridge,Saturday,4,532.0,598.0,12.5
+Manhattan Bridge,Saturday,5,577.0,623.0,8.0
+Manhattan Bridge,Saturday,6,902.0,890.0,-1.3
+Manhattan Bridge,Saturday,7,1153.0,1118.0,-3.1
+Manhattan Bridge,Saturday,8,1524.0,1455.0,-4.5
+Manhattan Bridge,Saturday,9,1490.0,1433.0,-3.8
+Manhattan Bridge,Saturday,10,1547.0,1473.0,-4.8
+Manhattan Bridge,Saturday,11,1531.0,1464.0,-4.4
+Manhattan Bridge,Saturday,12,1460.0,1410.0,-3.4
+Manhattan Bridge,Saturday,13,1440.0,1387.0,-3.7
+Manhattan Bridge,Saturday,14,1460.0,1369.0,-6.2
+Manhattan Bridge,Saturday,15,1464.0,1400.0,-4.4
+Manhattan Bridge,Saturday,16,1439.0,1390.0,-3.4
+Manhattan Bridge,Saturday,17,1465.0,1408.0,-3.9
+Manhattan Bridge,Saturday,18,1540.0,1462.0,-5.0
+Manhattan Bridge,Saturday,19,1434.0,1424.0,-0.7
+Manhattan Bridge,Saturday,20,1325.0,1324.0,-0.1
+Manhattan Bridge,Saturday,21,1531.0,1465.0,-4.3
+Manhattan Bridge,Saturday,22,1483.0,1405.0,-5.2
+Manhattan Bridge,Saturday,23,1331.0,1320.0,-0.8
+Manhattan Bridge,Sunday,0,1235.0,1267.0,2.6
+Manhattan Bridge,Sunday,1,1137.0,1195.0,5.1
+Manhattan Bridge,Sunday,2,848.0,916.0,8.0
+Manhattan Bridge,Sunday,3,624.0,685.0,9.7
+Manhattan Bridge,Sunday,4,506.0,550.0,8.6
+Manhattan Bridge,Sunday,5,511.0,510.0,-0.3
+Manhattan Bridge,Sunday,6,750.0,712.0,-5.1
+Manhattan Bridge,Sunday,7,945.0,909.0,-3.8
+Manhattan Bridge,Sunday,8,1371.0,1254.0,-8.5
+Manhattan Bridge,Sunday,9,1320.0,1224.0,-7.3
+Manhattan Bridge,Sunday,10,1422.0,1328.0,-6.6
+Manhattan Bridge,Sunday,11,1467.0,1376.0,-6.2
+Manhattan Bridge,Sunday,12,1428.0,1329.0,-6.9
+Manhattan Bridge,Sunday,13,1427.0,1293.0,-9.4
+Manhattan Bridge,Sunday,14,1442.0,1309.0,-9.2
+Manhattan Bridge,Sunday,15,1403.0,1297.0,-7.6
+Manhattan Bridge,Sunday,16,1378.0,1236.0,-10.2
+Manhattan Bridge,Sunday,17,1293.0,1196.0,-7.5
+Manhattan Bridge,Sunday,18,1259.0,1133.0,-10.0
+Manhattan Bridge,Sunday,19,1174.0,1070.0,-8.9
+Manhattan Bridge,Sunday,20,1073.0,977.0,-8.9
+Manhattan Bridge,Sunday,21,1199.0,1076.0,-10.3
+Manhattan Bridge,Sunday,22,1061.0,972.0,-8.3
+Manhattan Bridge,Sunday,23,764.0,776.0,1.6
+Manhattan Bridge,Thursday,0,721.0,789.0,9.3
+Manhattan Bridge,Thursday,1,479.0,568.0,18.5
+Manhattan Bridge,Thursday,2,324.0,413.0,27.6
+Manhattan Bridge,Thursday,3,301.0,400.0,32.9
+Manhattan Bridge,Thursday,4,516.0,571.0,10.7
+Manhattan Bridge,Thursday,5,744.0,727.0,-2.4
+Manhattan Bridge,Thursday,6,1405.0,1295.0,-7.8
+Manhattan Bridge,Thursday,7,1798.0,1645.0,-8.5
+Manhattan Bridge,Thursday,8,1939.0,1770.0,-8.7
+Manhattan Bridge,Thursday,9,1933.0,1842.0,-4.7
+Manhattan Bridge,Thursday,10,1686.0,1621.0,-3.9
+Manhattan Bridge,Thursday,11,1480.0,1393.0,-5.9
+Manhattan Bridge,Thursday,12,1410.0,1276.0,-9.5
+Manhattan Bridge,Thursday,13,1357.0,1277.0,-5.9
+Manhattan Bridge,Thursday,14,1451.0,1334.0,-8.1
+Manhattan Bridge,Thursday,15,1406.0,1304.0,-7.2
+Manhattan Bridge,Thursday,16,1405.0,1272.0,-9.5
+Manhattan Bridge,Thursday,17,1548.0,1301.0,-16.0
+Manhattan Bridge,Thursday,18,1597.0,1387.0,-13.1
+Manhattan Bridge,Thursday,19,1533.0,1419.0,-7.5
+Manhattan Bridge,Thursday,20,1350.0,1313.0,-2.8
+Manhattan Bridge,Thursday,21,1600.0,1482.0,-7.4
+Manhattan Bridge,Thursday,22,1485.0,1396.0,-6.0
+Manhattan Bridge,Thursday,23,1169.0,1210.0,3.5
+Manhattan Bridge,Tuesday,0,527.0,533.0,1.1
+Manhattan Bridge,Tuesday,1,339.0,381.0,12.3
+Manhattan Bridge,Tuesday,2,255.0,297.0,16.6
+Manhattan Bridge,Tuesday,3,262.0,322.0,22.7
+Manhattan Bridge,Tuesday,4,503.0,526.0,4.6
+Manhattan Bridge,Tuesday,5,741.0,713.0,-3.7
+Manhattan Bridge,Tuesday,6,1417.0,1295.0,-8.7
+Manhattan Bridge,Tuesday,7,1783.0,1631.0,-8.5
+Manhattan Bridge,Tuesday,8,1962.0,1815.0,-7.5
+Manhattan Bridge,Tuesday,9,1945.0,1819.0,-6.4
+Manhattan Bridge,Tuesday,10,1621.0,1535.0,-5.3
+Manhattan Bridge,Tuesday,11,1369.0,1322.0,-3.4
+Manhattan Bridge,Tuesday,12,1281.0,1197.0,-6.5
+Manhattan Bridge,Tuesday,13,1282.0,1172.0,-8.6
+Manhattan Bridge,Tuesday,14,1349.0,1218.0,-9.8
+Manhattan Bridge,Tuesday,15,1301.0,1151.0,-11.5
+Manhattan Bridge,Tuesday,16,1300.0,1125.0,-13.5
+Manhattan Bridge,Tuesday,17,1391.0,1168.0,-16.0
+Manhattan Bridge,Tuesday,18,1352.0,1181.0,-12.7
+Manhattan Bridge,Tuesday,19,1259.0,1182.0,-6.1
+Manhattan Bridge,Tuesday,20,1139.0,1078.0,-5.3
+Manhattan Bridge,Tuesday,21,1453.0,1334.0,-8.2
+Manhattan Bridge,Tuesday,22,1328.0,1263.0,-4.9
+Manhattan Bridge,Tuesday,23,959.0,1001.0,4.4
+Manhattan Bridge,Wednesday,0,623.0,679.0,8.9
+Manhattan Bridge,Wednesday,1,396.0,457.0,15.3
+Manhattan Bridge,Wednesday,2,280.0,345.0,23.3
+Manhattan Bridge,Wednesday,3,276.0,346.0,25.2
+Manhattan Bridge,Wednesday,4,503.0,553.0,10.0
+Manhattan Bridge,Wednesday,5,736.0,718.0,-2.5
+Manhattan Bridge,Wednesday,6,1411.0,1289.0,-8.7
+Manhattan Bridge,Wednesday,7,1813.0,1698.0,-6.4
+Manhattan Bridge,Wednesday,8,1971.0,1818.0,-7.7
+Manhattan Bridge,Wednesday,9,1958.0,1853.0,-5.4
+Manhattan Bridge,Wednesday,10,1652.0,1630.0,-1.3
+Manhattan Bridge,Wednesday,11,1413.0,1382.0,-2.2
+Manhattan Bridge,Wednesday,12,1295.0,1234.0,-4.8
+Manhattan Bridge,Wednesday,13,1289.0,1221.0,-5.3
+Manhattan Bridge,Wednesday,14,1394.0,1267.0,-9.1
+Manhattan Bridge,Wednesday,15,1362.0,1199.0,-12.0
+Manhattan Bridge,Wednesday,16,1342.0,1194.0,-11.0
+Manhattan Bridge,Wednesday,17,1398.0,1263.0,-9.6
+Manhattan Bridge,Wednesday,18,1400.0,1261.0,-9.9
+Manhattan Bridge,Wednesday,19,1309.0,1251.0,-4.4
+Manhattan Bridge,Wednesday,20,1203.0,1181.0,-1.8
+Manhattan Bridge,Wednesday,21,1471.0,1465.0,-0.4
+Manhattan Bridge,Wednesday,22,1400.0,1360.0,-2.8
+Manhattan Bridge,Wednesday,23,1073.0,1115.0,3.9
+Queens Midtown Tunnel,Friday,0,935.0,913.0,-2.3
+Queens Midtown Tunnel,Friday,1,575.0,582.0,1.2
+Queens Midtown Tunnel,Friday,2,350.0,395.0,12.7
+Queens Midtown Tunnel,Friday,3,295.0,355.0,20.2
+Queens Midtown Tunnel,Friday,4,519.0,584.0,12.6
+Queens Midtown Tunnel,Friday,5,1204.0,1269.0,5.4
+Queens Midtown Tunnel,Friday,6,2419.0,2328.0,-3.7
+Queens Midtown Tunnel,Friday,7,2925.0,2801.0,-4.2
+Queens Midtown Tunnel,Friday,8,3104.0,2993.0,-3.6
+Queens Midtown Tunnel,Friday,9,3014.0,2826.0,-6.3
+Queens Midtown Tunnel,Friday,10,2509.0,2409.0,-4.0
+Queens Midtown Tunnel,Friday,11,2432.0,2349.0,-3.4
+Queens Midtown Tunnel,Friday,12,2389.0,2345.0,-1.8
+Queens Midtown Tunnel,Friday,13,2464.0,2371.0,-3.8
+Queens Midtown Tunnel,Friday,14,2513.0,2414.0,-4.0
+Queens Midtown Tunnel,Friday,15,2579.0,2483.0,-3.7
+Queens Midtown Tunnel,Friday,16,2533.0,2477.0,-2.2
+Queens Midtown Tunnel,Friday,17,2484.0,2487.0,0.1
+Queens Midtown Tunnel,Friday,18,2510.0,2379.0,-5.2
+Queens Midtown Tunnel,Friday,19,2384.0,2252.0,-5.5
+Queens Midtown Tunnel,Friday,20,2135.0,2019.0,-5.4
+Queens Midtown Tunnel,Friday,21,2000.0,1886.0,-5.7
+Queens Midtown Tunnel,Friday,22,1881.0,1686.0,-10.4
+Queens Midtown Tunnel,Friday,23,1703.0,1510.0,-11.3
+Queens Midtown Tunnel,Monday,0,979.0,890.0,-9.0
+Queens Midtown Tunnel,Monday,1,529.0,476.0,-10.0
+Queens Midtown Tunnel,Monday,2,284.0,301.0,5.7
+Queens Midtown Tunnel,Monday,3,269.0,277.0,3.0
+Queens Midtown Tunnel,Monday,4,501.0,512.0,2.1
+Queens Midtown Tunnel,Monday,5,1145.0,1176.0,2.7
+Queens Midtown Tunnel,Monday,6,2353.0,2195.0,-6.7
+Queens Midtown Tunnel,Monday,7,2927.0,2689.0,-8.1
+Queens Midtown Tunnel,Monday,8,3147.0,2897.0,-7.9
+Queens Midtown Tunnel,Monday,9,3096.0,2804.0,-9.4
+Queens Midtown Tunnel,Monday,10,2510.0,2340.0,-6.8
+Queens Midtown Tunnel,Monday,11,2381.0,2226.0,-6.5
+Queens Midtown Tunnel,Monday,12,2315.0,2171.0,-6.2
+Queens Midtown Tunnel,Monday,13,2327.0,2169.0,-6.8
+Queens Midtown Tunnel,Monday,14,2440.0,2285.0,-6.4
+Queens Midtown Tunnel,Monday,15,2478.0,2320.0,-6.4
+Queens Midtown Tunnel,Monday,16,2463.0,2293.0,-6.9
+Queens Midtown Tunnel,Monday,17,2440.0,2222.0,-8.9
+Queens Midtown Tunnel,Monday,18,2330.0,2139.0,-8.2
+Queens Midtown Tunnel,Monday,19,1930.0,1816.0,-5.9
+Queens Midtown Tunnel,Monday,20,1700.0,1593.0,-6.3
+Queens Midtown Tunnel,Monday,21,1638.0,1424.0,-13.1
+Queens Midtown Tunnel,Monday,22,1433.0,1261.0,-12.0
+Queens Midtown Tunnel,Monday,23,1044.0,961.0,-7.9
+Queens Midtown Tunnel,Saturday,0,1328.0,1201.0,-9.6
+Queens Midtown Tunnel,Saturday,1,838.0,837.0,-0.1
+Queens Midtown Tunnel,Saturday,2,563.0,621.0,10.3
+Queens Midtown Tunnel,Saturday,3,504.0,510.0,1.3
+Queens Midtown Tunnel,Saturday,4,517.0,577.0,11.7
+Queens Midtown Tunnel,Saturday,5,741.0,824.0,11.1
+Queens Midtown Tunnel,Saturday,6,1327.0,1401.0,5.5
+Queens Midtown Tunnel,Saturday,7,1496.0,1509.0,0.9
+Queens Midtown Tunnel,Saturday,8,1841.0,1783.0,-3.1
+Queens Midtown Tunnel,Saturday,9,2052.0,2003.0,-2.4
+Queens Midtown Tunnel,Saturday,10,2294.0,2179.0,-5.0
+Queens Midtown Tunnel,Saturday,11,2350.0,2291.0,-2.5
+Queens Midtown Tunnel,Saturday,12,2348.0,2270.0,-3.3
+Queens Midtown Tunnel,Saturday,13,2403.0,2290.0,-4.7
+Queens Midtown Tunnel,Saturday,14,2410.0,2314.0,-4.0
+Queens Midtown Tunnel,Saturday,15,2452.0,2324.0,-5.2
+Queens Midtown Tunnel,Saturday,16,2480.0,2409.0,-2.9
+Queens Midtown Tunnel,Saturday,17,2503.0,2447.0,-2.2
+Queens Midtown Tunnel,Saturday,18,2472.0,2431.0,-1.7
+Queens Midtown Tunnel,Saturday,19,2326.0,2266.0,-2.6
+Queens Midtown Tunnel,Saturday,20,2081.0,2037.0,-2.1
+Queens Midtown Tunnel,Saturday,21,2023.0,1914.0,-5.4
+Queens Midtown Tunnel,Saturday,22,1987.0,1825.0,-8.2
+Queens Midtown Tunnel,Saturday,23,1765.0,1584.0,-10.3
+Queens Midtown Tunnel,Sunday,0,1335.0,1305.0,-2.2
+Queens Midtown Tunnel,Sunday,1,890.0,897.0,0.8
+Queens Midtown Tunnel,Sunday,2,637.0,664.0,4.2
+Queens Midtown Tunnel,Sunday,3,522.0,551.0,5.6
+Queens Midtown Tunnel,Sunday,4,488.0,557.0,14.1
+Queens Midtown Tunnel,Sunday,5,553.0,611.0,10.4
+Queens Midtown Tunnel,Sunday,6,960.0,1041.0,8.4
+Queens Midtown Tunnel,Sunday,7,1083.0,1115.0,2.9
+Queens Midtown Tunnel,Sunday,8,1326.0,1354.0,2.1
+Queens Midtown Tunnel,Sunday,9,1650.0,1639.0,-0.7
+Queens Midtown Tunnel,Sunday,10,2049.0,1967.0,-4.0
+Queens Midtown Tunnel,Sunday,11,2279.0,2170.0,-4.8
+Queens Midtown Tunnel,Sunday,12,2402.0,2227.0,-7.3
+Queens Midtown Tunnel,Sunday,13,2400.0,2250.0,-6.3
+Queens Midtown Tunnel,Sunday,14,2486.0,2313.0,-6.9
+Queens Midtown Tunnel,Sunday,15,2472.0,2332.0,-5.7
+Queens Midtown Tunnel,Sunday,16,2459.0,2311.0,-6.0
+Queens Midtown Tunnel,Sunday,17,2452.0,2237.0,-8.7
+Queens Midtown Tunnel,Sunday,18,2336.0,2179.0,-6.8
+Queens Midtown Tunnel,Sunday,19,2172.0,2014.0,-7.3
+Queens Midtown Tunnel,Sunday,20,2039.0,1861.0,-8.7
+Queens Midtown Tunnel,Sunday,21,1969.0,1766.0,-10.3
+Queens Midtown Tunnel,Sunday,22,1865.0,1584.0,-15.1
+Queens Midtown Tunnel,Sunday,23,1391.0,1224.0,-12.0
+Queens Midtown Tunnel,Thursday,0,766.0,726.0,-5.3
+Queens Midtown Tunnel,Thursday,1,418.0,409.0,-2.3
+Queens Midtown Tunnel,Thursday,2,238.0,299.0,25.7
+Queens Midtown Tunnel,Thursday,3,237.0,304.0,28.6
+Queens Midtown Tunnel,Thursday,4,484.0,536.0,10.8
+Queens Midtown Tunnel,Thursday,5,1200.0,1263.0,5.3
+Queens Midtown Tunnel,Thursday,6,2512.0,2380.0,-5.3
+Queens Midtown Tunnel,Thursday,7,3088.0,2979.0,-3.5
+Queens Midtown Tunnel,Thursday,8,3326.0,3094.0,-7.0
+Queens Midtown Tunnel,Thursday,9,3271.0,3102.0,-5.2
+Queens Midtown Tunnel,Thursday,10,2645.0,2556.0,-3.4
+Queens Midtown Tunnel,Thursday,11,2466.0,2394.0,-2.9
+Queens Midtown Tunnel,Thursday,12,2417.0,2349.0,-2.8
+Queens Midtown Tunnel,Thursday,13,2413.0,2348.0,-2.7
+Queens Midtown Tunnel,Thursday,14,2525.0,2451.0,-2.9
+Queens Midtown Tunnel,Thursday,15,2566.0,2460.0,-4.1
+Queens Midtown Tunnel,Thursday,16,2573.0,2472.0,-3.9
+Queens Midtown Tunnel,Thursday,17,2540.0,2428.0,-4.4
+Queens Midtown Tunnel,Thursday,18,2483.0,2403.0,-3.2
+Queens Midtown Tunnel,Thursday,19,2233.0,2166.0,-3.0
+Queens Midtown Tunnel,Thursday,20,1851.0,1827.0,-1.3
+Queens Midtown Tunnel,Thursday,21,1717.0,1606.0,-6.5
+Queens Midtown Tunnel,Thursday,22,1576.0,1381.0,-12.3
+Queens Midtown Tunnel,Thursday,23,1226.0,1126.0,-8.2
+Queens Midtown Tunnel,Tuesday,0,787.0,768.0,-2.4
+Queens Midtown Tunnel,Tuesday,1,426.0,425.0,-0.3
+Queens Midtown Tunnel,Tuesday,2,240.0,255.0,6.4
+Queens Midtown Tunnel,Tuesday,3,228.0,254.0,11.7
+Queens Midtown Tunnel,Tuesday,4,469.0,489.0,4.2
+Queens Midtown Tunnel,Tuesday,5,1202.0,1241.0,3.3
+Queens Midtown Tunnel,Tuesday,6,2535.0,2407.0,-5.1
+Queens Midtown Tunnel,Tuesday,7,3136.0,2946.0,-6.1
+Queens Midtown Tunnel,Tuesday,8,3381.0,3192.0,-5.6
+Queens Midtown Tunnel,Tuesday,9,3287.0,3097.0,-5.8
+Queens Midtown Tunnel,Tuesday,10,2678.0,2513.0,-6.2
+Queens Midtown Tunnel,Tuesday,11,2470.0,2352.0,-4.8
+Queens Midtown Tunnel,Tuesday,12,2316.0,2257.0,-2.5
+Queens Midtown Tunnel,Tuesday,13,2303.0,2190.0,-4.9
+Queens Midtown Tunnel,Tuesday,14,2448.0,2372.0,-3.1
+Queens Midtown Tunnel,Tuesday,15,2526.0,2374.0,-6.0
+Queens Midtown Tunnel,Tuesday,16,2440.0,2342.0,-4.0
+Queens Midtown Tunnel,Tuesday,17,2420.0,2281.0,-5.7
+Queens Midtown Tunnel,Tuesday,18,2303.0,2120.0,-7.9
+Queens Midtown Tunnel,Tuesday,19,1849.0,1737.0,-6.1
+Queens Midtown Tunnel,Tuesday,20,1551.0,1494.0,-3.7
+Queens Midtown Tunnel,Tuesday,21,1519.0,1356.0,-10.7
+Queens Midtown Tunnel,Tuesday,22,1362.0,1174.0,-13.8
+Queens Midtown Tunnel,Tuesday,23,964.0,901.0,-6.6
+Queens Midtown Tunnel,Wednesday,0,691.0,640.0,-7.5
+Queens Midtown Tunnel,Wednesday,1,360.0,381.0,5.8
+Queens Midtown Tunnel,Wednesday,2,198.0,259.0,30.8
+Queens Midtown Tunnel,Wednesday,3,220.0,271.0,23.1
+Queens Midtown Tunnel,Wednesday,4,463.0,508.0,9.8
+Queens Midtown Tunnel,Wednesday,5,1188.0,1249.0,5.1
+Queens Midtown Tunnel,Wednesday,6,2483.0,2463.0,-0.8
+Queens Midtown Tunnel,Wednesday,7,3109.0,2988.0,-3.9
+Queens Midtown Tunnel,Wednesday,8,3350.0,3153.0,-5.9
+Queens Midtown Tunnel,Wednesday,9,3263.0,3136.0,-3.9
+Queens Midtown Tunnel,Wednesday,10,2650.0,2536.0,-4.3
+Queens Midtown Tunnel,Wednesday,11,2481.0,2372.0,-4.4
+Queens Midtown Tunnel,Wednesday,12,2362.0,2262.0,-4.2
+Queens Midtown Tunnel,Wednesday,13,2346.0,2288.0,-2.5
+Queens Midtown Tunnel,Wednesday,14,2453.0,2399.0,-2.2
+Queens Midtown Tunnel,Wednesday,15,2520.0,2356.0,-6.5
+Queens Midtown Tunnel,Wednesday,16,2486.0,2392.0,-3.8
+Queens Midtown Tunnel,Wednesday,17,2454.0,2370.0,-3.4
+Queens Midtown Tunnel,Wednesday,18,2378.0,2316.0,-2.6
+Queens Midtown Tunnel,Wednesday,19,1977.0,1946.0,-1.6
+Queens Midtown Tunnel,Wednesday,20,1619.0,1614.0,-0.4
+Queens Midtown Tunnel,Wednesday,21,1551.0,1449.0,-6.5
+Queens Midtown Tunnel,Wednesday,22,1368.0,1287.0,-5.9
+Queens Midtown Tunnel,Wednesday,23,1049.0,972.0,-7.4
+Queensboro Bridge,Friday,0,739.0,734.0,-0.6
+Queensboro Bridge,Friday,1,575.0,602.0,4.7
+Queensboro Bridge,Friday,2,502.0,541.0,7.7
+Queensboro Bridge,Friday,3,581.0,617.0,6.2
+Queensboro Bridge,Friday,4,1038.0,984.0,-5.2
+Queensboro Bridge,Friday,5,1390.0,1329.0,-4.3
+Queensboro Bridge,Friday,6,2429.0,2284.0,-6.0
+Queensboro Bridge,Friday,7,2606.0,2554.0,-2.0
+Queensboro Bridge,Friday,8,2569.0,2446.0,-4.8
+Queensboro Bridge,Friday,9,2096.0,2019.0,-3.7
+Queensboro Bridge,Friday,10,1775.0,1758.0,-1.0
+Queensboro Bridge,Friday,11,1723.0,1727.0,0.2
+Queensboro Bridge,Friday,12,1748.0,1703.0,-2.6
+Queensboro Bridge,Friday,13,1840.0,1766.0,-4.0
+Queensboro Bridge,Friday,14,2116.0,2056.0,-2.8
+Queensboro Bridge,Friday,15,2215.0,2139.0,-3.4
+Queensboro Bridge,Friday,16,2186.0,2067.0,-5.4
+Queensboro Bridge,Friday,17,2113.0,2018.0,-4.5
+Queensboro Bridge,Friday,18,1985.0,1854.0,-6.6
+Queensboro Bridge,Friday,19,1646.0,1596.0,-3.0
+Queensboro Bridge,Friday,20,1404.0,1352.0,-3.7
+Queensboro Bridge,Friday,21,1467.0,1363.0,-7.1
+Queensboro Bridge,Friday,22,1362.0,1215.0,-10.8
+Queensboro Bridge,Friday,23,1090.0,972.0,-10.8
+Queensboro Bridge,Monday,0,552.0,486.0,-12.1
+Queensboro Bridge,Monday,1,412.0,390.0,-5.2
+Queensboro Bridge,Monday,2,394.0,377.0,-4.4
+Queensboro Bridge,Monday,3,507.0,484.0,-4.5
+Queensboro Bridge,Monday,4,945.0,860.0,-8.9
+Queensboro Bridge,Monday,5,1313.0,1174.0,-10.6
+Queensboro Bridge,Monday,6,2341.0,2119.0,-9.5
+Queensboro Bridge,Monday,7,2542.0,2367.0,-6.9
+Queensboro Bridge,Monday,8,2500.0,2271.0,-9.2
+Queensboro Bridge,Monday,9,1948.0,1894.0,-2.8
+Queensboro Bridge,Monday,10,1706.0,1653.0,-3.1
+Queensboro Bridge,Monday,11,1613.0,1580.0,-2.0
+Queensboro Bridge,Monday,12,1605.0,1572.0,-2.1
+Queensboro Bridge,Monday,13,1703.0,1649.0,-3.2
+Queensboro Bridge,Monday,14,1888.0,1771.0,-6.2
+Queensboro Bridge,Monday,15,1957.0,1804.0,-7.8
+Queensboro Bridge,Monday,16,1875.0,1767.0,-5.7
+Queensboro Bridge,Monday,17,1782.0,1623.0,-8.9
+Queensboro Bridge,Monday,18,1607.0,1482.0,-7.8
+Queensboro Bridge,Monday,19,1325.0,1252.0,-5.6
+Queensboro Bridge,Monday,20,1150.0,1096.0,-4.7
+Queensboro Bridge,Monday,21,1208.0,1115.0,-7.7
+Queensboro Bridge,Monday,22,1059.0,960.0,-9.4
+Queensboro Bridge,Monday,23,780.0,709.0,-9.2
+Queensboro Bridge,Saturday,0,904.0,805.0,-11.0
+Queensboro Bridge,Saturday,1,723.0,672.0,-7.0
+Queensboro Bridge,Saturday,2,584.0,573.0,-2.0
+Queensboro Bridge,Saturday,3,530.0,529.0,-0.4
+Queensboro Bridge,Saturday,4,688.0,671.0,-2.4
+Queensboro Bridge,Saturday,5,992.0,961.0,-3.1
+Queensboro Bridge,Saturday,6,1482.0,1427.0,-3.7
+Queensboro Bridge,Saturday,7,1610.0,1563.0,-3.0
+Queensboro Bridge,Saturday,8,1770.0,1683.0,-4.9
+Queensboro Bridge,Saturday,9,1637.0,1587.0,-3.1
+Queensboro Bridge,Saturday,10,1638.0,1612.0,-1.6
+Queensboro Bridge,Saturday,11,1721.0,1631.0,-5.2
+Queensboro Bridge,Saturday,12,1753.0,1708.0,-2.6
+Queensboro Bridge,Saturday,13,1845.0,1798.0,-2.6
+Queensboro Bridge,Saturday,14,1946.0,1917.0,-1.5
+Queensboro Bridge,Saturday,15,1924.0,1912.0,-0.6
+Queensboro Bridge,Saturday,16,1846.0,1799.0,-2.5
+Queensboro Bridge,Saturday,17,1799.0,1712.0,-4.8
+Queensboro Bridge,Saturday,18,1697.0,1622.0,-4.4
+Queensboro Bridge,Saturday,19,1452.0,1425.0,-1.9
+Queensboro Bridge,Saturday,20,1245.0,1175.0,-5.6
+Queensboro Bridge,Saturday,21,1369.0,1257.0,-8.2
+Queensboro Bridge,Saturday,22,1311.0,1195.0,-8.9
+Queensboro Bridge,Saturday,23,1072.0,939.0,-12.4
+Queensboro Bridge,Sunday,0,838.0,761.0,-9.2
+Queensboro Bridge,Sunday,1,677.0,653.0,-3.5
+Queensboro Bridge,Sunday,2,535.0,531.0,-0.8
+Queensboro Bridge,Sunday,3,496.0,496.0,-0.2
+Queensboro Bridge,Sunday,4,630.0,595.0,-5.6
+Queensboro Bridge,Sunday,5,909.0,862.0,-5.2
+Queensboro Bridge,Sunday,6,1357.0,1285.0,-5.3
+Queensboro Bridge,Sunday,7,1431.0,1353.0,-5.5
+Queensboro Bridge,Sunday,8,1587.0,1496.0,-5.7
+Queensboro Bridge,Sunday,9,1501.0,1445.0,-3.7
+Queensboro Bridge,Sunday,10,1625.0,1518.0,-6.6
+Queensboro Bridge,Sunday,11,1674.0,1561.0,-6.7
+Queensboro Bridge,Sunday,12,1746.0,1634.0,-6.4
+Queensboro Bridge,Sunday,13,1814.0,1703.0,-6.1
+Queensboro Bridge,Sunday,14,1991.0,1854.0,-6.9
+Queensboro Bridge,Sunday,15,1899.0,1769.0,-6.8
+Queensboro Bridge,Sunday,16,1778.0,1619.0,-8.9
+Queensboro Bridge,Sunday,17,1645.0,1495.0,-9.1
+Queensboro Bridge,Sunday,18,1560.0,1388.0,-11.0
+Queensboro Bridge,Sunday,19,1313.0,1160.0,-11.7
+Queensboro Bridge,Sunday,20,1089.0,967.0,-11.2
+Queensboro Bridge,Sunday,21,1121.0,989.0,-11.8
+Queensboro Bridge,Sunday,22,1045.0,911.0,-12.8
+Queensboro Bridge,Sunday,23,778.0,676.0,-13.1
+Queensboro Bridge,Thursday,0,701.0,667.0,-4.9
+Queensboro Bridge,Thursday,1,529.0,529.0,0.2
+Queensboro Bridge,Thursday,2,461.0,479.0,3.9
+Queensboro Bridge,Thursday,3,546.0,582.0,6.7
+Queensboro Bridge,Thursday,4,1031.0,973.0,-5.6
+Queensboro Bridge,Thursday,5,1425.0,1348.0,-5.4
+Queensboro Bridge,Thursday,6,2495.0,2381.0,-4.6
+Queensboro Bridge,Thursday,7,2750.0,2660.0,-3.3
+Queensboro Bridge,Thursday,8,2656.0,2517.0,-5.3
+Queensboro Bridge,Thursday,9,2117.0,2054.0,-3.0
+Queensboro Bridge,Thursday,10,1916.0,1823.0,-4.9
+Queensboro Bridge,Thursday,11,1833.0,1683.0,-8.2
+Queensboro Bridge,Thursday,12,1801.0,1656.0,-8.0
+Queensboro Bridge,Thursday,13,1895.0,1781.0,-6.0
+Queensboro Bridge,Thursday,14,2077.0,1969.0,-5.2
+Queensboro Bridge,Thursday,15,2194.0,2080.0,-5.2
+Queensboro Bridge,Thursday,16,2209.0,2051.0,-7.1
+Queensboro Bridge,Thursday,17,2153.0,1928.0,-10.4
+Queensboro Bridge,Thursday,18,1989.0,1862.0,-6.4
+Queensboro Bridge,Thursday,19,1701.0,1651.0,-2.9
+Queensboro Bridge,Thursday,20,1450.0,1395.0,-3.8
+Queensboro Bridge,Thursday,21,1462.0,1390.0,-4.9
+Queensboro Bridge,Thursday,22,1230.0,1231.0,0.1
+Queensboro Bridge,Thursday,23,971.0,942.0,-3.0
+Queensboro Bridge,Tuesday,0,578.0,529.0,-8.5
+Queensboro Bridge,Tuesday,1,422.0,417.0,-1.2
+Queensboro Bridge,Tuesday,2,390.0,396.0,1.7
+Queensboro Bridge,Tuesday,3,504.0,510.0,1.2
+Queensboro Bridge,Tuesday,4,987.0,914.0,-7.3
+Queensboro Bridge,Tuesday,5,1314.0,1267.0,-3.6
+Queensboro Bridge,Tuesday,6,2389.0,2294.0,-4.0
+Queensboro Bridge,Tuesday,7,2674.0,2609.0,-2.4
+Queensboro Bridge,Tuesday,8,2588.0,2497.0,-3.5
+Queensboro Bridge,Tuesday,9,2089.0,1994.0,-4.6
+Queensboro Bridge,Tuesday,10,1799.0,1751.0,-2.7
+Queensboro Bridge,Tuesday,11,1658.0,1639.0,-1.2
+Queensboro Bridge,Tuesday,12,1652.0,1611.0,-2.5
+Queensboro Bridge,Tuesday,13,1736.0,1663.0,-4.2
+Queensboro Bridge,Tuesday,14,1933.0,1890.0,-2.2
+Queensboro Bridge,Tuesday,15,2046.0,1919.0,-6.2
+Queensboro Bridge,Tuesday,16,2091.0,1862.0,-11.0
+Queensboro Bridge,Tuesday,17,1970.0,1751.0,-11.1
+Queensboro Bridge,Tuesday,18,1737.0,1610.0,-7.3
+Queensboro Bridge,Tuesday,19,1471.0,1380.0,-6.2
+Queensboro Bridge,Tuesday,20,1295.0,1250.0,-3.5
+Queensboro Bridge,Tuesday,21,1361.0,1277.0,-6.2
+Queensboro Bridge,Tuesday,22,1153.0,1111.0,-3.7
+Queensboro Bridge,Tuesday,23,885.0,832.0,-6.0
+Queensboro Bridge,Wednesday,0,648.0,619.0,-4.5
+Queensboro Bridge,Wednesday,1,469.0,479.0,2.1
+Queensboro Bridge,Wednesday,2,423.0,440.0,4.2
+Queensboro Bridge,Wednesday,3,540.0,550.0,1.7
+Queensboro Bridge,Wednesday,4,1032.0,963.0,-6.7
+Queensboro Bridge,Wednesday,5,1351.0,1299.0,-3.9
+Queensboro Bridge,Wednesday,6,2456.0,2304.0,-6.2
+Queensboro Bridge,Wednesday,7,2695.0,2604.0,-3.4
+Queensboro Bridge,Wednesday,8,2676.0,2520.0,-5.8
+Queensboro Bridge,Wednesday,9,2131.0,2076.0,-2.6
+Queensboro Bridge,Wednesday,10,1877.0,1816.0,-3.2
+Queensboro Bridge,Wednesday,11,1760.0,1709.0,-2.9
+Queensboro Bridge,Wednesday,12,1732.0,1670.0,-3.5
+Queensboro Bridge,Wednesday,13,1766.0,1751.0,-0.8
+Queensboro Bridge,Wednesday,14,1995.0,1954.0,-2.0
+Queensboro Bridge,Wednesday,15,2138.0,2027.0,-5.2
+Queensboro Bridge,Wednesday,16,2180.0,1988.0,-8.8
+Queensboro Bridge,Wednesday,17,2095.0,1885.0,-10.0
+Queensboro Bridge,Wednesday,18,1879.0,1793.0,-4.6
+Queensboro Bridge,Wednesday,19,1552.0,1506.0,-3.0
+Queensboro Bridge,Wednesday,20,1368.0,1324.0,-3.2
+Queensboro Bridge,Wednesday,21,1387.0,1326.0,-4.4
+Queensboro Bridge,Wednesday,22,1168.0,1155.0,-1.1
+Queensboro Bridge,Wednesday,23,919.0,850.0,-7.5
+West 60th St,Friday,0,1129.0,1084.0,-4.0
+West 60th St,Friday,1,725.0,736.0,1.5
+West 60th St,Friday,2,487.0,511.0,4.9
+West 60th St,Friday,3,348.0,399.0,14.6
+West 60th St,Friday,4,350.0,418.0,19.3
+West 60th St,Friday,5,468.0,498.0,6.5
+West 60th St,Friday,6,866.0,859.0,-0.8
+West 60th St,Friday,7,1505.0,1442.0,-4.2
+West 60th St,Friday,8,2036.0,1916.0,-5.9
+West 60th St,Friday,9,2070.0,1986.0,-4.0
+West 60th St,Friday,10,2071.0,1977.0,-4.5
+West 60th St,Friday,11,2028.0,1921.0,-5.2
+West 60th St,Friday,12,1972.0,1864.0,-5.5
+West 60th St,Friday,13,2017.0,1901.0,-5.7
+West 60th St,Friday,14,2191.0,2036.0,-7.1
+West 60th St,Friday,15,2254.0,2135.0,-5.3
+West 60th St,Friday,16,2262.0,2177.0,-3.8
+West 60th St,Friday,17,2269.0,2194.0,-3.3
+West 60th St,Friday,18,2338.0,2281.0,-2.5
+West 60th St,Friday,19,2239.0,2148.0,-4.1
+West 60th St,Friday,20,1841.0,1837.0,-0.2
+West 60th St,Friday,21,1802.0,1713.0,-4.9
+West 60th St,Friday,22,1809.0,1736.0,-4.0
+West 60th St,Friday,23,1588.0,1491.0,-6.1
+West 60th St,Monday,0,695.0,651.0,-6.4
+West 60th St,Monday,1,447.0,436.0,-2.4
+West 60th St,Monday,2,292.0,294.0,0.7
+West 60th St,Monday,3,234.0,245.0,4.7
+West 60th St,Monday,4,283.0,313.0,10.5
+West 60th St,Monday,5,437.0,427.0,-2.4
+West 60th St,Monday,6,889.0,803.0,-9.8
+West 60th St,Monday,7,1581.0,1450.0,-8.3
+West 60th St,Monday,8,2127.0,1980.0,-6.9
+West 60th St,Monday,9,2062.0,1955.0,-5.2
+West 60th St,Monday,10,1986.0,1881.0,-5.3
+West 60th St,Monday,11,2012.0,1871.0,-7.0
+West 60th St,Monday,12,1977.0,1840.0,-6.9
+West 60th St,Monday,13,1979.0,1840.0,-7.0
+West 60th St,Monday,14,2115.0,1936.0,-8.5
+West 60th St,Monday,15,2256.0,2053.0,-9.0
+West 60th St,Monday,16,2234.0,2055.0,-8.0
+West 60th St,Monday,17,2152.0,2010.0,-6.6
+West 60th St,Monday,18,2128.0,1972.0,-7.4
+West 60th St,Monday,19,1971.0,1799.0,-8.7
+West 60th St,Monday,20,1661.0,1560.0,-6.1
+West 60th St,Monday,21,1595.0,1506.0,-5.6
+West 60th St,Monday,22,1461.0,1369.0,-6.3
+West 60th St,Monday,23,1071.0,997.0,-6.9
+West 60th St,Saturday,0,1277.0,1197.0,-6.3
+West 60th St,Saturday,1,1038.0,1000.0,-3.7
+West 60th St,Saturday,2,808.0,817.0,1.0
+West 60th St,Saturday,3,583.0,624.0,7.2
+West 60th St,Saturday,4,428.0,485.0,13.2
+West 60th St,Saturday,5,399.0,459.0,15.2
+West 60th St,Saturday,6,573.0,615.0,7.3
+West 60th St,Saturday,7,867.0,885.0,2.0
+West 60th St,Saturday,8,1226.0,1228.0,0.1
+West 60th St,Saturday,9,1474.0,1460.0,-0.9
+West 60th St,Saturday,10,1669.0,1630.0,-2.3
+West 60th St,Saturday,11,1818.0,1779.0,-2.1
+West 60th St,Saturday,12,1918.0,1865.0,-2.7
+West 60th St,Saturday,13,2012.0,1983.0,-1.4
+West 60th St,Saturday,14,1996.0,1917.0,-4.0
+West 60th St,Saturday,15,2102.0,2038.0,-3.0
+West 60th St,Saturday,16,2176.0,2057.0,-5.4
+West 60th St,Saturday,17,2171.0,2085.0,-4.0
+West 60th St,Saturday,18,2205.0,2120.0,-3.8
+West 60th St,Saturday,19,2160.0,2106.0,-2.5
+West 60th St,Saturday,20,1764.0,1746.0,-1.0
+West 60th St,Saturday,21,1800.0,1702.0,-5.5
+West 60th St,Saturday,22,1842.0,1744.0,-5.3
+West 60th St,Saturday,23,1586.0,1532.0,-3.4
+West 60th St,Sunday,0,1315.0,1259.0,-4.3
+West 60th St,Sunday,1,1058.0,1052.0,-0.5
+West 60th St,Sunday,2,833.0,867.0,4.0
+West 60th St,Sunday,3,610.0,654.0,7.1
+West 60th St,Sunday,4,433.0,474.0,9.5
+West 60th St,Sunday,5,370.0,395.0,6.8
+West 60th St,Sunday,6,472.0,498.0,5.5
+West 60th St,Sunday,7,717.0,741.0,3.3
+West 60th St,Sunday,8,974.0,966.0,-0.8
+West 60th St,Sunday,9,1208.0,1211.0,0.3
+West 60th St,Sunday,10,1511.0,1446.0,-4.4
+West 60th St,Sunday,11,1664.0,1607.0,-3.4
+West 60th St,Sunday,12,1738.0,1677.0,-3.6
+West 60th St,Sunday,13,1852.0,1777.0,-4.1
+West 60th St,Sunday,14,1978.0,1885.0,-4.7
+West 60th St,Sunday,15,1937.0,1842.0,-4.9
+West 60th St,Sunday,16,1972.0,1825.0,-7.4
+West 60th St,Sunday,17,1906.0,1781.0,-6.5
+West 60th St,Sunday,18,1814.0,1710.0,-5.7
+West 60th St,Sunday,19,1667.0,1571.0,-5.7
+West 60th St,Sunday,20,1499.0,1429.0,-4.6
+West 60th St,Sunday,21,1451.0,1368.0,-5.7
+West 60th St,Sunday,22,1290.0,1222.0,-5.3
+West 60th St,Sunday,23,967.0,920.0,-4.9
+West 60th St,Thursday,0,936.0,962.0,2.7
+West 60th St,Thursday,1,582.0,618.0,6.2
+West 60th St,Thursday,2,365.0,414.0,13.3
+West 60th St,Thursday,3,289.0,331.0,14.5
+West 60th St,Thursday,4,329.0,380.0,15.5
+West 60th St,Thursday,5,475.0,482.0,1.6
+West 60th St,Thursday,6,934.0,873.0,-6.6
+West 60th St,Thursday,7,1632.0,1548.0,-5.1
+West 60th St,Thursday,8,2264.0,2099.0,-7.3
+West 60th St,Thursday,9,2232.0,2138.0,-4.2
+West 60th St,Thursday,10,2125.0,2012.0,-5.3
+West 60th St,Thursday,11,2126.0,2002.0,-5.8
+West 60th St,Thursday,12,2110.0,1996.0,-5.4
+West 60th St,Thursday,13,2137.0,2013.0,-5.8
+West 60th St,Thursday,14,2261.0,2080.0,-8.0
+West 60th St,Thursday,15,2405.0,2227.0,-7.4
+West 60th St,Thursday,16,2462.0,2280.0,-7.4
+West 60th St,Thursday,17,2412.0,2301.0,-4.6
+West 60th St,Thursday,18,2476.0,2361.0,-4.6
+West 60th St,Thursday,19,2342.0,2283.0,-2.5
+West 60th St,Thursday,20,1990.0,1954.0,-1.8
+West 60th St,Thursday,21,1967.0,1861.0,-5.4
+West 60th St,Thursday,22,2020.0,1887.0,-6.6
+West 60th St,Thursday,23,1568.0,1479.0,-5.7
+West 60th St,Tuesday,0,722.0,719.0,-0.5
+West 60th St,Tuesday,1,434.0,443.0,2.2
+West 60th St,Tuesday,2,292.0,301.0,3.2
+West 60th St,Tuesday,3,235.0,254.0,8.4
+West 60th St,Tuesday,4,305.0,333.0,9.2
+West 60th St,Tuesday,5,506.0,491.0,-3.1
+West 60th St,Tuesday,6,994.0,938.0,-5.7
+West 60th St,Tuesday,7,1750.0,1638.0,-6.4
+West 60th St,Tuesday,8,2377.0,2199.0,-7.5
+West 60th St,Tuesday,9,2302.0,2206.0,-4.1
+West 60th St,Tuesday,10,2129.0,2064.0,-3.1
+West 60th St,Tuesday,11,2115.0,2017.0,-4.6
+West 60th St,Tuesday,12,2087.0,2002.0,-4.0
+West 60th St,Tuesday,13,2101.0,1998.0,-4.9
+West 60th St,Tuesday,14,2228.0,2073.0,-7.0
+West 60th St,Tuesday,15,2371.0,2224.0,-6.2
+West 60th St,Tuesday,16,2380.0,2269.0,-4.7
+West 60th St,Tuesday,17,2390.0,2205.0,-7.8
+West 60th St,Tuesday,18,2394.0,2252.0,-6.0
+West 60th St,Tuesday,19,2258.0,2130.0,-5.7
+West 60th St,Tuesday,20,1938.0,1848.0,-4.6
+West 60th St,Tuesday,21,1906.0,1806.0,-5.2
+West 60th St,Tuesday,22,1788.0,1726.0,-3.5
+West 60th St,Tuesday,23,1307.0,1277.0,-2.3
+West 60th St,Wednesday,0,827.0,848.0,2.5
+West 60th St,Wednesday,1,495.0,525.0,5.9
+West 60th St,Wednesday,2,321.0,341.0,6.2
+West 60th St,Wednesday,3,261.0,287.0,9.7
+West 60th St,Wednesday,4,310.0,359.0,15.7
+West 60th St,Wednesday,5,479.0,480.0,0.3
+West 60th St,Wednesday,6,964.0,927.0,-3.8
+West 60th St,Wednesday,7,1680.0,1611.0,-4.1
+West 60th St,Wednesday,8,2287.0,2162.0,-5.4
+West 60th St,Wednesday,9,2264.0,2164.0,-4.4
+West 60th St,Wednesday,10,2136.0,2081.0,-2.6
+West 60th St,Wednesday,11,2127.0,2037.0,-4.2
+West 60th St,Wednesday,12,2133.0,2039.0,-4.4
+West 60th St,Wednesday,13,2154.0,2066.0,-4.1
+West 60th St,Wednesday,14,2219.0,2064.0,-7.0
+West 60th St,Wednesday,15,2380.0,2237.0,-6.0
+West 60th St,Wednesday,16,2397.0,2283.0,-4.8
+West 60th St,Wednesday,17,2375.0,2255.0,-5.0
+West 60th St,Wednesday,18,2409.0,2293.0,-4.8
+West 60th St,Wednesday,19,2344.0,2228.0,-5.0
+West 60th St,Wednesday,20,2026.0,1933.0,-4.6
+West 60th St,Wednesday,21,1981.0,1842.0,-7.0
+West 60th St,Wednesday,22,1934.0,1801.0,-6.9
+West 60th St,Wednesday,23,1496.0,1384.0,-7.5
+West Side Highway at 60th St,Friday,0,728.0,821.0,12.7
+West Side Highway at 60th St,Friday,1,506.0,643.0,27.0
+West Side Highway at 60th St,Friday,2,395.0,535.0,35.5
+West Side Highway at 60th St,Friday,3,381.0,535.0,40.3
+West Side Highway at 60th St,Friday,4,793.0,876.0,10.5
+West Side Highway at 60th St,Friday,5,1225.0,1271.0,3.8
+West Side Highway at 60th St,Friday,6,2541.0,2434.0,-4.2
+West Side Highway at 60th St,Friday,7,2843.0,2741.0,-3.6
+West Side Highway at 60th St,Friday,8,3133.0,2956.0,-5.6
+West Side Highway at 60th St,Friday,9,2777.0,2677.0,-3.6
+West Side Highway at 60th St,Friday,10,2320.0,2370.0,2.2
+West Side Highway at 60th St,Friday,11,2060.0,2057.0,-0.2
+West Side Highway at 60th St,Friday,12,2052.0,2021.0,-1.5
+West Side Highway at 60th St,Friday,13,2071.0,2128.0,2.7
+West Side Highway at 60th St,Friday,14,2316.0,2293.0,-1.0
+West Side Highway at 60th St,Friday,15,2433.0,2286.0,-6.0
+West Side Highway at 60th St,Friday,16,2532.0,2296.0,-9.3
+West Side Highway at 60th St,Friday,17,2675.0,2488.0,-7.0
+West Side Highway at 60th St,Friday,18,2758.0,2650.0,-3.9
+West Side Highway at 60th St,Friday,19,2452.0,2288.0,-6.7
+West Side Highway at 60th St,Friday,20,1858.0,1784.0,-4.0
+West Side Highway at 60th St,Friday,21,1840.0,1733.0,-5.8
+West Side Highway at 60th St,Friday,22,1704.0,1644.0,-3.5
+West Side Highway at 60th St,Friday,23,1386.0,1393.0,0.5
+West Side Highway at 60th St,Monday,0,568.0,508.0,-10.5
+West Side Highway at 60th St,Monday,1,385.0,399.0,3.6
+West Side Highway at 60th St,Monday,2,298.0,376.0,26.2
+West Side Highway at 60th St,Monday,3,297.0,397.0,33.8
+West Side Highway at 60th St,Monday,4,753.0,759.0,0.9
+West Side Highway at 60th St,Monday,5,1246.0,1197.0,-3.9
+West Side Highway at 60th St,Monday,6,2629.0,2464.0,-6.3
+West Side Highway at 60th St,Monday,7,3112.0,2905.0,-6.6
+West Side Highway at 60th St,Monday,8,3418.0,3034.0,-11.2
+West Side Highway at 60th St,Monday,9,3056.0,2866.0,-6.2
+West Side Highway at 60th St,Monday,10,2441.0,2367.0,-3.1
+West Side Highway at 60th St,Monday,11,2082.0,1994.0,-4.2
+West Side Highway at 60th St,Monday,12,1925.0,1856.0,-3.6
+West Side Highway at 60th St,Monday,13,1979.0,1874.0,-5.3
+West Side Highway at 60th St,Monday,14,2142.0,2026.0,-5.4
+West Side Highway at 60th St,Monday,15,2150.0,2069.0,-3.8
+West Side Highway at 60th St,Monday,16,2167.0,2058.0,-5.0
+West Side Highway at 60th St,Monday,17,2260.0,2094.0,-7.3
+West Side Highway at 60th St,Monday,18,2114.0,1980.0,-6.4
+West Side Highway at 60th St,Monday,19,1615.0,1491.0,-7.7
+West Side Highway at 60th St,Monday,20,1263.0,1172.0,-7.3
+West Side Highway at 60th St,Monday,21,1394.0,1247.0,-10.5
+West Side Highway at 60th St,Monday,22,1194.0,1095.0,-8.3
+West Side Highway at 60th St,Monday,23,814.0,787.0,-3.3
+West Side Highway at 60th St,Saturday,0,1044.0,1033.0,-1.1
+West Side Highway at 60th St,Saturday,1,810.0,844.0,4.1
+West Side Highway at 60th St,Saturday,2,601.0,692.0,15.1
+West Side Highway at 60th St,Saturday,3,477.0,568.0,19.0
+West Side Highway at 60th St,Saturday,4,529.0,636.0,20.1
+West Side Highway at 60th St,Saturday,5,812.0,879.0,8.3
+West Side Highway at 60th St,Saturday,6,1321.0,1386.0,4.9
+West Side Highway at 60th St,Saturday,7,1379.0,1412.0,2.4
+West Side Highway at 60th St,Saturday,8,1691.0,1749.0,3.4
+West Side Highway at 60th St,Saturday,9,1823.0,1899.0,4.2
+West Side Highway at 60th St,Saturday,10,2044.0,2042.0,-0.1
+West Side Highway at 60th St,Saturday,11,2332.0,2250.0,-3.5
+West Side Highway at 60th St,Saturday,12,2503.0,2424.0,-3.2
+West Side Highway at 60th St,Saturday,13,2544.0,2450.0,-3.7
+West Side Highway at 60th St,Saturday,14,2454.0,2415.0,-1.6
+West Side Highway at 60th St,Saturday,15,2499.0,2403.0,-3.8
+West Side Highway at 60th St,Saturday,16,2519.0,2427.0,-3.6
+West Side Highway at 60th St,Saturday,17,2661.0,2491.0,-6.4
+West Side Highway at 60th St,Saturday,18,2635.0,2495.0,-5.3
+West Side Highway at 60th St,Saturday,19,2352.0,2203.0,-6.3
+West Side Highway at 60th St,Saturday,20,1839.0,1783.0,-3.1
+West Side Highway at 60th St,Saturday,21,1816.0,1707.0,-6.0
+West Side Highway at 60th St,Saturday,22,1806.0,1626.0,-10.0
+West Side Highway at 60th St,Saturday,23,1508.0,1370.0,-9.1
+West Side Highway at 60th St,Sunday,0,1083.0,1020.0,-5.8
+West Side Highway at 60th St,Sunday,1,882.0,885.0,0.3
+West Side Highway at 60th St,Sunday,2,654.0,707.0,8.1
+West Side Highway at 60th St,Sunday,3,494.0,552.0,11.7
+West Side Highway at 60th St,Sunday,4,460.0,515.0,11.9
+West Side Highway at 60th St,Sunday,5,640.0,670.0,4.6
+West Side Highway at 60th St,Sunday,6,1097.0,1089.0,-0.7
+West Side Highway at 60th St,Sunday,7,1171.0,1119.0,-4.5
+West Side Highway at 60th St,Sunday,8,1428.0,1333.0,-6.6
+West Side Highway at 60th St,Sunday,9,1597.0,1543.0,-3.4
+West Side Highway at 60th St,Sunday,10,1899.0,1841.0,-3.1
+West Side Highway at 60th St,Sunday,11,2151.0,2100.0,-2.4
+West Side Highway at 60th St,Sunday,12,2335.0,2293.0,-1.8
+West Side Highway at 60th St,Sunday,13,2447.0,2330.0,-4.8
+West Side Highway at 60th St,Sunday,14,2479.0,2354.0,-5.1
+West Side Highway at 60th St,Sunday,15,2322.0,2199.0,-5.3
+West Side Highway at 60th St,Sunday,16,2288.0,2142.0,-6.4
+West Side Highway at 60th St,Sunday,17,2233.0,2095.0,-6.2
+West Side Highway at 60th St,Sunday,18,2029.0,1919.0,-5.4
+West Side Highway at 60th St,Sunday,19,1772.0,1629.0,-8.1
+West Side Highway at 60th St,Sunday,20,1526.0,1368.0,-10.4
+West Side Highway at 60th St,Sunday,21,1498.0,1315.0,-12.2
+West Side Highway at 60th St,Sunday,22,1310.0,1150.0,-12.2
+West Side Highway at 60th St,Sunday,23,907.0,800.0,-11.8
+West Side Highway at 60th St,Thursday,0,645.0,704.0,9.1
+West Side Highway at 60th St,Thursday,1,422.0,529.0,25.3
+West Side Highway at 60th St,Thursday,2,318.0,459.0,44.5
+West Side Highway at 60th St,Thursday,3,336.0,488.0,45.1
+West Side Highway at 60th St,Thursday,4,791.0,858.0,8.5
+West Side Highway at 60th St,Thursday,5,1295.0,1365.0,5.4
+West Side Highway at 60th St,Thursday,6,2884.0,2798.0,-3.0
+West Side Highway at 60th St,Thursday,7,3402.0,3278.0,-3.6
+West Side Highway at 60th St,Thursday,8,3664.0,3480.0,-5.0
+West Side Highway at 60th St,Thursday,9,3431.0,3289.0,-4.1
+West Side Highway at 60th St,Thursday,10,2894.0,2862.0,-1.1
+West Side Highway at 60th St,Thursday,11,2406.0,2372.0,-1.4
+West Side Highway at 60th St,Thursday,12,2242.0,2211.0,-1.4
+West Side Highway at 60th St,Thursday,13,2230.0,2181.0,-2.2
+West Side Highway at 60th St,Thursday,14,2388.0,2383.0,-0.2
+West Side Highway at 60th St,Thursday,15,2490.0,2402.0,-3.5
+West Side Highway at 60th St,Thursday,16,2492.0,2399.0,-3.7
+West Side Highway at 60th St,Thursday,17,2598.0,2416.0,-7.0
+West Side Highway at 60th St,Thursday,18,2547.0,2400.0,-5.8
+West Side Highway at 60th St,Thursday,19,2035.0,1977.0,-2.8
+West Side Highway at 60th St,Thursday,20,1558.0,1509.0,-3.2
+West Side Highway at 60th St,Thursday,21,1680.0,1592.0,-5.3
+West Side Highway at 60th St,Thursday,22,1480.0,1517.0,2.5
+West Side Highway at 60th St,Thursday,23,1068.0,1165.0,9.1
+West Side Highway at 60th St,Tuesday,0,512.0,513.0,0.3
+West Side Highway at 60th St,Tuesday,1,328.0,404.0,23.0
+West Side Highway at 60th St,Tuesday,2,266.0,384.0,44.6
+West Side Highway at 60th St,Tuesday,3,295.0,414.0,40.4
+West Side Highway at 60th St,Tuesday,4,801.0,831.0,3.8
+West Side Highway at 60th St,Tuesday,5,1332.0,1382.0,3.8
+West Side Highway at 60th St,Tuesday,6,2912.0,2870.0,-1.4
+West Side Highway at 60th St,Tuesday,7,3466.0,3436.0,-0.9
+West Side Highway at 60th St,Tuesday,8,3712.0,3606.0,-2.8
+West Side Highway at 60th St,Tuesday,9,3478.0,3350.0,-3.7
+West Side Highway at 60th St,Tuesday,10,2848.0,2859.0,0.4
+West Side Highway at 60th St,Tuesday,11,2356.0,2369.0,0.6
+West Side Highway at 60th St,Tuesday,12,2099.0,2139.0,1.9
+West Side Highway at 60th St,Tuesday,13,2101.0,2092.0,-0.4
+West Side Highway at 60th St,Tuesday,14,2284.0,2225.0,-2.6
+West Side Highway at 60th St,Tuesday,15,2385.0,2239.0,-6.1
+West Side Highway at 60th St,Tuesday,16,2453.0,2322.0,-5.4
+West Side Highway at 60th St,Tuesday,17,2551.0,2453.0,-3.8
+West Side Highway at 60th St,Tuesday,18,2386.0,2277.0,-4.6
+West Side Highway at 60th St,Tuesday,19,1768.0,1651.0,-6.6
+West Side Highway at 60th St,Tuesday,20,1357.0,1302.0,-4.1
+West Side Highway at 60th St,Tuesday,21,1536.0,1459.0,-5.0
+West Side Highway at 60th St,Tuesday,22,1356.0,1310.0,-3.4
+West Side Highway at 60th St,Tuesday,23,930.0,947.0,1.8
+West Side Highway at 60th St,Wednesday,0,575.0,622.0,8.3
+West Side Highway at 60th St,Wednesday,1,368.0,449.0,22.1
+West Side Highway at 60th St,Wednesday,2,281.0,411.0,46.6
+West Side Highway at 60th St,Wednesday,3,312.0,455.0,45.7
+West Side Highway at 60th St,Wednesday,4,804.0,882.0,9.8
+West Side Highway at 60th St,Wednesday,5,1330.0,1383.0,4.0
+West Side Highway at 60th St,Wednesday,6,2984.0,2860.0,-4.2
+West Side Highway at 60th St,Wednesday,7,3554.0,3406.0,-4.2
+West Side Highway at 60th St,Wednesday,8,3767.0,3576.0,-5.1
+West Side Highway at 60th St,Wednesday,9,3504.0,3385.0,-3.4
+West Side Highway at 60th St,Wednesday,10,2857.0,2871.0,0.5
+West Side Highway at 60th St,Wednesday,11,2445.0,2443.0,-0.1
+West Side Highway at 60th St,Wednesday,12,2298.0,2315.0,0.8
+West Side Highway at 60th St,Wednesday,13,2181.0,2215.0,1.6
+West Side Highway at 60th St,Wednesday,14,2300.0,2318.0,0.8
+West Side Highway at 60th St,Wednesday,15,2389.0,2310.0,-3.3
+West Side Highway at 60th St,Wednesday,16,2461.0,2301.0,-6.5
+West Side Highway at 60th St,Wednesday,17,2557.0,2354.0,-7.9
+West Side Highway at 60th St,Wednesday,18,2468.0,2327.0,-5.7
+West Side Highway at 60th St,Wednesday,19,1935.0,1792.0,-7.4
+West Side Highway at 60th St,Wednesday,20,1422.0,1385.0,-2.6
+West Side Highway at 60th St,Wednesday,21,1591.0,1508.0,-5.3
+West Side Highway at 60th St,Wednesday,22,1438.0,1435.0,-0.2
+West Side Highway at 60th St,Wednesday,23,1009.0,1030.0,2.1
+Williamsburg Bridge,Friday,0,1340.0,1344.0,0.3
+Williamsburg Bridge,Friday,1,1022.0,1096.0,7.3
+Williamsburg Bridge,Friday,2,751.0,852.0,13.4
+Williamsburg Bridge,Friday,3,669.0,805.0,20.4
+Williamsburg Bridge,Friday,4,1218.0,1254.0,2.9
+Williamsburg Bridge,Friday,5,1565.0,1537.0,-1.8
+Williamsburg Bridge,Friday,6,1997.0,1957.0,-2.0
+Williamsburg Bridge,Friday,7,2095.0,2053.0,-2.0
+Williamsburg Bridge,Friday,8,1967.0,1942.0,-1.3
+Williamsburg Bridge,Friday,9,1880.0,1859.0,-1.1
+Williamsburg Bridge,Friday,10,1875.0,1831.0,-2.3
+Williamsburg Bridge,Friday,11,1852.0,1799.0,-2.9
+Williamsburg Bridge,Friday,12,1880.0,1781.0,-5.3
+Williamsburg Bridge,Friday,13,1918.0,1806.0,-5.8
+Williamsburg Bridge,Friday,14,2007.0,1890.0,-5.8
+Williamsburg Bridge,Friday,15,2042.0,1939.0,-5.0
+Williamsburg Bridge,Friday,16,2020.0,1961.0,-2.9
+Williamsburg Bridge,Friday,17,2007.0,1921.0,-4.3
+Williamsburg Bridge,Friday,18,2029.0,1911.0,-5.9
+Williamsburg Bridge,Friday,19,1997.0,1867.0,-6.5
+Williamsburg Bridge,Friday,20,1954.0,1885.0,-3.5
+Williamsburg Bridge,Friday,21,2043.0,1872.0,-8.4
+Williamsburg Bridge,Friday,22,1970.0,1843.0,-6.5
+Williamsburg Bridge,Friday,23,1826.0,1766.0,-3.3
+Williamsburg Bridge,Monday,0,1019.0,1048.0,2.9
+Williamsburg Bridge,Monday,1,708.0,766.0,8.2
+Williamsburg Bridge,Monday,2,499.0,573.0,14.9
+Williamsburg Bridge,Monday,3,527.0,595.0,12.9
+Williamsburg Bridge,Monday,4,1136.0,1136.0,-0.0
+Williamsburg Bridge,Monday,5,1504.0,1383.0,-8.1
+Williamsburg Bridge,Monday,6,1928.0,1838.0,-4.7
+Williamsburg Bridge,Monday,7,2062.0,1909.0,-7.4
+Williamsburg Bridge,Monday,8,1962.0,1801.0,-8.2
+Williamsburg Bridge,Monday,9,1877.0,1745.0,-7.0
+Williamsburg Bridge,Monday,10,1806.0,1683.0,-6.8
+Williamsburg Bridge,Monday,11,1785.0,1669.0,-6.5
+Williamsburg Bridge,Monday,12,1811.0,1674.0,-7.6
+Williamsburg Bridge,Monday,13,1873.0,1723.0,-8.0
+Williamsburg Bridge,Monday,14,1933.0,1791.0,-7.3
+Williamsburg Bridge,Monday,15,1945.0,1831.0,-5.9
+Williamsburg Bridge,Monday,16,1889.0,1809.0,-4.2
+Williamsburg Bridge,Monday,17,1906.0,1800.0,-5.5
+Williamsburg Bridge,Monday,18,1901.0,1782.0,-6.3
+Williamsburg Bridge,Monday,19,1766.0,1683.0,-4.7
+Williamsburg Bridge,Monday,20,1587.0,1563.0,-1.5
+Williamsburg Bridge,Monday,21,1787.0,1673.0,-6.4
+Williamsburg Bridge,Monday,22,1581.0,1525.0,-3.5
+Williamsburg Bridge,Monday,23,1191.0,1227.0,3.0
+Williamsburg Bridge,Saturday,0,1705.0,1682.0,-1.3
+Williamsburg Bridge,Saturday,1,1515.0,1549.0,2.3
+Williamsburg Bridge,Saturday,2,1155.0,1260.0,9.1
+Williamsburg Bridge,Saturday,3,962.0,1081.0,12.4
+Williamsburg Bridge,Saturday,4,1001.0,1140.0,13.8
+Williamsburg Bridge,Saturday,5,1199.0,1290.0,7.6
+Williamsburg Bridge,Saturday,6,1679.0,1700.0,1.3
+Williamsburg Bridge,Saturday,7,1882.0,1833.0,-2.6
+Williamsburg Bridge,Saturday,8,2096.0,2012.0,-4.0
+Williamsburg Bridge,Saturday,9,1876.0,1869.0,-0.4
+Williamsburg Bridge,Saturday,10,1968.0,1923.0,-2.3
+Williamsburg Bridge,Saturday,11,1958.0,1896.0,-3.2
+Williamsburg Bridge,Saturday,12,1961.0,1872.0,-4.5
+Williamsburg Bridge,Saturday,13,1945.0,1879.0,-3.4
+Williamsburg Bridge,Saturday,14,2030.0,1927.0,-5.1
+Williamsburg Bridge,Saturday,15,1999.0,1910.0,-4.4
+Williamsburg Bridge,Saturday,16,1978.0,1860.0,-6.0
+Williamsburg Bridge,Saturday,17,1964.0,1886.0,-4.0
+Williamsburg Bridge,Saturday,18,1975.0,1891.0,-4.2
+Williamsburg Bridge,Saturday,19,1936.0,1863.0,-3.8
+Williamsburg Bridge,Saturday,20,1920.0,1836.0,-4.4
+Williamsburg Bridge,Saturday,21,2002.0,1866.0,-6.8
+Williamsburg Bridge,Saturday,22,1958.0,1828.0,-6.6
+Williamsburg Bridge,Saturday,23,1839.0,1719.0,-6.5
+Williamsburg Bridge,Sunday,0,1769.0,1720.0,-2.8
+Williamsburg Bridge,Sunday,1,1560.0,1568.0,0.5
+Williamsburg Bridge,Sunday,2,1260.0,1310.0,3.9
+Williamsburg Bridge,Sunday,3,1063.0,1140.0,7.2
+Williamsburg Bridge,Sunday,4,1010.0,1107.0,9.6
+Williamsburg Bridge,Sunday,5,1078.0,1109.0,2.9
+Williamsburg Bridge,Sunday,6,1402.0,1433.0,2.2
+Williamsburg Bridge,Sunday,7,1633.0,1575.0,-3.5
+Williamsburg Bridge,Sunday,8,2029.0,1961.0,-3.4
+Williamsburg Bridge,Sunday,9,1802.0,1798.0,-0.2
+Williamsburg Bridge,Sunday,10,1961.0,1924.0,-1.9
+Williamsburg Bridge,Sunday,11,2011.0,1930.0,-4.0
+Williamsburg Bridge,Sunday,12,1995.0,1890.0,-5.2
+Williamsburg Bridge,Sunday,13,2005.0,1915.0,-4.4
+Williamsburg Bridge,Sunday,14,2047.0,1967.0,-3.9
+Williamsburg Bridge,Sunday,15,2033.0,1918.0,-5.7
+Williamsburg Bridge,Sunday,16,1965.0,1853.0,-5.7
+Williamsburg Bridge,Sunday,17,1931.0,1839.0,-4.7
+Williamsburg Bridge,Sunday,18,1936.0,1836.0,-5.2
+Williamsburg Bridge,Sunday,19,1840.0,1744.0,-5.2
+Williamsburg Bridge,Sunday,20,1730.0,1668.0,-3.6
+Williamsburg Bridge,Sunday,21,1905.0,1733.0,-9.0
+Williamsburg Bridge,Sunday,22,1774.0,1656.0,-6.7
+Williamsburg Bridge,Sunday,23,1385.0,1342.0,-3.1
+Williamsburg Bridge,Thursday,0,1133.0,1157.0,2.0
+Williamsburg Bridge,Thursday,1,799.0,920.0,15.1
+Williamsburg Bridge,Thursday,2,577.0,732.0,27.0
+Williamsburg Bridge,Thursday,3,562.0,723.0,28.6
+Williamsburg Bridge,Thursday,4,1198.0,1249.0,4.3
+Williamsburg Bridge,Thursday,5,1573.0,1551.0,-1.4
+Williamsburg Bridge,Thursday,6,2039.0,1989.0,-2.5
+Williamsburg Bridge,Thursday,7,2149.0,2052.0,-4.5
+Williamsburg Bridge,Thursday,8,2017.0,1920.0,-4.8
+Williamsburg Bridge,Thursday,9,1870.0,1833.0,-2.0
+Williamsburg Bridge,Thursday,10,1859.0,1771.0,-4.8
+Williamsburg Bridge,Thursday,11,1833.0,1775.0,-3.2
+Williamsburg Bridge,Thursday,12,1845.0,1756.0,-4.8
+Williamsburg Bridge,Thursday,13,1926.0,1807.0,-6.2
+Williamsburg Bridge,Thursday,14,1975.0,1878.0,-4.9
+Williamsburg Bridge,Thursday,15,2017.0,1903.0,-5.6
+Williamsburg Bridge,Thursday,16,1961.0,1897.0,-3.3
+Williamsburg Bridge,Thursday,17,1959.0,1891.0,-3.5
+Williamsburg Bridge,Thursday,18,2005.0,1882.0,-6.1
+Williamsburg Bridge,Thursday,19,1982.0,1887.0,-4.8
+Williamsburg Bridge,Thursday,20,1942.0,1827.0,-5.9
+Williamsburg Bridge,Thursday,21,2113.0,1902.0,-10.0
+Williamsburg Bridge,Thursday,22,1920.0,1798.0,-6.4
+Williamsburg Bridge,Thursday,23,1617.0,1611.0,-0.4
+Williamsburg Bridge,Tuesday,0,919.0,972.0,5.8
+Williamsburg Bridge,Tuesday,1,628.0,721.0,14.8
+Williamsburg Bridge,Tuesday,2,464.0,573.0,23.5
+Williamsburg Bridge,Tuesday,3,487.0,578.0,18.6
+Williamsburg Bridge,Tuesday,4,1132.0,1155.0,2.1
+Williamsburg Bridge,Tuesday,5,1514.0,1496.0,-1.2
+Williamsburg Bridge,Tuesday,6,2036.0,1990.0,-2.3
+Williamsburg Bridge,Tuesday,7,2156.0,2064.0,-4.3
+Williamsburg Bridge,Tuesday,8,2015.0,1915.0,-5.0
+Williamsburg Bridge,Tuesday,9,1912.0,1836.0,-4.0
+Williamsburg Bridge,Tuesday,10,1856.0,1791.0,-3.5
+Williamsburg Bridge,Tuesday,11,1824.0,1747.0,-4.2
+Williamsburg Bridge,Tuesday,12,1827.0,1735.0,-5.0
+Williamsburg Bridge,Tuesday,13,1891.0,1797.0,-5.0
+Williamsburg Bridge,Tuesday,14,1949.0,1862.0,-4.5
+Williamsburg Bridge,Tuesday,15,1982.0,1872.0,-5.5
+Williamsburg Bridge,Tuesday,16,1938.0,1851.0,-4.5
+Williamsburg Bridge,Tuesday,17,1909.0,1806.0,-5.4
+Williamsburg Bridge,Tuesday,18,1901.0,1805.0,-5.1
+Williamsburg Bridge,Tuesday,19,1888.0,1799.0,-4.7
+Williamsburg Bridge,Tuesday,20,1715.0,1694.0,-1.3
+Williamsburg Bridge,Tuesday,21,1920.0,1811.0,-5.6
+Williamsburg Bridge,Tuesday,22,1732.0,1689.0,-2.5
+Williamsburg Bridge,Tuesday,23,1347.0,1400.0,4.0
+Williamsburg Bridge,Wednesday,0,994.0,1074.0,8.1
+Williamsburg Bridge,Wednesday,1,709.0,819.0,15.5
+Williamsburg Bridge,Wednesday,2,502.0,638.0,26.9
+Williamsburg Bridge,Wednesday,3,513.0,641.0,25.0
+Williamsburg Bridge,Wednesday,4,1154.0,1204.0,4.3
+Williamsburg Bridge,Wednesday,5,1529.0,1528.0,-0.1
+Williamsburg Bridge,Wednesday,6,2071.0,1994.0,-3.7
+Williamsburg Bridge,Wednesday,7,2173.0,2069.0,-4.8
+Williamsburg Bridge,Wednesday,8,2028.0,1954.0,-3.7
+Williamsburg Bridge,Wednesday,9,1926.0,1863.0,-3.3
+Williamsburg Bridge,Wednesday,10,1882.0,1808.0,-3.9
+Williamsburg Bridge,Wednesday,11,1828.0,1753.0,-4.1
+Williamsburg Bridge,Wednesday,12,1847.0,1757.0,-4.9
+Williamsburg Bridge,Wednesday,13,1902.0,1747.0,-8.2
+Williamsburg Bridge,Wednesday,14,1975.0,1866.0,-5.5
+Williamsburg Bridge,Wednesday,15,1981.0,1885.0,-4.9
+Williamsburg Bridge,Wednesday,16,1931.0,1873.0,-3.0
+Williamsburg Bridge,Wednesday,17,1926.0,1844.0,-4.3
+Williamsburg Bridge,Wednesday,18,1971.0,1876.0,-4.8
+Williamsburg Bridge,Wednesday,19,1931.0,1846.0,-4.4
+Williamsburg Bridge,Wednesday,20,1806.0,1778.0,-1.5
+Williamsburg Bridge,Wednesday,21,2004.0,1874.0,-6.5
+Williamsburg Bridge,Wednesday,22,1829.0,1773.0,-3.1
+Williamsburg Bridge,Wednesday,23,1460.0,1496.0,2.5

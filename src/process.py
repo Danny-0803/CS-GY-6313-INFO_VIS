@@ -107,6 +107,16 @@ def q1_and_q3(crz: pd.DataFrame):
     heat[["avg_entries_2025", "avg_entries_2026"]] = heat[["avg_entries_2025", "avg_entries_2026"]].round(0)
     save(heat, "q1_heatmap_weekday_hour")
 
+    by_day_c = jan_sep.groupby(["year", "toll_date", "detection_group", "day_of_week", "hour_of_day"],
+                               as_index=False).crz_entries.sum()
+    heat_c = by_day_c.groupby(["year", "detection_group", "day_of_week", "hour_of_day"], as_index=False).crz_entries.mean()
+    heat_c = heat_c.pivot_table(index=["detection_group", "day_of_week", "hour_of_day"], columns="year",
+                                values="crz_entries").reset_index()
+    heat_c.columns = ["detection_group", "day_of_week", "hour_of_day", "avg_entries_2025", "avg_entries_2026"]
+    heat_c["pct_change_2026_vs_2025"] = pct(heat_c.avg_entries_2026, heat_c.avg_entries_2025).round(1)
+    heat_c[["avg_entries_2025", "avg_entries_2026"]] = heat_c[["avg_entries_2025", "avg_entries_2026"]].round(0)
+    save(heat_c, "q1_heatmap_by_crossing_weekday_hour")
+
     # Q3: share of entries that stay on the free FDR Drive and West Side Highway
     m = d.assign(month=d.date.dt.to_period("M").dt.to_timestamp()).groupby(["month", "detection_group"], as_index=False)[
         ["crz_entries", "excluded_entries"]].sum()
@@ -166,6 +176,7 @@ def baseline(crz: pd.DataFrame):
         matched_days=("date", "count"), crossings=("traffic_count", "sum"), crossings_2024=("traffic_count_2024", "sum"))
     mon["pct_change_vs_2024"] = pct(mon.crossings, mon.crossings_2024).round(1)
     save(mon, "q1_baseline_tunnels_vs_other_monthly")
+    save(cmp, "q7_daily_crossings_vs_2024")
 
     # monthly totals since 2019, where the 2024 average month = 100
     lv = g.assign(month=g.date.dt.to_period("M").dt.to_timestamp()).groupby(["month", "group"], as_index=False).traffic_count.sum()
@@ -232,9 +243,13 @@ def q4_subway():
         matched_days=("date", "count"), ridership=("ridership", "sum"), ridership_2024=("ridership_2024", "sum"))
     mon["pct_change_vs_2024"] = pct(mon.ridership, mon.ridership_2024).round(1)
     save(mon, "q4_subway_by_area_monthly")
+    save(cmp, "q7_daily_subway_vs_2024")
 
     st = daily.groupby(["date", "station_complex_id"], as_index=False).ridership.sum()
     cmp_s = compare_matched(st, ["station_complex_id"], "ridership", days)
+    sm = cmp_s.assign(month=cmp_s.date.dt.to_period("M").dt.to_timestamp()).groupby(
+        ["station_complex_id", "month"], as_index=False)[["ridership", "ridership_2024"]].sum()
+    save(sm, "q4_station_monthly")
     cmp_s["year"] = cmp_s.date.dt.year
     cmp_s = cmp_s[cmp_s.date.dt.month <= 9]
     s = cmp_s.groupby(["station_complex_id", "year"], as_index=False).agg(
